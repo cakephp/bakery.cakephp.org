@@ -36,7 +36,7 @@ disqus_shortname = None
 html_favicon = 'tinkerer.ico'
 
 # Pick another Tinkerer theme or use your own
-html_theme = "flat"
+html_theme = "cakephp"
 
 # Theme-specific options, see docs
 html_theme_options = { }
@@ -91,3 +91,8 @@ html_title = project
 html_use_index = False
 html_show_sourcelink = False
 html_add_permalinks = None
+
+from sphinx.highlighting import lexers
+from pygments.lexers.web import PhpLexer
+
+lexers['phpinline'] = PhpLexer(startinline=True)

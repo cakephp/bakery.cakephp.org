@@ -2,13 +2,13 @@ Auth Component of Cakephp Demystified Part-1
 ============================================
 
 how to setup basic authentication system.
-`Complete Toutorial`_ *In today's Internet era most of the web
+`Complete Toutorial`_ In today's Internet era most of the web
 developers tries to provide a log in/signup based feature for web
 clients in their web applications. Mostly this type of feature is
 needed only when you want to categories your users a very common
 example is Guest users and Registered Users. Guest users can access
 less content on web app while registered users enjoys more privileges.
-* In cakephp this attribute is implemented mostly with the Auth
+In cakephp this attribute is implemented mostly with the Auth
 component of this framework. Auth component is a very powerful, robust
 and can be customized as par the needs of web application. Auth
 component allows you to quickly set up secure areas in your app. In
@@ -190,7 +190,7 @@ submit it with data to create new user...
 
 `Jump to Auth Component of Cakephp Demystified Part-2`_
 =======================================================
-`Complete Toutorial....`_
+`Complete Toutorial`_
 
 .. _Complete Toutorial: http://www.crazylearner.com/auth-component-of-cakephp-demystified-part-1/
 .. _Jump to Auth Component of Cakephp Demystified Part-2: http://www.crazylearner.com/auth-component-of-cakephp-demystified-part-2/

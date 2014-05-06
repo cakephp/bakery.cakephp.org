@@ -23,8 +23,7 @@ How to Use
 Download or checkout
 ~~~~~~~~~~~~~~~~~~~~
 
-You can either download the ZIP file:`https://github.com/srs81
-/CakePHP-CustomFields/zipball/master`_
+You can either download the ZIP file:`https://github.com/srs81/CakePHP-CustomFields/zipball/master`_
 
 or checkout the code (leave the Password field blank)::
 

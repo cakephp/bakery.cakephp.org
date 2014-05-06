@@ -1,7 +1,5 @@
-Cake PHP Optimal Payment Component with ccPurchase, ccAuthorize,
-ccVerification, ccSettlement, ccStoredDataPurchase and
-ccStoredDataAuthorize
-=====================
+Cake PHP Optimal Payment Component with ccPurchase, ccAuthorize, ccVerification, ccSettlement, ccStoredDataPurchase and ccStoredDataAuthorize
+=============================================================================================================================================
 
 I have implemented because, I found the lack of proper PHP codes for
 Optimal Payment. Even though the implementation is too power full it
@@ -10,7 +8,7 @@ cake php 2.0 we have implemented optimal payment web services API for
 this Payment implementation. This truly power full as it have all
 facilities which PayPal and Authorize.net provides in a bit complex
 way are done here much easily.
-``_After few days days of testing in live of this the component, I
+After few days days of testing in live of this the component, I
 have decided to publish this component to open source to community. I
 have implemented because, I found the lack of proper PHP codes for O
 ptimal Payment . Even though the implementation is too power full it

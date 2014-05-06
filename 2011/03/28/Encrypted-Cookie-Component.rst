@@ -10,7 +10,7 @@ timestamp. When __unpacking() we can check to see if the user has
 tampered with the cookies expiration time and kill the cookie if they
 have. Update: SVN build 387 Fixed constructor and tidied up comments,
 please note that the use of __construct() relies upon PHP5, but this
-could easily be adapted for PHP4 if required.
+could easily be adapted for PHP4 if required::
 
     <?php
     /**

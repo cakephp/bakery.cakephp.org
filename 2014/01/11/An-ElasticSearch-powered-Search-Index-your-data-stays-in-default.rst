@@ -37,12 +37,12 @@ What you end up with is having you cake and eating it too.
 
 Now you can search by
 
-+ term: ` foo`
-+ multi-term: ` foobar`
-+ partials: ` fo*`
-+ partials in the front: ` *oo`
-+ phrases: ` "foobar"`
-+ fuzzy term: ` ~bars` *(prefix with ` ~`)*
++ term: `foo`
++ multi-term: `foobar`
++ partials: `fo*`
++ partials in the front: `*oo`
++ phrases: `"foobar"`
++ fuzzy term: `~bars` *(prefix with ` ~`)*
 + ... and more ... (suggestions?)
 
 *Note: it is working great, but we could use more ElasticSearch

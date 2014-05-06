@@ -15,18 +15,18 @@ For use this helper you should following this step:
 
 1) download `JQuery`_ & `JQuery UI`_
 
-2) create structure in your cakePHP webroot:
+2) create structure in your cakePHP webroot::
 
-|---webroot\
-| -----js\
-|---jquery\
-|------jquery.js
-|-------ui\
-|----"jquery ui files"
-|-----css\
-|---jquery\
-|---ui\
-|----Jquery ui themed
+    |---webroot\
+    | -----js\
+    |---jquery\
+    |------jquery.js
+    |-------ui\
+    |----"jquery ui files"
+    |-----css\
+    |---jquery\
+    |---ui\
+    |----Jquery ui themed
 
 3) download Jquery Helper as a attachment's file.
 
@@ -34,27 +34,39 @@ For use this helper you should following this step:
 
 ::
 
-<?php class UsersController extends AppController { var $name =
-'Users'; var $uses = array(); var $helpers=array('Jdialog'); function
-index() { } } ?>
+    <?php
+    class UsersController extends AppController {
+        var $name = 'Users';
+        var $uses = array();
+        var $helpers = array('Jdialog');
+
+        function index() { }
+    }
+    ?>
 
 5)create your view an add this script on it.
 
 ::
 
-<?php echo $this->Jdialog->loadScripts(); //Optional: you can defaine
-id for dialog box. $this->Jdialog->setId("dialog"); //set Title of
-you'r dialog. $this->Jdialog->setTitle(__("Title Of Box",true)); //add
-options for your dialog $this->Jdialog->addOption('autoOpen','true');
-$this->Jdialog->addOption('modal','true'); //Add Text which can be a
-pragraph. $this->Jdialog->addItem("This is the default dialog which is
-useful for displaying information."); //add Html From element
-$this->Jdialog->addItem($this->Form->input('name')); //Add Required
-buttons for you'r dialogs.
-$this->Jdialog->addButton(__("Confirm",true),'alert("milad")');
-//print your dialog html elments. echo $this->Jdialog->create();
-//print JQuery script which run and show you'r dialog box. echo
-$this->Jdialog->printScript(); ?>
+    <?php
+    echo $this->Jdialog->loadScripts();
+    //Optional: you can defaine id for dialog box.
+    $this->Jdialog->setId("dialog");
+    //set Title of you'r dialog.
+    $this->Jdialog->setTitle(__("Title Of Box",true));
+    //add options for your dialog
+    $this->Jdialog->addOption('autoOpen','true');
+    $this->Jdialog->addOption('modal','true');
+    //Add Text which can be a pragraph.
+    $this->Jdialog->addItem("This is the default dialog which is useful for displaying information.");
+    //add Html From element
+    $this->Jdialog->addItem($this->Form->input('name'));
+    //Add Required buttons for you'r dialogs.
+    $this->Jdialog->addButton(__("Confirm",true),'alert("milad")');
+    //print your dialog html elments. echo $this->Jdialog->create();
+    //print JQuery script which run and show you'r dialog box. echo
+    $this->Jdialog->printScript();
+    ?>
 
 
 Note that you can change themed of dialog box by modified *
@@ -65,13 +77,13 @@ this change.
 
 Download Attachment
 -------------------
-You can download demo of Jdialog hepler from `here`_
+You can download demo of Jdialog helper from `here`_
 
 
 contact me
 ----------
 
-I hope that * JdialodHelper * help you for escaping *javascript* and
+I hope that * JdialogHelper * help you for escaping *javascript* and
 writing clean and readable PHP script.I will happy if you can improve
 this helper and also find bugs of it ,if so , please annonce me.
 
@@ -87,7 +99,7 @@ Email Address: `milad.jafary@gmail.com`_
 
 
 .. _here: http://www.arsh.ir/app/webroot/web_blogs/cakephp/jquery_dialog_helper.zip
-.. _JQeury UI: http://jqueryui.com/download
+.. _JQuery UI: http://jqueryui.com/download
 .. _milad.jafary@gmail.com: mailto:milad.jafary@gmail.com
 .. _JQuery : http://code.jquery.com/jquery-1.4.4.min.js
 

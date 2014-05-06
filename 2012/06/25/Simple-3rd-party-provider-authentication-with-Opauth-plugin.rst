@@ -33,7 +33,7 @@ Opauth on CakePHP
 -----------------
 
 Opauth is made even easier to be implemented on CakePHP applications
-through `Opauth CakePHP plugin`_ (`download`_).
+through `Opauth CakePHP plugin`_
 
 Quick table of contents:
 
@@ -142,7 +142,9 @@ Issues & questions
 
 .. _and more: https://github.com/uzyn/opauth/wiki/List-of-strategies
 .. _strategies: https://github.com/uzyn/opauth/wiki/list-of-strategies
+.. _Opauth: http://opauth.org
 .. _Opauth.org: http://opauth.org
+.. _http://opauth.org: http://opauth.org
 .. _OmniAuth for Ruby: http://omniauth.org
 .. _Google Groups: https://groups.google.com/group/opauth
 .. _download this CakePHP app: http://opauth.org/file.php?name=Opauth-CakePHP-sample-app.zip

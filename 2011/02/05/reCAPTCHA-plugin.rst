@@ -46,14 +46,16 @@ For example::
 What does it do
 ---------------
 
-   This plugin adds validation rule to model class. *RecaptchaComponent*
-   ` functionbeforeValidate(&$model){
-   $model->validate['recaptcha_response_field']=array(
-   'checkRecaptcha'=>array(
-   'rule'=>array('checkRecaptcha','recaptcha_challenge_field'),
-   'message'=>'Youdidnotenterthewordscorrectly.Pleasetryagain.', ), ); }
-   `RecaptchaComponent adds ValidationBehavior to model class, so you
-   don't have to place any codes in model class.
+   This plugin adds validation rule to model class::
+
+       *RecaptchaComponent*
+       ` functionbeforeValidate(&$model){
+       $model->validate['recaptcha_response_field']=array(
+       'checkRecaptcha'=>array(
+       'rule'=>array('checkRecaptcha','recaptcha_challenge_field'),
+       'message'=>'Youdidnotenterthewordscorrectly.Pleasetryagain.', ), ); }
+       `RecaptchaComponent adds ValidationBehavior to model class, so you
+       don't have to place any codes in model class.
 
 
 .. _Google code: http://code.google.com/p/recaptcha/downloads/list?q=label:phplib-Latest

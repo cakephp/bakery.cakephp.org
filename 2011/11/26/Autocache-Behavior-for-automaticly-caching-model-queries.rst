@@ -3,10 +3,10 @@ Autocache Behavior for automaticly caching model queries
 
 AutocacheBehavior is a CakePHP 2x Behavior that makes query caching as
 easy as adding a 'cache'=>true condition to your find statement.
-**
+
 Catch the easier to use (and better) CakephpAutocachePlugin from
 Github here:-`https://github.com/ndejong/CakephpAutocachePlugin`_
-**
+
 You really just need two files, Model/Behavior/AutocacheBehavior.php
 and Model/Datasource/DummySource.php
 
@@ -60,15 +60,15 @@ A: Just like any other Behavior you can use the following approaches
 A: There are just three, they are:
 
 - default_cache << defines the default cache configuration name to use
-when a find query contains a 'cache' condition without an explicit
-cache configuration name. By default the name is 'default'
+  when a find query contains a 'cache' condition without an explicit
+  cache configuration name. By default the name is 'default'
 
 - check_cache << tells Autocache to check if the cache configuration
-name that is about to be used has actually been defined, this helps to
-prevent silly mistakes. By default this is set true
+  name that is about to be used has actually been defined, this helps to
+  prevent silly mistakes. By default this is set true
 
 - dummy_datasource << defines the dummy datastore name that needs to
-be defined in your database.php file. By default it's named 'dummy'
+  be defined in your database.php file. By default it's named 'dummy'
 
 **Q: What are the find query condition cache parameters available?**
 A: There are three in total, they are in the form::

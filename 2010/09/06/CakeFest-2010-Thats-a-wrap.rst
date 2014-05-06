@@ -45,35 +45,29 @@ Cake (`http://tipsycakechicago.com`_).
 
 Slides and Resources
 
-+ Re-imagining CakePHP (`Graham Weldon`_): `Slides`_, `Feedback`_
-+ Using and re-using CakePHP plugins (`Pierre Martin`_): `Slides`_
-+ How to use MongoDB with CakePHP (`Yasushi Ichikawa`_): `Slides`_
-+ CakePHP in higher education (`J. Erik Schaeffer`_): `Slides`_
-+ Plumbing with Cake: Integrating CakePHP and Drupal (Mark Tovey):
-  `Slides`_
-+ Designing CakePHP plugins for consuming APIs (`Neil Crookes`_):
-  `Slides`_, `Feedback`_
-+ Simplifying heavy client side web applications using CakePHP and
-  Adobe Flash Builder 4 (`Brandon Plasters`_): `Slides`_
-+ CakePHP Community: The whole is greater than the sum of its parts
-  (`Larry Masters`_)
-+ Win at life with unit testing (`Mark Story`_): `Slides`_
-+ Its easier to ask forgiveness than it is to get ACL permissions!
-  (`Erik Peterson`_)
-+ Developing an API (`Andrew Curioso`_): `Slides`_
-+ CakePHP at a massive scale, on a budget (`Andy Gale`_): `Slides`_
++ Re-imagining CakePHP (`Graham Weldon`_): `Slides <http://www.slideshare.net/predominant/reimaginging-cakephp>`__, `Feedback <http://joind.in/talk/view/1985>`__
++ Using and re-using CakePHP plugins (`Pierre Martin`_): `Slides <http://www.slideshare.net/real34/using-reusingplugins>`__
++ How to use MongoDB with CakePHP (`Yasushi Ichikawa`_): `Slides <http://www.slideshare.net/ichikaway/cakefest-ichikawa-upload>`__
++ CakePHP in higher education (`J. Erik Schaeffer`_): `Slides <http://www.slideshare.net/therealphpdiddy/cakefest-higher-education>`__
++ Plumbing with Cake: Integrating CakePHP and Drupal (Mark Tovey): `Slides <http://www.slideshare.net/mtovey/plumbing-w-cake>`__
++ Designing CakePHP plugins for consuming APIs (`Neil Crookes`_): `Slides <http://www.slideshare.net/neilcrookes/designing-cakephp-plugins-for-consuming-apis>`__, `Feedback <http://joind.in/talk/view/1984>`__
++ Simplifying heavy client side web applications using CakePHP and Adobe Flash Builder 4 (`Brandon Plasters`_): `Slides <http://www.slideshare.net/BrandonPlasters/cakefest-2010-flexflash-builder-with-cakephp>`__
++ CakePHP Community: The whole is greater than the sum of its parts (`Larry Masters`_)
++ Win at life with unit testing (`Mark Story`_): `Slides <http://mark-story.com/downloads/view/win-at-life-with-unit-testing>`__
++ Its easier to ask forgiveness than it is to get ACL permissions! (`Erik Peterson`_)
++ Developing an API (`Andrew Curioso`_): `Slides <http://www.slideshare.net/andrewcurioso/cakefest-2010-api-development>`__
++ CakePHP at a massive scale, on a budget (`Andy Gale`_): `Slides <http://www.slideshare.net/andygale/cake-php-at-a-massive-scale-on-a-budget>`__
 
 Lightning Talks
 
 + Lee Forkenbrock - CakePHP in the political space
-+ Walther Lalk - Overview of Infinitas: `Slides`_
++ Walther Lalk - Overview of Infinitas: `Slides <http://slidesha.re/dpVTmp>`_
 + Yusuke Ando - This is our Cake (Presented by Yasushi Ichikawa)
 + @sizuhiko - Using fixture at WebTestCase of CakePHP
 + Jose Gonzalez - MongoDB is Webscale
 + JosÃ© Lorenzo RodrÃ­guez - Micro dispatching and custom routing
 + Joel Brass - CakePHP in the cloud
-+ Camilo Martinez - OBlisk - The successful use of CakePHP with SQL
-  Server in enterprises: `Slides`_
++ Camilo Martinez - OBlisk - The successful use of CakePHP with SQL Server in enterprises: `Slides <http://www.slideshare.net/piedradigital/oblisk-cakephp-in-the-corporate-arena>`__
 + Jason McCreary - Cookie Troubles
 + Gabriel Preston - CakeFest 2010 Contacts
 
@@ -83,17 +77,12 @@ frequency of the CakeFest conferences.
 
 Thanks for attending! We'll see you at the next event!
 
-.. _Slides: http://www.slideshare.net/andrewcurioso/cakefest-2010-api-development
-.. _Slides: http://www.slideshare.net/andygale/cake-php-at-a-massive-scale-on-a-budget
-.. _Slides: http://www.slideshare.net/neilcrookes/designing-cakephp-plugins-for-consuming-apis
 .. _Larry Masters: http://cakedc.com/
-.. _Slides: http://www.slideshare.net/predominant/reimaginging-cakephp
+.. _CakeDC: http://cakedc.com/
 .. _Guestlist: http://guestlistapp.com/
 .. _Yasushi Ichikawa: http://cake.eizoku.com/blog
 .. _Traffic Travis: http://traffictravis.com/
 .. _GitHub: http://github.com/
-.. _Slides: http://www.slideshare.net/piedradigital/oblisk-cakephp-in-the-corporate-arena
-.. _Slides: http://www.slideshare.net/BrandonPlasters/cakefest-2010-flexflash-builder-with-cakephp
 .. _Affilorama: http://affilorama.com/
 .. _Erik Peterson: http://electricpineapple.net/
 .. _Andy Gale: http://andy-gale.com/
@@ -101,21 +90,13 @@ Thanks for attending! We'll see you at the next event!
 .. _J. Erik Schaeffer: http://phpdiddy.com/
 .. _Brandon Plasters: http://brandonplasters.com/
 .. _Andrew Curioso: http://andrewcurioso.com/
-.. _Slides: http://www.slideshare.net/mtovey/plumbing-w-cake
-.. _Slides: http://www.slideshare.net/ichikaway/cakefest-ichikawa-upload
-.. _Feedback: http://joind.in/talk/view/1984
 .. _O'Reilly Media: http://oreilly.com/
-.. _Slides: http://mark-story.com/downloads/view/win-at-life-with-unit-testing
 .. _WidgetPress: http://www.widgetpress.com/
 .. _Pierre Martin: http://www.pierre-martin.fr/
 .. _FluidLino Creative: http://fluidlino.com.au/
-.. _Feedback: http://joind.in/talk/view/1985
 .. _http://s972.photobucket.com/home/CakePHP/allalbums: http://s972.photobucket.com/home/CakePHP/allalbums
-.. _Slides: http://slidesha.re/dpVTmp
-.. _Slides: http://www.slideshare.net/real34/using-reusingplugins
 .. _Graham Weldon: http://grahamweldon.com/
 .. _ActiveState: http://activestate.com/
-.. _Slides: http://www.slideshare.net/therealphpdiddy/cakefest-higher-education
 .. _Neil Crookes: http://www.neilcrookes.com/
 .. _Microsoft: http://microsoft.com/
 .. _Mark Story: http://mark-story.com/

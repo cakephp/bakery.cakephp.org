@@ -18,15 +18,15 @@ working authentication system.
 
 Prerequisites
 ~~~~~~~~~~~~~
-First of all your PHP must have OpenID Library. You can download it
-from this `here`_. When you are done with downloading library then
-extract the folder named as Auth into your web application's `
-/app/vendors/` folder. Note : folder is ` /app/vendors/` not `
-/vendors/` which is in root of your web app besides your app folder.
+First of all your PHP must have OpenID Library. You can download it from this
+`here`_. When you are done with downloading library then extract the folder
+named as Auth into your web application's `/app/vendors/` folder. Note: folder
+is `/app/vendors/` not `/vendors/` which is in root of your web app besides
+your app folder.
 Second you must have OpenId plugin for Cakephp. To download this
 plugin follow this `link`_. Now similarly extract this download to
-your ` /app/plugins/` folder. After extracting you will have openid
-folder inside your ` /app/plugins/`.
+your `/app/plugins/` folder. After extracting you will have openid
+folder inside your `/app/plugins/`.
 
 Coding
 ~~~~~~

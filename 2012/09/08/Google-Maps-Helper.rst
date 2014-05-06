@@ -31,58 +31,77 @@ Print the map to your view ```phpGoogleMap->map(); ?> ```
 
 Map Options
 -----------
-Below are the options available to set to your map: * **id:** Map
-canvas id * **width:** Map width * **height:** Map height * **style:**
-Map canvas CSS style * **zoom:** Map zoom * **type:** Type of map -
-`ROADMAP`, `SATELLITE`, `HYBRID` or `TERRAIN` * **custom:** Any other
-map option not mentioned before and available for the map. For example
-`mapTypeControl: true`. See more map options at:
-https://developers.google.com/maps/documentation/javascript/controls *
-**localize:** Boolean to localize your position or not. Overrides
-'latitude' & 'longitude' and 'address' (Localize have priority versus
-Latitude & Longitude and Address) * **latitude:** Default latitude if
-the browser doesn't support localization or you don't want
-localization (Latitude & Langitude have priority versus Address) *
-**longitude:** Default longitude if the browser doesn't support
-localization or you don't want localization (Latitude & Langitude have
-priority versus Address) * **address:** Default address if the browser
-doesn't support localization or you don't want localization (Latitude
-& Langitude have priority versus Address) * **marker:** Boolean to put
-a marker in your position or not * **markerTitle:** Marker title (HTML
-title tag) * **markerIcon:** Default icon of the marker of your
-position * **markerShadow:** Default icon' shadow of the marker of
-your position * **infoWindow:** Boolean to show an information window
-when you click your position marker or not * **windowText:** Default
-text inside your position marker´s information window
-In order modify any of the default options shown above you need to
-create your map passing the array as follows: ```php<? // Override any
-of the following default options to customize your map $map_options =
-array( 'id' => 'map_canvas', 'width' => '800px', 'height' => '800px',
-'style' => '', 'zoom' => 7, 'type' => 'HYBRID', 'custom' => null,
-'localize' => true, 'latitude' => 40.69847032728747, 'longitude' =>
--1.9514422416687, 'address' => '1 Infinite Loop, Cupertino', 'marker'
-=> true, 'markerTitle' => 'This is my position', 'markerIcon' =>
-'http://google-maps-icons.googlecode.com/files/home.png',
-'markerShadow' => 'http://google-maps-icons.googlecode.com/files/shadow.png', 'infoWindow' => true,
-'windowText' => 'My Position' ); ?>
+Below are the options available to set to your map::
 
-<?= $this->GoogleMap->map($map_options); ?> ```
+    **id:** Map
+    canvas id * **width:** Map width * **height:** Map height * **style:**
+    Map canvas CSS style * **zoom:** Map zoom * **type:** Type of map -
+    `ROADMAP`, `SATELLITE`, `HYBRID` or `TERRAIN` * **custom:** Any other
+    map option not mentioned before and available for the map. For example
+    `mapTypeControl: true`. See more map options at:
+    https://developers.google.com/maps/documentation/javascript/controls *
+    **localize:** Boolean to localize your position or not. Overrides
+    'latitude' & 'longitude' and 'address' (Localize have priority versus
+    Latitude & Longitude and Address) * **latitude:** Default latitude if
+    the browser doesn't support localization or you don't want
+    localization (Latitude & Langitude have priority versus Address) *
+    **longitude:** Default longitude if the browser doesn't support
+    localization or you don't want localization (Latitude & Langitude have
+    priority versus Address) * **address:** Default address if the browser
+    doesn't support localization or you don't want localization (Latitude
+    & Langitude have priority versus Address) * **marker:** Boolean to put
+    a marker in your position or not * **markerTitle:** Marker title (HTML
+    title tag) * **markerIcon:** Default icon of the marker of your
+    position * **markerShadow:** Default icon' shadow of the marker of
+    your position * **infoWindow:** Boolean to show an information window
+    when you click your position marker or not * **windowText:** Default
+    text inside your position marker´s information window
+
+In order modify any of the default options shown above you need to
+create your map passing the array as follows::
+
+    <?php
+    // Override any of the following default options to customize your map
+    $map_options = array(
+        'id' => 'map_canvas',
+        'width' => '800px',
+        'height' => '800px',
+        'style' => '',
+        'zoom' => 7,
+        'type' => 'HYBRID',
+        'custom' => null,
+        'localize' => true,
+        'latitude' => 40.69847032728747,
+        'longitude' => -1.9514422416687,
+        'address' => '1 Infinite Loop, Cupertino',
+        'marker' => true,
+        'markerTitle' => 'This is my position',
+        'markerIcon' => 'http://google-maps-icons.googlecode.com/files/home.png',
+        'markerShadow' => 'http://google-maps-icons.googlecode.com/files/shadow.png',
+        'infoWindow' => true,
+        'windowText' => 'My Position'
+    );
+    ?>
+
+    <?= $this->GoogleMap->map($map_options); ?>
 
 
 Adding Markers
 --------------
-To add a marker use: ```phpGoogleMap->addMarker($map_id, $marker_id,
-$position); ?> ``` Where: * **$map_id** is the map canvas id
-('map_canvas' by default) * **$marker_id** is the unique identifiyer
-for that marker * **$position** could be a simple string with the
-address or an array with latitude and longitude.
-Example with address (using geolocation) ```php<?=
-$this->GoogleMap->addMarker("map_canvas", 1, "1 Infinite Loop,
-Cupertino, California"); ?> ```
+To add a marker use::
 
-Example with latitude and longitude ```php<?=
-$this->GoogleMap->addMarker("map_canvas", 1, array('latitude' =>
-40.69847, 'longitude' => -73.9514)); ?> ```
+    GoogleMap->addMarker($map_id, $marker_id,
+    $position); ?> ``` Where: * **$map_id** is the map canvas id
+    ('map_canvas' by default) * **$marker_id** is the unique identifiyer
+    for that marker * **$position** could be a simple string with the
+    address or an array with latitude and longitude.
+    Example with address (using geolocation) ```php<?=
+    $this->GoogleMap->addMarker("map_canvas", 1, "1 Infinite Loop,
+    Cupertino, California");
+
+Example with latitude and longitude::
+
+    <?= $this->GoogleMap->addMarker("map_canvas", 1, array('latitude' => 40.69847, 'longitude' => -73.9514)); ?>
 
 
 Marker Options
@@ -93,20 +112,19 @@ window * **windowText:** Text to show inside the popup info window *
 **markerTitle:** Marker title (HTML title tag) * **markerIcon:**
 Marker icon * **markerShadow:** Marker icon shadow
 In order modify any of the default options shown above you need to
-create your marker passing the array as follows: ```php
+create your marker passing the array as follows::
 
-<? // Override any of the following default options to customize your
-marker $marker_options = array( 'showWindow' => true, 'windowText' =>
-'Marker', 'markerTitle' => 'Title', 'markerIcon' =>
-'`http://labs.google.com/ridefinder/images/mm_20_purple.png',`_
-'markerShadow' =>
-'`http://labs.google.com/ridefinder/images/mm_20_purpleshadow.png',`_
-); ?>
+    <? // Override any of the following default options to customize your
+    marker $marker_options = array( 'showWindow' => true, 'windowText' =>
+    'Marker', 'markerTitle' => 'Title', 'markerIcon' =>
+    '`http://labs.google.com/ridefinder/images/mm_20_purple.png',`_
+    'markerShadow' =>
+    '`http://labs.google.com/ridefinder/images/mm_20_purpleshadow.png',`_
+    ); ?>
 
-<?= $this->GoogleMap->addMarker("map_canvas", 1, "1 Infinite Loop,
-Cupertino, California", $marker_options); ?>
+    <?= $this->GoogleMap->addMarker("map_canvas", 1, "1 Infinite Loop,
+    Cupertino, California", $marker_options); ?>
 
-```
 
 
 .. author:: marcferna

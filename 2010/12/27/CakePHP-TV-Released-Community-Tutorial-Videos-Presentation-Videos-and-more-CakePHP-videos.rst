@@ -1,6 +1,5 @@
-CakePHP TV Released! Community Tutorial Videos, Presentation Videos,
-and more CakePHP videos
-=======================
+CakePHP TV Released! Community Tutorial Videos, Presentation Videos, and more CakePHP videos
+============================================================================================
 
 I would like to welcome everyone to CakePHP TV, a community driven
 video site dedicated to all videos CakePHP.

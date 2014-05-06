@@ -1,6 +1,5 @@
-CakePHP rewrites on Windows server (.NET Framework 4.0 Extensionless
-url's fix)
-==========
+CakePHP rewrites on Windows server (.NET Framework 4.0 Extensionless url's fix)
+===============================================================================
 
 For a recent project of mine I had to deploy cakephp on a windows
 server which had .NET Framework 4.0 running. Due to this framework all

@@ -1,6 +1,5 @@
-Troubleshooting CakePHP installation issues related to Apache 2
-mod_rewrite - for beginners.
-============================
+Troubleshooting CakePHP installation issues related to Apache 2 mod_rewrite - for beginners
+===========================================================================================
 
 If you are able to get your default CakePHP index page to come up
 after installing, but without the Cake logo in the top left and

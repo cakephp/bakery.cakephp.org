@@ -1,6 +1,5 @@
-Extending HttpSocket for use with Amazon among other things for 1.3.x
-and 2.x
-=======
+Extending HttpSocket for use with Amazon among other things for 1.3.x and 2.x
+=============================================================================
 
 When trying to use the Amazon API, I read a lot about the Amazon rule
 of only being allowed to make 1 request a second or your web site

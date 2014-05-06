@@ -1,6 +1,5 @@
-Javascript/CSS/LESS module loader + dependency calculator plugin
-("ResourcesController")
-=======================
+Javascript/CSS/LESS module loader + dependency calculator plugin("ResourcesController")
+=======================================================================================
 
 ResourcesController is a module loader for resource files (e.g.
 javascript, LESS, CSS). It can handle both inter- and intra- package

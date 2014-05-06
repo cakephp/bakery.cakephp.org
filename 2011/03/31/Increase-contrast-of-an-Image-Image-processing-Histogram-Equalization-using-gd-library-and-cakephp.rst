@@ -1,6 +1,5 @@
-Increase contrast of an Image (Image processing, Histogram
-Equalization using gd library and cakephp)
-==========================================
+Increase contrast of an Image (Image processing, Histogram Equalization using gd library and cakephp)
+=====================================================================================================
 
 !!! important !!! Php is an intrepreted language, one amongst many
 reasons to avoid using it for image processing. I personally prefer

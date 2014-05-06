@@ -1,6 +1,5 @@
-Override HtmlHelper for Acl component. Hide links where users don't
-have privileges.
-================
+Override HtmlHelper for Acl component. Hide links where users don't have privileges
+===================================================================================
 
 Here is a way to hide links where users are not authorized. Rights are
 cached in session.

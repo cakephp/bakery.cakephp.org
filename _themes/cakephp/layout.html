@@ -7,20 +7,14 @@
 <link href="{{ pathto('_static/favicon.ico', 1) }}" type="image/x-icon" rel="icon" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-{% for lang in languages %}
-	{%- if lang != language -%}
-		{%- if has_lang(lang, pagename) -%}
-		<link rel="alternate" hreflang="{{ lang }}" href="{{ lang_link(lang, pagename) }}" />
-		{%- endif -%}
-	{%- endif -%}
-{% endfor %}
-
 <link rel="search" type="application/opensearchdescription+xml" title="CakePHP Book 2.x Search" href="{{ pathto('_static/opensearchdescription-book-2-x.xml', 1) }}">
-<script type="text/javascript">
-window.lang = "{{ language }}";
-</script>
+
 {% endblock %}
 
+{%- block css %}
+	<link rel="stylesheet" href="{{ pathto('_static/default.css', 1) }}" type="text/css">
+	<link rel="stylesheet" href="{{ pathto('_static/pygments.css', 1) }}" type="text/css" />
+{%- endblock %}
 {%- set script_files = script_files + ["_static/app.js", "_static/modernizr.foundation.js", "_static/foundation.js"] -%}
 
 {# Use the header block to insert the CSF navbar #}
@@ -88,10 +82,6 @@ window.lang = "{{ language }}";
 		</li>
 	</ul>
 </div>
-{% endblock -%}
-
-
-{%- block relbar1 %}
 <div class="masthead">
 	<div class="header-backing"></div>
 	<div class="searchbar row">
@@ -107,46 +97,6 @@ window.lang = "{{ language }}";
 	<div class="related row">
 		<div class="columns three root-link">
 			<a href="{{ pathto(master_doc) }}">{{ shorttitle|e }}</a>
-		</div>
-		<div class="columns nine">
-			<ul class="inline breadcrumb">
-			{%- for parent in parents %}
-			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-				<a href="{{ parent.link|e }}" {% if loop.last %}{{ accesskey("U") }}{% endif %} itemprop="url"><span itemprop="title">{{ parent.title }}</span></a>
-			</li>
-			{%- endfor %}
-			</ul>
-			<div class="versions dropdown">
-				<a href="#">2.x Book</a>
-				<ul>
-					<li><a href="http://book.cakephp.org/3.0/en">3.0 Book</a></li>
-					<li><a href="http://book.cakephp.org/1.3/{{ language }}/">1.3 Book</a></li>
-					<li><a href="http://book.cakephp.org/1.2/{{ language }}/">1.2 Book</a></li>
-					<li><a href="http://book.cakephp.org/1.1/en">1.1 Book</a></li>
-				</ul>
-			</div>
-
-			<div class="languages dropdown">
-				{% for lang in languages %}
-					{%- if lang == language -%}
-						<a href="#">{{ lang }}</a>
-					{%- endif -%}
-				{% endfor %}
-
-				<ul>
-				{% for lang in languages %}
-					<li>
-						{%- if lang == language -%}
-						{# Do nothing, we print the active one above #}
-						{%- elif has_lang(lang, pagename) -%}
-						<a href="{{ lang_link(lang, pagename) }}">{{ lang }}</a>
-						{%- else -%}
-						<span class="disabled">{{ lang }}</span>
-						{%- endif -%}
-					</li>
-				{% endfor %}
-				</ul>
-			</div>
 		</div>
 	</div>
 </div>
@@ -188,10 +138,6 @@ window.lang = "{{ language }}";
 </div>
 {# End of div[id=wrapper] #}
 {% endblock -%}
-
-{%- block relbar2 %}
-{# Empty so links aren't duplicated #}
-{% endblock %}
 
 {%- block footer %}
 {# Push the footer down to the bottom of the page #}

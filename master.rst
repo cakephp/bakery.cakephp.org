@@ -5,6 +5,16 @@ Sitemap
    :maxdepth: 1
 
 
+   2014/07/28/CakePHP-3-0-0-alpha2-Released
+   2014/07/21/CakePHP-2-5-3-and-1-3-20-released
+   2014/06/25/CakePHP-3-0-0-alpha1-released
+   2014/06/15/CakePHP-2-5-2-and-1-3-19-released
+   2014/05/18/CakePHP-2-4-10-and-2-5-1-released
+   2014/05/13/CakePHP-2-5-0-Released
+   2014/05/06/CakePHP-3-0-0-dev3-released
+   2014/04/30/CakePHP-2-4-9-released
+   2014/04/29/CakePHP-1-3-18-and-2-4-8-released
+   2014/04/27/CakePHP-2-5-0-RC2-Released
    2014/04/11/CakePHP-2-5-0-RC1-Released
    2014/04/05/CakePHP-2-4-7-Released
    2014/03/26/CakePHP-2-5-0-beta-Released

@@ -96,5 +96,5 @@ CakePHP relies on your contributions to continue.
 
 .. author:: markstory
 .. categories:: news
-.. tags:: ,News
+.. tags:: release,CakePHP,news,News
 

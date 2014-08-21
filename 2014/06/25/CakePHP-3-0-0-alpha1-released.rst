@@ -139,5 +139,5 @@ You can `download`_ the release or just use `composer create-project
 
 .. author:: lorenzo
 .. categories:: news
-.. tags:: ,News
+.. tags:: release,CakePHP,news,News
 

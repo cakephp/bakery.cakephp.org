@@ -141,5 +141,5 @@ marked stable!
 
 .. author:: lorenzo
 .. categories:: news
-.. tags:: ,News
+.. tags:: release,CakePHP,news,News
 

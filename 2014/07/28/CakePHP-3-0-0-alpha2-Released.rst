@@ -98,5 +98,5 @@ found and fixed early is a huge help.
 
 .. author:: markstory
 .. categories:: news
-.. tags:: ,News
+.. tags:: release,CakePHP,news,News
 

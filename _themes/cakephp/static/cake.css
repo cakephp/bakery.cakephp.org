@@ -10,7 +10,7 @@
  * Fully installable fonts can be purchased at http://www.fontspring.com
  *
  * The fonts included in this stylesheet are subject to the End User License you purchased
- * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * from Fontspring. The fonts are protected under domestic and international trademark and
  * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
  * distributing this font software.
  *
@@ -84,12 +84,12 @@ a:hover {
 .button {
 	font-family: MuseoSlab500, Helvetica, Arial;
 	font-weight: normal;
-	
+
 	-webkit-text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.30);
 	-moz-text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.30);
 	-o-text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.30);
 	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.30);
-	
+
 	border: 1px solid #a61e2b;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
@@ -227,7 +227,7 @@ dl.docutils {
 	-webkit-transform: rotate(-2.8deg);
 	-moz-transform: rotate(-2.8deg);
 	transform: rotate(-2.8deg);
-	
+
 	-webkit-transform-origin: top center;
 	-moz-transform-origin: top center;
 	transform-origin: top center;
@@ -256,7 +256,7 @@ dl.docutils {
 	-webkit-box-shadow: 4px 4px 0 #003D4C;
 	-moz-box-shadow: 4px 4px 0 #003D4C;
 	box-shadow: 4px 4px 0 #003D4C;
-	
+
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	border-radius: 0;

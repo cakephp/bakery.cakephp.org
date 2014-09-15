@@ -1,25 +1,24 @@
-Tinkerer based bakery
-=====================
+# Tinkerer based bakery
 
-Requirements
-------------
+## Requirements
 
 http://tinkerer.me/
 
-Installation
-------------
+## Installation
 
 To install the requirements for tinkerer, use virtualenv and pip:
 
-```
+```bash
 cd /path/to/bakery
 virtualenv env
 . env/bin/activate
 pip install -r requirements.txt
 ```
 
-Usage
------
+## Usage
 
 Clone this repo and run the following command in the project folder:
-`tinker --build`
+
+```bash
+tinker --build
+```

@@ -140,5 +140,5 @@ Links
 
 .. author:: lorenzo
 .. categories:: news
-.. tags:: release,News
+.. tags:: release,CakePHP,News
 

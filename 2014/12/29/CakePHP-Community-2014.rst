@@ -11,7 +11,7 @@ growing around the world.
 If anything were to have marked 2014 for `CakePHP`_ we'd probably all
 agree it was `3.0`_, the latest major version of the framework in it's
 10 year lifetime. After a series of `successful`_ `developer`_
-`previews`_ and `various`_ `beta`_ `releases`_, we're now in position
+`previews`_ and `several`_ `beta`_ `releases`_, we're now in position
 to freeze the API inline for a final stable version, just after
 community review of the release candidates.
 
@@ -44,7 +44,7 @@ The community effect
 
 On the social side of things we now have over 15,000 likes on
 `Facebook`_ as well as some 12,000 followers on `Twitter`_. There were
-also `various`_ `book`_ `releases`_ this year, accompanied by the
+also `various`_ `book`_ `released`_ this year, accompanied by the
 launch of both the official `podcast`_ and `certification`_ platform
 by the `Cake Software Foundation`_.
 
@@ -63,7 +63,7 @@ A conference to remember
 
 On the topic of events, `CakeFest`_ 2014, the annual CakePHP
 conference, was held this year in Madrid, Spain. The event, covering 4
-days of workshops and conference, left us with `many`_ `memorable`_
+days of workshops and conference, left us with `lots of`_ `memorable`_
 `moments`_. It also had some `really`_ `amazing`_ `reviews`_ as well
 as `some`_ `awesome`_ `feedback`_ `from`_ `the`_ `community`_.
 
@@ -120,7 +120,7 @@ gratitude, so all we can say is... Thank You.
 .. _inline: http://squizlabs.github.io/PHP_CodeSniffer/analysis/cakephp/cakephp/
 .. _France: http://www.meetup.com/CakePHP-Toulouse
 .. _podcasts: http://threedevsandamaybe.com/delving-into-cakephp-with-james-watts/
-.. _many: https://www.facebook.com/CakePHP/photos/a.10153144085348135.1073741832.339964833134/10153144098853135/?type=3&theater
+.. _lots of: https://www.facebook.com/CakePHP/photos/a.10153144085348135.1073741832.339964833134/10153144098853135/?type=3&theater
 .. _2.5: http://bakery.cakephp.org/articles/markstory/2014/05/13/cakephp_2_5_0_released
 .. _community: https://twitter.com/rdohms/status/503647444560015360
 .. _developer dedication: http://qph.is.quoracdn.net/main-qimg-c4ca6c4de70cfa904d02eb16984093a5
@@ -128,7 +128,7 @@ gratitude, so all we can say is... Thank You.
 .. _interviews: http://webgeplapper.de/01-cakephp/
 .. _from: https://twitter.com/LuMAXW3B/status/503718195979907072
 .. _JetBrains: http://jetbrains.com
-.. _releases: http://josediazgonzalez.com/cakephp-book
+.. _released: http://josediazgonzalez.com/cakephp-book
 .. _some: https://twitter.com/grmpyprogrammer/status/503690626714841089
 .. _releases: http://bakery.cakephp.org/articles/markstory/2014/11/17/cakephp_3_0_0-beta3_released
 .. _Ahmedabad: http://www.meetup.com/Ahmedabad-CakePHP-Meetup/
@@ -174,7 +174,7 @@ gratitude, so all we can say is... Thank You.
 .. _previews: http://bakery.cakephp.org/articles/lorenzo/2014/05/06/cakephp_3_0_0-dev3_released
 .. _feedback: https://twitter.com/PhpNut/status/504899190787674112
 .. _blog: https://alecho.com/getting-ready-for-cakephp-3/
-.. _various: http://bakery.cakephp.org/articles/markstory/2014/08/23/cakephp_3_0_0-beta1_released
+.. _several: http://bakery.cakephp.org/articles/markstory/2014/08/23/cakephp_3_0_0-beta1_released
 .. _of: http://josediazgonzalez.com/2014/12/01/cakephp-advent-calendar-2014/
 .. _O'Reilly: http://oreilly.com
 .. _personal: http://www.berrygoudswaard.nl/my-first-steps-in-contributing-to-cakephp

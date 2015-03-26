@@ -141,8 +141,8 @@ tables or entities:
     
     `
 
-You can read more about them here `http://book.cakephp.org/3.0/en
-/core-libraries/form.html`_
+You can read more about them here
+`http://book.cakephp.org/3.0/en/core-libraries/form.html`_
 
 
 Adopted PSR-2

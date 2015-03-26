@@ -13,7 +13,7 @@ are:
 + Console applications will not output colours if there is no TTY.
 + Files are not overwritten by `Folder::copy()` when the SKIP flag is
   used.
-+ `Hash::insert()` and `Hash::get()` now handle `0`as the first path
++ `Hash::insert()` and `Hash::get()` now handle `0` as the first path
   element.
 + Improved API documentation.
 + Fixed a situation where `Hash::remove()` would remove data

@@ -227,12 +227,12 @@ what we found interesting:
 
 Download the release
 ~~~~~~~~~~~~~~~~~~~~
-You can grab the packaged release here: `https://github.com/cakephp/ca
-kephp/releases/download/3.0.0-beta2/cakephp-3-0-0-beta2.zip`_
+You can grab the packaged release here:
+`cakephp-3-0-0-beta2.zip`_
 
 .. _Imagine: https://github.com/burzum/cakephp-imagine-plugin/tree/3.0
 .. _Utility: https://github.com/cakephp/utility
-.. _https://github.com/cakephp/cakephp/releases/download/3.0.0-beta2/cakephp-3-0-0-beta2.zip: https://github.com/cakephp/cakephp/releases/download/3.0.0-beta2/cakephp-3-0-0-beta2.zip
+.. _cakephp-3-0-0-beta2.zip: https://github.com/cakephp/cakephp/releases/download/3.0.0-beta2/cakephp-3-0-0-beta2.zip
 .. _TinyAuth: https://github.com/dereuromark/cakephp-tinyauth
 .. _TwigView: https://github.com/WyriHaximus/TwigView
 .. _Whoops: https://github.com/gourmet/whoops

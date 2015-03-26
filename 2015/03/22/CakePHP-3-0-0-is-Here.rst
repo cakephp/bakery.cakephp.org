@@ -28,9 +28,9 @@ The largest and most exciting change in CakePHP 3.0, is the new ORM.
 While the Model layer in CakePHP has served the community very well
 for the past 8 years, we felt there was a big opportunity to learn
 from the tools other frameworks provide and create a flexible and
-powerful ORM for CakePHP. We are very proud of the results. The `ORM
-migration guide`_ gives an overview of the new ORM, and how it differs
-from the old one.
+powerful ORM for CakePHP. We are very proud of the results. The
+`ORM migration guide`_ gives an overview of the new ORM, and how it
+differs from the old one.
 
 Some of the key features of the new ORM are:
 
@@ -124,10 +124,8 @@ composer you can use:
 
 ::
 
-     `
-    $phpcomposer.pharcreate-projectcakephp/app
-    
-    `
+    $php composer.phar create-project cakephp/app
+
 
 This will generate a new application, so you can start experimenting
 with CakePHP 3.0.
@@ -136,9 +134,9 @@ with CakePHP 3.0.
 Learn More With the Documentation
 =================================
 
-Once you have an application started, you can `read the quickstart
-guide`_ or `migration guide`_ to learn more about all the changes and
-new abilities in CakePHP 3.0.
+Once you have an application started, you can read
+`the quickstart guide`_ or `migration guide`_ to learn more about all
+the changes and new abilities in CakePHP 3.0.
 
 
 Community Plugins
@@ -147,9 +145,10 @@ Community Plugins
 Even though CakePHP 3.0 is young, it already counts on a big community
 behind it. A big list of plugins has been created for this new version
 and some of the favorite plugins that are used for version 2 have
-already been upgraded. You can check the `list of CakePHP 3 community
-plugins`_. To get an overview of what is available and what still
-needs to be upgraded to the new version.
+already been upgraded.
+You can check the `list of CakePHP 3 community plugins`_. To get an
+overview of what is available and what still needs to be upgraded to
+the new version.
 
 This new release of CakePHP has been a few years in the making and
 we're very thankful for all the help we've received. From
@@ -157,8 +156,8 @@ documentation edits, to pull requests and bug reports, we've been
 impressed with the level of community involvement starting from before
 the first development preview.
 
-Download a `packaged release`_ or get started with `the quickstart
-guide`_.
+Download a `packaged release`_ or get started with
+`the quickstart guide`_.
 
 
 .. _bake: https://github.com/cakephp/bake
@@ -170,7 +169,6 @@ guide`_.
 .. _eager loading strategies: http://book.cakephp.org/3.0/en/orm/associations.html#hasmany-associations
 .. _Custom data types: http://book.cakephp.org/3.0/en/orm/database-basics.html#adding-custom-types
 .. _Read more about View Cells: http://book.cakephp.org/3.0/en/views/cells.html
-.. _migrations: https://github.com/cakephp/migrations
 .. _Feature-rich translation messages: http://book.cakephp.org/3.0/en/core-libraries/internationalization-and-localization.html#using-variables-in-translation-messages
 .. _migrations: https://github.com/cakephp/migrations/
 .. _phinx: https://phinx.org/

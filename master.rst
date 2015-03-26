@@ -35,7 +35,6 @@ Sitemap
    2014/04/11/CakePHP-2-5-0-RC1-Released
    2014/04/05/CakePHP-2-4-7-Released
    2014/03/26/CakePHP-2-5-0-beta-Released
-   2014/03/12/Jquery-Validation-Helper
    2014/03/12/CakePHP-3-0-0-dev-preview-2-released
    2014/03/02/CakePHP-2-4-6-Released
    2014/02/19/Scaffold-on-Bootstrap-3

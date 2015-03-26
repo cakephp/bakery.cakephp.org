@@ -51,5 +51,5 @@ You can download `packaged releases on github`_
 
 .. author:: markstory
 .. categories:: news
-.. tags:: ,News
+.. tags:: release,CakePHP,news,News
 

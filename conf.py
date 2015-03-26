@@ -52,7 +52,7 @@ rss_generate_full_posts = False
 posts_per_page = 10
 
 # Character use to replace non-alphanumeric characters in slug
-slug_word_separator = '-'
+slug_word_separator = '_'
 
 # **************************************************************
 # Edit lines below to further customize Sphinx build

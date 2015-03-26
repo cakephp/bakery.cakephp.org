@@ -58,5 +58,5 @@ Links
 
 .. author:: markstory
 .. categories:: news
-.. tags:: ,News
+.. tags:: release,CakePHP,news,News
 

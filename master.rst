@@ -5,6 +5,23 @@ Sitemap
    :maxdepth: 1
 
 
+   2015/03/22/CakePHP-3-0-0-is-Here
+   2015/03/16/CakePHP-2-6-3-Released
+   2015/02/19/CakePHP-2-6-2-Released
+   2015/02/09/CakePHP-3-0-0-RC2-Released
+   2015/01/16/CakePHP-2-6-1-Released
+   2015/01/02/CakePHP-3-0-0-RC1-Released
+   2014/12/29/CakePHP-Community-2014
+   2014/12/23/CakePHP-2-6-0-Released
+   2014/12/23/CakePHP-2-5-8-released
+   2014/12/16/CakePHP-3-to-fully-adopt-PSR-2
+   2014/12/09/CakePHP-2-5-7-released
+   2014/11/17/CakePHP-3-0-0-beta3-released
+   2014/11/08/CakePHP-2-5-6-and-2-6-0-RC-released
+   2014/10/05/CakePHP-2-5-5-and-2-6-0-beta-released
+   2014/09/28/CakePHP-3-0-0-beta2-released
+   2014/09/02/CakePHP-2-5-4-released
+   2014/08/23/CakePHP-3-0-0-beta1-released
    2014/07/28/CakePHP-3-0-0-alpha2-Released
    2014/07/21/CakePHP-2-5-3-and-1-3-20-released
    2014/06/25/CakePHP-3-0-0-alpha1-released

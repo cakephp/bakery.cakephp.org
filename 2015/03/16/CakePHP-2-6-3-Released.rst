@@ -10,7 +10,7 @@ branch. A short list of the changes you can expect is:
 
 + The postgres driver can now convert text fields into integer fields
   through SchemaShell.
-+ Files with .. in their name can now be downloaded through
++ Files with `..` in their name can now be downloaded through
   CakeResponse.
 + LC_TIME messages are ignored when extracting messages via the
   I18nShell. Previously, incompatible po files were extracted for

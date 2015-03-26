@@ -38,8 +38,8 @@ New Feature Highlight
   a column. This key allows you to specify which column the new one
   should be added after.
 + `Model::save()` had the `atomic` option back-ported from 3.0.
-+ `CakeRequest::param()` can now read values using :ref: `hash-path-
-  syntax` like `data()`.
++ `CakeRequest::param()` can now read values using :ref: `hash-path-syntax`
+  like `data()`.
 + `CakeRequest:setInput()` was added.
 + `HttpSocket::head()` was added.
 + You can now use the `protocol` option to override the specific

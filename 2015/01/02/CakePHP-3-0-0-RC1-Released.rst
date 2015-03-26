@@ -36,7 +36,7 @@ In previous versions you would do
 
 But now, user-facing validation is performed when creating the entity
 and not when saving it. This requires you to pass the validation
-option to either ` newEntity` or ` patchEntity` methods:
+option to either `newEntity` or `patchEntity` methods:
 
 ::
 
@@ -71,8 +71,8 @@ arity or foreignKey constraints:
 Application rules can also be used to enforce business logic
 constraints such as state machines, and workflow states.
 
-The ` validate()` and ` validateMany()` methods have been removed from
-the ` Table` class.
+The `validate()` and `validateMany()` methods have been removed from
+the `Table` class.
 
 You can read more about the application rules system in the `rules
 checker documentation`_.
@@ -90,19 +90,19 @@ plugin`_
 New Bake Plugin
 ~~~~~~~~~~~~~~~
 
-The ` cakebake` command is now a plugin. This will help us evolve its
+The `cake bake` command is now a plugin. This will help us evolve its
 code at a higher pace and introduce new code generators and
 configuration options.
 
-One important change concerning bake is that it now uses CakePHP's `
-View` system to render the templates. This means that it is possible
-to attach listeners to the ` Bake.beforeRender` and `
-Bake.afterRender` events to modify bake's output.
+One important change concerning bake is that it now uses CakePHP's
+`View` system to render the templates. This means that it is possible
+to attach listeners to the `Bake.beforeRender` and
+`Bake.afterRender` events to modify bake's output.
 
 Additionally, the templating syntax has changed to make them more
 readable. If you had your own bake templates in the past, they will
 need to be updated to use the new syntax which uses erb style tags. To
-get the ` Bake` plugin run:
+get the `Bake` plugin run:
 
 ::
 
@@ -111,15 +111,15 @@ get the ` Bake` plugin run:
     
     `
 
-And load it in your application ` bootstrap_cli.php` file:
+And load it in your application `bootstrap_cli.php` file:
 
-` Plugin::load('Bake');`
+`Plugin::load('Bake');`
 
 
 Table-less Forms
 ~~~~~~~~~~~~~~~~
 
-Due to popular request, there is now a ` Form` object that is capable
+Due to popular request, there is now a `Form` object that is capable
 of defining a schema and validating form data without the use of ORM
 tables or entities:
 
@@ -156,12 +156,12 @@ reasoning in `this blog post`_
 ORM Related Improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-+ Added ` Query::firstOrFail()`
-+ Allowing to change the joinType in ` TranslateBehavior`
-+ Implemented ` Table::addAssociations()` to add multiple associations
++ Added `Query::firstOrFail()`
++ Allowing to change the joinType in `TranslateBehavior`
++ Implemented `Table::addAssociations()` to add multiple associations
   at once
-+ Support for ` ISNOT` operator
-+ It is now possible to call ` matching()` and ` contain()` for the
++ Support for `IS NOT` operator
++ It is now possible to call `matching()` and `contain()` for the
   same association alias.
 
 We'd like to thank again everyone who has contributed thoughts, code,

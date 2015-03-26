@@ -100,7 +100,7 @@ New Logger interface
 ~~~~~~~~~~~~~~~~~~~~
 
 CakePHP has adopted the PSR-3 recommendation for loggers. Now all log
-engines implement the ` Prs\Log\LoggerInterface` interface. This means
+engines implement the ` Prs\Log\LoggerInterface`interface. This means
 that the entire logging system can easily be replaced by other
 implementations, such as the popular `Monolog library`_.
 
@@ -108,10 +108,10 @@ implementations, such as the popular `Monolog library`_.
 Integration Tests and Data Integrity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Testing controllers has always been problematic. While `
-ControllerTestCase` solved some of the problems, we identified this
+Testing controllers has always been problematic. While
+`ControllerTestCase` solved some of the problems, we identified this
 class as a source of problems and confusion among our users. We
-decided to implement the new ` IntegrationTestCase` class as a way
+decided to implement the new `IntegrationTestCase` class as a way
 totest all aspects of an HTTP request in your application without much
 mocking being involved. This should help you improve code quality and
 ensure that your application and routes are working as expected.
@@ -160,27 +160,26 @@ pull request directly in the `main github repository`_.
 ORM Related Improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-+ Added ` Query::autoFields()`. This controls whether the fields for
++ Added `Query::autoFields()`. This controls whether the fields for
   the main table are automatically selected.
 + Ability to pass finder options to custom finders from the paginator
-  by using the ` finderOptions` key.
+  by using the `finderOptions` key.
 + It is now possible to get the default column values out of the
-  database using the ` Schema\Table::defaultValue()`.
-+ Added ` accessibleFields` as an option key for ` newEntity()` and `
-  patchEntity()`. This will allow finer grain control for mass-
+  database using the `Schema\Table::defaultValue()`.
++ Added `accessibleFields` as an option key for `newEntity()` and
+  `patchEntity()`. This will allow finer grain control for mass-
   assignment.
 + TranslateBehavior automatically finds translations based on the
   current application locale.
-+ ` Table::findOrCreate()` was added.
-+ Ability to override the join type for an association using `
-  contain()`
++ `Table::findOrCreate()` was added.
++ Ability to override the join type for an association using `contain()`
 
 
 Plugin Shells
 ~~~~~~~~~~~~~
 
 Shells in plugins can now be called without prefixing with the plugin
-name. For example for a ` do_stuff` shell living in the ` Tools`
+name. For example for a `do_stuff` shell living in the `Tools`
 plugin, you can execute:
 
 ::
@@ -195,12 +194,12 @@ plugin, you can execute:
 Other improvements
 ~~~~~~~~~~~~~~~~~~
 
-+ New ` uploadedFile` validation rule.
++ New `uploadedFile` validation rule.
 + Made String::uuid() 3 times faster.
 + Better exception reporting on fatal errors.
 + Inflector was optimized for better performance.
 + Several optimizations in the Hash class.
-+ Added ` Collection::buffered()` to transform non-rewindable
++ Added `Collection::buffered()` to transform non-rewindable
   iterators in rewindable ones.
 
 

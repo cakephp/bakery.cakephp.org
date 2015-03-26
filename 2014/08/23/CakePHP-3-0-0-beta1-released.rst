@@ -21,19 +21,19 @@ will break compatibility with existing applications.
 I18n has been re-implemented
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Built on top of ` ext/intl` and ` Aura/Intl` the new localization
+Built on top of `ext/intl` and `Aura/Intl` the new localization
 subsystem offers more powerful replacement syntax, and retains a
 backwards compatible sprintf() based formatter. Consult the `new i18n
-documentation`_ for more information. The ` L10n` class has been
+documentation`_ for more information. The `L10n` class has been
 removed.
 
 
 NumberHelper uses intl now
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The ` Number` library and ` NumberHelper` now use intl internally for
+The `Number` library and `NumberHelper` now use intl internally for
 formatting currencies and values. This makes NumberHelper completely
-aware of the application's current locale. The ` addFormat()` method
+aware of the application's current locale. The `addFormat()` method
 has been removed.
 
 
@@ -43,36 +43,36 @@ Directory layout changes
 More changes to the directory layout of a CakePHP application have
 been made:
 
-+ ` src/Config` is now ` /config`.
-+ ` src/bootstrap.php` is now ` /config/bootstrap.php`.
++ `src/Config` is now `/config`.
++ `src/bootstrap.php` is now `/config/bootstrap.php`.
 + Log files are now in a top level directory by default. Having them
   mixed in with other actually temporary data sometimes resulted in
   people accidentally deleting their log files.
-+ Bake templates should now be put in ` src/Template/Bake`.
++ Bake templates should now be put in `src/Template/Bake`.
 
 
 
 Vendor Prefixed Plugins Have Changed
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Plugins that use vendor prefixes e.g: ( ` AcmeCorp\Users`) are no
-longer renamed. Instead of using ` Users.User`, you must now use `
-AcmeCorp/Users.User`. Additionally the vendor prefix will be used as
+Plugins that use vendor prefixes e.g: (`AcmeCorp\Users`) are no
+longer renamed. Instead of using `Users.User`, you must now use
+`AcmeCorp/Users.User`. Additionally the vendor prefix will be used as
 folder name in the plugins folder, so the plugin will be installed in
-` plugins/AcmeCorp/Users` folder.
+`plugins/AcmeCorp/Users` folder.
 
 
 Methods removed
 ~~~~~~~~~~~~~~~
 
-+ Many of the infrequently used methods defined in ` basics.php` have
-  been removed. Functions like ` config()` no longer exist.
++ Many of the infrequently used methods defined in `basics.php` have
+  been removed. Functions like `config()` no longer exist.
 + Validation::ssn() has been removed.
-+ Support for ` CASE` statements has been added to the ORM.
++ Support for `CASE` statements has been added to the ORM.
 + Helper::webroot(), Helper::assetUrl(), Helper::assetTimestamp() have
   been moved to a UrlHelper. This allows you to easily replace the URL
-  building features in each of your helpers. You will need to add ` Url`
-  to the ` $helpers` list in your helpers.
+  building features in each of your helpers. You will need to add `Url`
+  to the `$helpers` list in your helpers.
 + App::objects() has been removed.
 
 We hope to minimize the impact of breaking changes in future beta and
@@ -88,7 +88,7 @@ New features in 3.0.0-beta1
   default.
 + Query objects can be json serialized now.
 + Shell::param() was added.
-+ Added a new ` collection()` global shorthand function to convert
++ Added a new `collection()` global shorthand function to convert
   arrays to collections.
 + Many API documentation blocks and book sections have been improved.
 + Multiple optimizations for performance.

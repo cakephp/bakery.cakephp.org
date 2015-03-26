@@ -30,18 +30,18 @@ Changes in 2.6.0-RC
 In addition to the changes in 2.5.6, 2.6.0-RC contains the following
 changes:
 
-+ ` Hash::merge()` and ` Hash::expand()` are now more performant.
-+ ` TranslateBehavior` properly handles the atomic flag.
++ `Hash::merge()` and `Hash::expand()` are now more performant.
++ `TranslateBehavior` properly handles the atomic flag.
 + Redis Engine now includes a default prefix based on your application
   directory.
 + MySQL schema reflection includes comment support now.
-+ ` CakeRoute::__set_state` was added. This helps make it easier to
-  cache routes with ` var_export`.
-+ ` CakeResponse::file()` accepts ranges even when the download option
-  is set to ` false`.
-+ ` AuthComponent` now has a ` userFields` option which allows you to
++ `CakeRoute::__set_state` was added. This helps make it easier to
+  cache routes with `var_export`.
++ `CakeResponse::file()` accepts ranges even when the download option
+  is set to `false`.
++ `AuthComponent` now has a `userFields` option which allows you to
   limit which fields are loaded into the session.
-+ ` PaginatorHelper::meta()` has been added. This method helps you
++ `PaginatorHelper::meta()` has been added. This method helps you
   easily generate meta tags containing pagination information.
 
 If there are no blocking issues found in the RC release we expect to

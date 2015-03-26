@@ -185,5 +185,4 @@ gratitude, so all we can say is... Thank You.
 
 .. author:: jameswatts
 .. categories:: news
-.. tags:: ,News
-
+.. tags:: release,CakePHP,News

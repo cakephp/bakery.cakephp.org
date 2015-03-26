@@ -178,5 +178,4 @@ issues or rough edges in the code by opening tickets in Github.
 
 .. author:: lorenzo
 .. categories:: news
-.. tags:: ,News
-
+.. tags:: release,CakePHP,News

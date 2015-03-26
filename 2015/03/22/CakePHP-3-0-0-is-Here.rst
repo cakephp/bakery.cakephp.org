@@ -185,5 +185,4 @@ guide`_.
 
 .. author:: lorenzo
 .. categories:: news
-.. tags:: ,News
-
+.. tags:: release,CakePHP,News

@@ -47,5 +47,4 @@ github`_.
 
 .. author:: markstory
 .. categories:: news
-.. tags:: ,News
-
+.. tags:: release,CakePHP,News

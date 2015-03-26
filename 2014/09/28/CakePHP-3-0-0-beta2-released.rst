@@ -256,5 +256,4 @@ kephp/releases/download/3.0.0-beta2/cakephp-3-0-0-beta2.zip`_
 
 .. author:: lorenzo
 .. categories:: news
-.. tags:: ,News
-
+.. tags:: release,CakePHP,News

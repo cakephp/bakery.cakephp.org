@@ -69,5 +69,4 @@ where necessary.
 
 .. author:: jameswatts
 .. categories:: news
-.. tags:: ,News
-
+.. tags:: release,CakePHP,News

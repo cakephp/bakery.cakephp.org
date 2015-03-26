@@ -1,0 +1,32 @@
+{%- extends "single_page.html" -%}
+
+{%- macro cake_list(post_tags) -%}
+    {%- if post_tags -%}
+        {% for link, tag in post_tags -%}
+            <span class="cat-links">
+                <a href="{{ pathto('tags/' + link + '.html', 1) }}" rel="tag">{{ tag }}</a>
+            </span>
+        {% endfor -%}
+    {%- endif -%}
+{%- endmacro -%}
+
+{%- block body -%}
+    <div class="archive">
+        <h1>{{ title }}</h1>
+
+        {%- for year in years|sort(reverse=True) -%}
+            <h2 class="year">{{ year }}</h2>
+            {%- for metadata in years[year] -%}
+                <div class="type-post">
+                    <h2 class="entry-title">
+                        <a href="{{ pathto(metadata.link) }}" rel="bookmark">{{ metadata.title }}</a>
+                    </h2>
+                    <h2 class="post-time">{{ metadata.formatted_date_short }}</h2>
+                    <div class="post-author">Posted by {{ metadata.author }}</div>
+                    {{ comment_count(metadata.comment_count) }}
+                    <div class="category-list">Tagged {{ cake_list(metadata.filing["tags"]) }}</div>
+                </div>
+            {%- endfor -%}
+        {%- endfor -%}
+    </div>
+{%- endblock -%}

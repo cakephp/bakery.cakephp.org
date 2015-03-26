@@ -145,7 +145,7 @@ body {
 	border: none;
 	-webkit-appearance: textfield;
 	vertical-align: top;
-	
+
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
@@ -190,7 +190,7 @@ body {
 
 /* tablet and smaller */
 @media only screen and (max-width: 767px) {
-	.masthead .button { 
+	.masthead .button {
 		display: inline !important;
 	}
 
@@ -207,7 +207,7 @@ body {
 		margin-left: 10%;
 		margin-top: 9px;
 	}
-	
+
 	#searchform {
 		margin: 10px 10px 0;
 		clear: none;
@@ -233,7 +233,7 @@ body {
 		height: 36px;
 		margin-right: 2.5%;
 	}
-	
+
 	/* modal navigation */
 	#nav-modal ul {
 		list-style: none;
@@ -550,13 +550,85 @@ dt tt {
 }
 
 /* -- Sidebar -- */
+.archive .year ul {
+	list-style: none;
+	margin-left: 0;
+}
+.archive .year ul h2,
+.archive .year ul .timestamp {
+	display: inline;
+}
+.archive .category-list .cat-links a {
+	color: #fff;
+	background-color: #c0c0c0;
+	display: inline-block;
+	font-size: 12px;
+	line-height: 1;
+	margin-right: 3px;
+	margin-bottom: 3px;
+	padding: 5px 8px 6px;
+	text-decoration: none;
+	text-transform: none;
+}
+.archive .category-list .cat-links a:hover {
+	background-color: #c82334;
+	-o-transition: .5s;
+	-ms-transition: .5s;
+	-moz-transition: .5s;
+	-webkit-transition: .5s;
+}
+.archive .year {
+	display: inline-block;
+	float: left;
+	font-weight: normal;
+	margin-bottom: .3em;
+	padding-top: .75em;
+	position: relative;
+}
+.archive .type-post {
+	border: 0;
+	margin-bottom: 0;
+	margin-left: 5em;
+	overflow: hidden;
+	padding: 1.7em 0 0 10em;
+	position: relative;
+}
+.archive .type-post h2 {
+	margin-bottom: .3em;
+}
+.archive .type-post h2 a {
+	display: inline-block;
+	font-weight: normal;
+	text-decoration: none;
+}
+.archive .type-post .post-time {
+	color: #181c18;
+	font-family: MuseoSlab500, Helvetica, Arial;
+	font-size: 2.8rem;
+	left: .5em;
+	position: absolute;
+	text-align: right;
+	text-transform: uppercase;
+	top: 0.8em;
+}
+.archive .type-post .post-author {
+	font-family: MuseoSlab500, Helvetica, Arial;
+	font-size: 1.6rem;
+	margin-bottom: 0.5em;
+}
+
+/* -- Sidebar -- */
 .page-contents > ul,
 #sidebar-navigation > ul {
 	margin-left: 0;
 }
+.sidebar ol,
+.sidebar ul {
+	margin-left: 0px;
+}
 .sidebar li {
 	list-style: none;
-	font-size: 14px;
+	font-size: 13px;
 	font-family: MuseoSlab500, Helvetica, Arial;
 	margin: 3px 0;
 	line-height: 21px;
@@ -606,7 +678,7 @@ dt tt {
 .contribute,
 .related-pages a {
 	font-size: 14px;
-	font-family: MuseoSlab500, Helvetica, Arial;	
+	font-family: MuseoSlab500, Helvetica, Arial;
 }
 .copyright {
 	font-size: 12px;

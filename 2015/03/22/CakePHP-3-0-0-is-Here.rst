@@ -56,7 +56,7 @@ routing performance will not degrade even with large numbers of
 routes.
 
 With the usage of routing scopes, routes can also be parsed and
-dispatched even faster thatn in previous releases of CakePHP. You can
+dispatched even faster than in previous releases of CakePHP. You can
 learn more about the new Router in the `Routing section of the
 manual`_.
 

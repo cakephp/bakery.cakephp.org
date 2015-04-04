@@ -87,6 +87,7 @@ DebugKit has been rebuilt for 3.0 and offers more features than ever
 before with less overhead to your application. DebugKit is installed
 by default in the new application skeleton.
 
+|DebugKit History Panel|
 
 Composer Usage
 --------------
@@ -180,6 +181,7 @@ Download a `packaged release`_ or get started with
 .. _packaged release: https://github.com/cakephp/cakephp/releases/3.0.0
 .. _Routing section of the manual: http://book.cakephp.org/3.0/en/development/routing.html
 .. _A locale-aware Number Library: http://book.cakephp.org/3.0/en/views/helpers/number.html
+.. |DebugKit History Panel| image:: http://book.cakephp.org/3.0/en/_images/history-panel-use.gif
 
 .. author:: lorenzo
 .. categories:: news

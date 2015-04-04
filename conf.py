@@ -16,7 +16,7 @@ description = 'Latest news and articles about CakePHP'
 author = 'CakePHP'
 
 # Change this to your copyright string
-copyright = '2014, ' + author
+copyright = '2015, ' + author
 
 # Change this to your blog root URL (required for RSS feed)
 website = 'http://bakery.cakephp.org'
@@ -27,9 +27,6 @@ website = 'http://bakery.cakephp.org'
 
 # Add your Disqus shortname to enable comments powered by Disqus
 disqus_shortname = None
-
-# Change your favicon (new favicon goes in _static directory)
-html_favicon = 'tinkerer.ico'
 
 # Pick another Tinkerer theme or use your own
 html_theme = "cakephp"
@@ -45,7 +42,7 @@ rss_service = None
 rss_generate_full_posts = False
 
 # Number of blog posts per page
-posts_per_page = 10
+posts_per_page = 1
 
 # Character use to replace non-alphanumeric characters in slug
 slug_word_separator = '_'

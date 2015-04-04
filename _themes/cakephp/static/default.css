@@ -708,3 +708,20 @@ dt tt {
 	}
 }
 
+.document h1 a{
+	color:#C92434
+}
+
+.document .timestamp {
+	color:#ababab;
+}
+
+.widget h1 {
+	font-size:1.5em;
+	color:#BD8A5D;
+}
+
+.archive_link a {
+	display: block;
+	text-align: right;
+}

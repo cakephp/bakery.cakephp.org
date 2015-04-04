@@ -111,7 +111,7 @@
 <div class="content row">
 	<div class="document columns nine push-three">
 		<div class="body">
-			{%- if pagename != 'search' -%}
+			{%- if pagename != 'search' and pagename != 'index' -%}
             <a class="button pale improve" href="https://github.com/cakephp/bakery/edit/master/{{ pagename }}.rst" target="_blank">Improve this article</a>
 			{%- endif -%}
 			{% block body %} {% endblock %}

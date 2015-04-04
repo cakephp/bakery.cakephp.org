@@ -1,8 +1,6 @@
 <?php
 
-$host = $_SERVER['SERVER_NAME'];
-$port = $_SERVER['SERVER_PORT'] == 80 ? '' : ':' . $_SERVER['SERVER_PORT'];
-$url = $_SERVER['PATH_INFO'];
+$url = isset($_SERVER['PATH_INFO']) ? $_SERVER['PATH_INFO'] : $_SERVER['REQUEST_URI'];
 $root = __DIR__ . '/';
 
 $byebye = function () {
@@ -11,7 +9,7 @@ $byebye = function () {
 };
 
 if (!preg_match('#/articles/[A-Za-z0-9_\-]+/([0-9]{4})/([0-9]{2})/([0-9]{2})/(.*)#', $url, $matches)) {
-	$bybye();
+	$byebye();
 }
 
 $year = $matches[1];
@@ -42,4 +40,4 @@ foreach ($files as $file) {
 	}
 }
 
-$bybye();
+$byebye();

@@ -4,7 +4,8 @@ $url = isset($_SERVER['PATH_INFO']) ? $_SERVER['PATH_INFO'] : $_SERVER['REQUEST_
 $root = __DIR__ . '/';
 
 $byebye = function () {
-	header('HTTP/1.1 404 Not Found');
+	header('HTTP/1.1 301 Moved Permanently');
+	header('Location:/');
 	exit;
 };
 

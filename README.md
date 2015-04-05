@@ -22,3 +22,10 @@ Clone this repo and run the following command in the project folder:
 ```bash
 tinker --build
 ```
+
+## Adding an article
+
+1. Create a directory for the month and day you are publishing on if
+   one does not already exist.
+2. Create the file for your post including metadata at the bottom.
+3. Update `master.rst` to include your new post.

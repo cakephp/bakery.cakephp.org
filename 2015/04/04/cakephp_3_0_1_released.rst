@@ -1,3 +1,6 @@
+CakePHP 3.0.1 Released
+======================
+
 The CakePHP core team is proud to announce the immediate availability of CakePHP
 3.0.1. 3.0.1 is a bugfix release for the 3.0 release branch. A short list of the
 changes you can expect is:

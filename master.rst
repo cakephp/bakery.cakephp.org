@@ -4,8 +4,8 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2015/04/04/cakephp_3_0_1_released
    2015/03/31/cakefest_2015_new_york_usa
-
    2015/03/22/CakePHP-3-0-0-is-Here
    2015/03/16/CakePHP-2-6-3-Released
    2015/02/19/CakePHP-2-6-2-Released

@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2015/04/26/queries_log_for_your_ajax_requests
    2015/04/18/cakephp_2_6_4_and_3_0_2_released
    2015/04/04/cakephp_3_0_1_released
    2015/03/31/cakefest_2015_new_york_usa

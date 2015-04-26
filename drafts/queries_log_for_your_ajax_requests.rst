@@ -1,18 +1,18 @@
-Queries log for your Ajax requests
+Queries log for your AJAX requests
 ==================================
 
 Have you ever needed to look inside what's going on with your AJAX requests?
 
-With the rise of javascript-heavy applications it is becoming a need to have
+With the rise of javascript-heavy applications it is becoming necessary to have
 more powerful tools for inspecting and debugging asynchronous requests without
-reloading the browser or checking special browser plugins.
+reloading the browser or using special browser plugins.
 
-With DebugKit latest release (3.1), inspecting XHR requests is now possible.
-By default, all AJAX requests are logged into the `History` panel in your DebugKit Toolbar:
+With DebugKit 3.1, inspecting XHR requests is now possible.  By default, all
+AJAX requests are logged into the ``History`` panel in your DebugKit Toolbar:
 
 |DebugKit Ajax Panel|
 
-By clicking on any of the logged XHR requests you will be able to see the panel
+By clicking on any of the logged XHR requests you will be able to see toolbar
 information for that specific request, including the SQL log, view variables,
 logged messages and timers.
 

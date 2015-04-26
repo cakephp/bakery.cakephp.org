@@ -7,9 +7,8 @@ With the rise of javascript-heavy applications it is becoming a need to have
 more powerful tools for inspecting and debugging asynchronous requests without
 reloading the browser or checking special browser plugins.
 
-The new capabilities in `DebugKit`_ 3.1 make inspecting
-XHR request a breeze. By default, all AJAX requests are logged into the
-`History` panel in your DebugKit Toolbar:
+With DebugKit latest release (3.1), inspecting XHR requests is now possible.
+By default, all AJAX requests are logged into the `History` panel in your DebugKit Toolbar:
 
 |DebugKit Ajax Panel|
 

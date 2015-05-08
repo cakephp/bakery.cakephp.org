@@ -33,7 +33,7 @@ In addition to the security issues the following defects have been fixed:
   used to extract only the original values of changed attributes.
 * Query string parameters are now correctly supported in
   ``IntegrationTestCase``.
-* ``Collection::isEmpty()`` and ``Cake\\ORM\\Query::isEmpty()`` was added.
+* ``Collection::isEmpty()`` and ``Cake\ORM\Query::isEmpty()`` was added.
 * Forms can now be created without the action attribute.
 * Accessing entity data is now more efficient. Entities will
   cache the result of custom accessors, and invalidate the cache when

@@ -2,7 +2,7 @@ CakePHP 3.0.4 Released
 ======================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
-3.0.4. This is maintenance releases that contains security fixes and bugfixes.
+3.0.4. This is a maintenance release that contains security fixes and bugfixes.
 
 Security Fixes
 --------------

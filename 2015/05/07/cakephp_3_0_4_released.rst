@@ -39,6 +39,9 @@ In addition to the security issues the following defects have been fixed:
   cache the result of custom accessors, and invalidate the cache when
   properties are changed or removed.
 
+For a deeper insight of what changed, have a look at the
+`release notes <http://cakephp.org/changelogs/3.0.4>`_.
+
 CakeFest 2015 Tickets
 ---------------------
 

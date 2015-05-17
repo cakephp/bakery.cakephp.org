@@ -40,7 +40,7 @@ Improvements
 ------------
 
 As part of the 3.0 patch releases we are experimenting with implementing smaller
-new new features. We want try delivering new features incrementally. In 3.0.5
+net new features. We want try delivering new features incrementally. In 3.0.5
 the following new features were added.
 
 * ``Validator::addNested()`` and ``Validator::addNestedMany()`` were added.

@@ -10,14 +10,14 @@ A short list of the changes you can expect in 2.6.5 is:
 * Support for the 429 HTTP status code has been added.
 * JsonView now supports a ``_jsonOptions`` view variable to configure the
   serialization options used in ``json_encode()``.
-* XmlView now supports a ``_xmpOptions`` view variable to configure the
+* XmlView now supports a ``_xmlOptions`` view variable to configure the
   serialization options used when generating XML.
 * Code coverage in the web runner for non-app files works again.
 * SchemaShell no longer mangles file names ending in 'p' or 'h'.
-* Multi word irregular nouns are now inflected properly by Inflector. Previously
-  words would contain letters transposed between the words.
+* Multi-word irregular nouns are now inflected properly by Inflector. Previously
+  words would contain letters transposed between the first and second word.
 * All HTML5 attributes that can be minimized have been added to HtmlHelper.
-* Identifier quoting of table aliases in subqueries, used to create virtual
+* Identifier quoting of table aliases in sub-queries, used to create virtual
   fields has been corrected.
 
 I'd like to thank the people who have contributed to these releases. Your

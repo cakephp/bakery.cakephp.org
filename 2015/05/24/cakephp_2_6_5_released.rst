@@ -28,4 +28,3 @@ keeps CakePHP alive and ticking.  Download a `packaged release on github
 .. author:: markstory
 .. categories:: release, news
 .. tags:: CakePHP, release
-.. comments::

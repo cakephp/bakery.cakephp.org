@@ -26,6 +26,6 @@ keeps CakePHP alive and ticking.  Download a `packaged release on github
 <https://github.com/cakephp/cakephp/releases>`_.
 
 .. author:: markstory
-.. categories:: news
+.. categories:: release, news
 .. tags:: CakePHP, release
 .. comments::

@@ -38,5 +38,5 @@ github`_.
 .. _changelog on cakephp.org: http://cakephp.org/changelogs/2.6.1
 
 .. author:: markstory
-.. categories:: news
+.. categories:: release,news
 .. tags:: release,CakePHP,News

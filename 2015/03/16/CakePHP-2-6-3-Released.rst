@@ -46,5 +46,5 @@ github`_.
 .. _tickets now: http://cakefest.org/tickets
 
 .. author:: markstory
-.. categories:: news
+.. categories:: release, news
 .. tags:: release,CakePHP,News

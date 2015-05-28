@@ -92,5 +92,5 @@ release`_.
 .. _packaged release: https://github.com/cakephp/cakephp/releases/3.0.0-RC2
 
 .. author:: markstory
-.. categories:: news
+.. categories:: release, news
 .. tags:: release,CakePHP,News

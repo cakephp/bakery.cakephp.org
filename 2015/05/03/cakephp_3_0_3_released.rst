@@ -32,6 +32,6 @@ Download a `packaged release on github
 <https://github.com/cakephp/cakephp/releases>`_.
 
 .. author:: lorenzo
-.. categories:: news
+.. categories:: release, news
 .. tags:: release
 .. comments::

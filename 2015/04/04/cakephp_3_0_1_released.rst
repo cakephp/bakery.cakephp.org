@@ -49,6 +49,6 @@ patches/pull requests are a big part of what keeps CakePHP alive and ticking.
 Download a `packaged release on github <https://github.com/cakephp/cakephp/releases/3.0.1>`_.
 
 .. author:: markstory
-.. categories:: news
+.. categories:: release, news
 .. tags:: CakePHP, release
 .. comments::

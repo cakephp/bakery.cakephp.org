@@ -177,5 +177,5 @@ issues or rough edges in the code by opening tickets in Github.
 .. _rules checker documentation: http://book.cakephp.org/3.0/en/orm/saving-data.html#applying-application-rules
 
 .. author:: lorenzo
-.. categories:: news
+.. categories:: release,news
 .. tags:: release,CakePHP,News

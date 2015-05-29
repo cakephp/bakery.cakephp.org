@@ -16,7 +16,7 @@ RequestHandlerComponent upgrade, or disable parsing XML payloads. To disable XML
 payload parsing you can do the following::
 
     // In a controller's beforeFilter
-    $this->RequestHandler->addInputType('xml', function() { return []; });
+    $this->RequestHandler->addInputType('xml', array(0 => function() { return array(); }));
 
 The above code will replace the built-in XML parsing with a no-op function. We'd
 like to thank Takeshi Terada for notifying us of this security issue using our

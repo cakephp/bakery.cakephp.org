@@ -53,6 +53,9 @@ Other Improvements
   CakeEmail();`` will now use the 'default' config set.
 - ``ControllerTestCase::testAction()`` now supports an array as URL.
 
+If there are no major issues reported in the next 3-4 weeks, a stable release of
+2.7.0 will be released.
+
 As always, a huge thanks to all the community members that helped make this
 release happen by reporting issues, writing documentation and sending pull requests.
 

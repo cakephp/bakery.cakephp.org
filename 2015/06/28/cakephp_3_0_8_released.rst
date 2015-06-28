@@ -33,6 +33,9 @@ You can expect the following changes in 3.0.8. See the `changelog
 * When updating belongsToMany links, association conditions are used. This fixes
   issues with polymorphic joint tables.
 * Pagination with SQLServer 2008 now works better.
+* AuthComponent no longer causes infinite redirects when an ajax request fails
+  and ``/`` requires authentication. This was a regression in 3.0.7.
+
 
 Improvements
 ------------

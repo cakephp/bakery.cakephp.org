@@ -8,6 +8,11 @@ The last 2.6 release will be 2.6.9, which will be released later this week.
 2.7.0 should be a drop in replacement for your existing 2.5 or 2.6 libraries.
 In 2.7 the following new features are available.
 
+Requirements
+------------
+As of CakePHP 2.7 the PHP version requirement for 2.x series has been updated to
+PHP 5.3.0.
+
 Deprecations
 ------------
 

@@ -3,7 +3,7 @@ CakePHP 3.0.10 Released
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 3.0.10. This is a maintenance release for the 3.0 branch that fixes a couple
-important regressions introduced in 3.0.10
+important regressions introduced in 3.0.9.
 
 Bugfixes
 --------

@@ -1,5 +1,5 @@
 CakePHP 2.6.10 Released
-======================
+=======================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 2.6.10. This release fixes a regression introduced in 2.6.9.

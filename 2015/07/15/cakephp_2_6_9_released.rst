@@ -20,3 +20,7 @@ release happen by reporting issues and sending pull requests.
 
 Download a `packaged release on github
 <https://github.com/cakephp/cakephp/releases>`_.
+
+.. author:: markstory
+.. categories:: release, news
+.. tags:: CakePHP, release

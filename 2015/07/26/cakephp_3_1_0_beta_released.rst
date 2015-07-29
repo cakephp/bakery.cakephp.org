@@ -51,6 +51,45 @@ helps keep your code DRYer and keeps email configuration noise out of other
 areas in your application. See the `Mailer Documentation for more information
 <http://book.cakephp.org/3.0/en/core-libraries/email.html#creating-reusable-emails>`_.
 
+Additional Template Variables to Templates
+-------------------------------------------
+
+You can now add additional template placeholders in your application templates,
+and then populate those placeholders when generating inputs::
+
+    // Add a template with the help placeholder.
+    $this->Form->templates([
+        'inputContainer' => '<div class="input {{type}}{{required}}">
+            {{content}} <span class="help">{{help}}</span></div>'
+    ]);
+
+    // Generate an input and populate the help variable
+    echo $this->Form->input('password', [
+        'templateVars' => ['help' => 'At least 8 characters long.']
+    ]);
+
+Shell Helpers
+-------------
+
+Shell Helpers let you easily package up complex output generation code. Shell
+Helpers can be accessed and used from any shell or task::
+
+    // Output some data as a table.
+    $this->helper('table')->output($data);
+
+    // Get a helper from a plugin.
+    $this->helper('Plugin.HelperName')->output($data);
+
+You can also get instances of helpers and call any public methods on them::
+
+    // Get and use the Progress Helper.
+    $progress = $this->helper('Progress');
+    $progress->increment(10);
+    $progress->draw();
+
+CakePHP provides a Progress and Table helper that you can use to make your CLI
+tools look better.
+
 Important Changes From 3.0
 --------------------------
 
@@ -88,6 +127,8 @@ Other Enhancements
   to serialize all view variables instead of explicitly specifying them.
 - ``Time::fromNow()`` has been added. This method makes it easier to calculate
   differences from 'now'.
+- ``Time::i18nFormat()`` now supports non-gregorian calendars when formatting
+  dates.
 
 Deprecations
 ------------

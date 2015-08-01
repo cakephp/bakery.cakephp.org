@@ -93,7 +93,7 @@ tools look better.
 Important Changes From 3.0
 --------------------------
 
-While non of the following changes modified method signatures, the behavior of
+While non of the following changes modified method signatures, the behaviour of
 specific methods is slightly different than in the past:
 
 - ``FlashComponent`` now stacks Flash messages when set with the ``set()``

@@ -100,12 +100,12 @@ specific methods is slightly different than in the past:
   or ``__call()`` method. This means that the structure in the Session for
   stored Flash messages has changed.
 - New config ``storage`` has been added. It contains the storage class name that
-  ``AuthComponent`` uses to store user record. By default ``SessionStorage`` is used.
-  If using a stateless authenticator you should configure ``AuthComponent`` to
-  use ``MemoryStorage`` instead.
+  ``AuthComponent`` uses to store user record. By default ``SessionStorage`` is
+  used.  If using a stateless authenticator you should configure
+  ``AuthComponent`` to use ``MemoryStorage`` instead.
 - ``RequestHandlerComponent`` now switches the layout and template based on
-  the parsed extension or ``Accept-Type`` header in the ``beforeRender()`` callback
-  instead of ``startup()``.
+  the parsed extension or ``Accept-Type`` header in the ``beforeRender()``
+  callback instead of ``startup()``.
 - The default mime type used when sending requests has changed in Http\Client.
   Previously ``multipart/form-data`` would always be used. In 3.1,
   ``multipart/form-data`` is only used when file uploads are present. When there
@@ -116,8 +116,8 @@ Other Enhancements
 ------------------
 
 - The default route class has been changed to ``DashedRoute`` in the
-  ``cakephp/app`` repo. Your current code base is not affected by this, but it is
-  recommended to use this route class from now on.
+  ``cakephp/app`` repo. Your current code base is not affected by this, but it
+  is recommended to use this route class from now on.
 - The ``breakpoint()`` helper function has been added. This function provides
   a snippet of code that can be put into ``eval()`` to trigger an interactive
   console.
@@ -141,7 +141,9 @@ replaced with better solutions. Deprecated features will not be removed until
   ``$this->request->session()`` directly.
 
 Unless there are major issues with the 3.1.0-beta release, we will have
-a release candidate and stable release packaged in the 4-5 weeks.
+a release candidate and stable release packaged in the 4-5 weeks. The
+documentation for 3.1.0 is now available in the `book
+<http://book.cakephp.org/3.0/en>`_ and the `API <http://api.cakephp.org/3.1>`_.
 
 As always, a huge thanks to all the community members that helped make this
 release happen by reporting issues and sending pull requests.

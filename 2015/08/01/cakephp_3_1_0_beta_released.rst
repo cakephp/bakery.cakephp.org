@@ -103,6 +103,9 @@ specific methods is slightly different than in the past:
   ``AuthComponent`` uses to store user record. By default ``SessionStorage`` is
   used.  If using a stateless authenticator you should configure
   ``AuthComponent`` to use ``MemoryStorage`` instead.
+- You can now also configure ``AuthComponent`` to do the auth check before controller's
+  ``beforeFilter()`` callback is run using the ``checkAuthIn`` config. This is
+  particularly useful when using stateless authenticators.
 - ``RequestHandlerComponent`` now switches the layout and template based on
   the parsed extension or ``Accept-Type`` header in the ``beforeRender()``
   callback instead of ``startup()``.

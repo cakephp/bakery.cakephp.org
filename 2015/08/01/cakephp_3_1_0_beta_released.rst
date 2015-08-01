@@ -51,7 +51,7 @@ helps keep your code DRYer and keeps email configuration noise out of other
 areas in your application. See the `Mailer Documentation for more information
 <http://book.cakephp.org/3.0/en/core-libraries/email.html#creating-reusable-emails>`_.
 
-Additional Template Variables to Templates
+Additional Template Variables in Templates
 -------------------------------------------
 
 You can now add additional template placeholders in your application templates,

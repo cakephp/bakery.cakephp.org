@@ -113,6 +113,17 @@ specific methods is slightly different than in the past:
   Previously ``multipart/form-data`` would always be used. In 3.1,
   ``multipart/form-data`` is only used when file uploads are present. When there
   are no file uploads, ``application/x-www-form-urlencoded`` is used instead.
+- The following Controller properties are now deprecated:
+
+  * layout
+  * view
+  * theme
+  * autoLayout
+  * viewPath
+  * layoutPath
+
+  Instead of setting these properties on your controllers, you should set them
+  on the view using methods with the same names.
 
 
 Other Enhancements

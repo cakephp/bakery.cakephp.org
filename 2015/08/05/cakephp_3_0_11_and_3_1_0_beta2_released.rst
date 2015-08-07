@@ -44,3 +44,7 @@ branches:
 
 For a deeper insight of what changed, have a look at the
 `release notes <http://cakephp.org/changelogs/3.0.11>`_.
+
+.. author:: markstory
+.. categories:: security, release, news
+.. tags:: security, release, news

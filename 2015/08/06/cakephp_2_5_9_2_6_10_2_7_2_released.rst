@@ -18,7 +18,7 @@ There are two issues that can impact the security of a CakePHP application:
 
 We'd like to thank 'Kurita Takashi' for contacting us through our `security issue
 <http://book.cakephp.org/3.0/en/contributing/tickets.html#reporting-security-issues>`_
-process about the CsrfComponent issue. We recommend that all users of CakePHP
+process about both issues. We recommend that all users of CakePHP
 upgrade to one of these releases as soon as possible. CakePHP 3.x is unaffected
 by the prefix routing issue.
 

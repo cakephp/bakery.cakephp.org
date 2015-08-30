@@ -18,7 +18,7 @@ The following aspects have changed since the beta releases:
 * Mailer instances now set their template names based on the action that was
   invoked.
 * ``View::viewPath()`` is now ``View::templatePath()``.
-* ``Auth.redirect`` is no longer to referrer URL when accessing login action.
+* ``Auth.redirect`` is no longer set to referrer URL when accessing login action.
   Instead it is only set to a protected URL when trying to access it without
   authentication, before redirecting to login action.
 

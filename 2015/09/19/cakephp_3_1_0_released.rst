@@ -186,9 +186,7 @@ Upgrading your Application
 
 You can use ``composer`` to upgrade from 3.0 to 3.1::
 
-    php composer.phar require 'cakephp/cakephp:3.1.*'
-    php composer.phar require 'cakephp/debug_kit:3.2.*'
-    php composer.phar require 'cakephp/bake:1.1.*'
+    php composer.phar require 'cakephp/cakephp:3.1.*' 'cakephp/debug_kit:3.2.*' 'cakephp/bake:1.1.*'
 
 This will install the new core libraries, update bake and DebugKit. You should
 then address any deprecation warnings in your application, as deprecated

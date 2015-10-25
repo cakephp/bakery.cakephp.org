@@ -24,8 +24,8 @@ Enhancements
 * HasMany associations now have the ``link``, ``unlink`` and ``replace`` methods
   implemented, like BelongsToMany associations do. This improves the usability
   of append-only associations.
-* Made it easier to use the IntegrationTestCase with controllers having the
-  SecurityComponent enabled.
+* Made it easier to use the ``IntegrationTestCase`` with controllers having the
+  ``SecurityComponent`` enabled.
 
 
 As always, a huge thanks to all the community members that helped make this

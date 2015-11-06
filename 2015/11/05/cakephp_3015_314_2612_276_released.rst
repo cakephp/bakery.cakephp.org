@@ -9,23 +9,24 @@ Security Fixes
 --------------
 
 These releases contain fixes for a Remote File Inclusion issue caused by unsafe
-view template filenames. There is also a fix for how older Validation methods
-handled non-scalar data. We recommend that all users of CakePHP upgrade as soon
-as they can. More detail on both issues will be provided in a few weeks once
-people have the opportunity to upgrade. We'd once again like to thank *Kurita
-Takashi* for his help in identifying these issues and verifying the fixes.
+view template filenames. There is also a fix for to correct older Validation
+methods handling of non-scalar data. We recommend that all users of CakePHP
+upgrade as soon as they can. More detail on both issues will be provided in
+a few weeks once people have the opportunity to upgrade. We'd once again like to
+thank *Kurita Takashi* for his help in identifying these issues and verifying
+the fixes.
 
 Bugfixes in 2.7.6
 -----------------
 
 * Support for self signed certificates was added to the SmtpTransport.
 * Form input generation for numeric columns in postgres databases was corrected.
-* PaginatorHelper::meta() correctly generates URLs based on named parameters and
-  pagiantion options
+* ``PaginatorHelper::meta()`` correctly generates URLs based on named parameters
+  and pagiantion options
 * Improved API documentation.
-* CakeSocket supports all of the PHP provided SSL context options. SSL options
-  will need an ``ssl_`` prefix.
-* Memcached client failures when clearing keys are now handled.
+* ``CakeSocket`` supports all of the PHP provided SSL context options. SSL
+  options will need an ``ssl_`` prefix.
+* Memcached client failures during key clearing is now handled.
 * ``FlashComponent::__call()`` now handles the plugin option as documented.
 * Scaffold was updated to use FlashComponent.
 
@@ -40,13 +41,13 @@ Bugfixes in 3.1.4
 * The afterSaveCommit and afterDeleteCommit callbacks were added to behaviours.
 * The ability to set the default model type for classes using the
   ``ModelAwareTrait`` was added.
-* Default type inference in ORM\Query is now faster.
+* Default type inference in ``ORM\Query`` is now faster.
 * BelongsToMany link replacement no longer fails when the association conditions
   include columns from the junction table.
 * HasMany replace() now checks the return value of delete operations.
 * Nested validators are now aware of the create/update context.
-* Query::where() now throws an exception when empty conditions are added. This
-  prevents the addition of ``1 != 1`` clauses.
+* ``Query::where()`` now throws an exception when empty conditions are added.
+  This prevents the addition of ``1 != 1`` clauses.
 
 As always, a huge thanks to all the community members that helped make this
 release happen by reporting issues and sending pull requests.

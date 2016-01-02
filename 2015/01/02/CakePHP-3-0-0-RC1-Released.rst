@@ -1,7 +1,7 @@
 CakePHP 3.0.0-RC1 Released
 ==========================
 
-Was is the best way to start a new year? Having the most advanced and
+What is the best way to start a new year? Having the most advanced and
 flexible version of CakePHP ready to be used in your projects!
 
 The CakePHP core team is proud to announce the first release candidate

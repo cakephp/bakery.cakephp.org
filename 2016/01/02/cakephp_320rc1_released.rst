@@ -2,7 +2,7 @@ CakePHP 3.2.0-RC1 Released
 ==========================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
-3.2.0-RC1. This release is the first release candidate for the 3.1 branch which
+3.2.0-RC1. This release is the first release candidate for the 3.2 branch which
 adds several new features to the 3.x series. We would appreciate any feedback
 you might have on the new features before their API definitions become stable.
 
@@ -119,7 +119,7 @@ class types.
 FormHelper
 ----------
 
-The ``action`` key for ``FormHelper::create()`` has been deprecated. You should be use
+The ``action`` key for ``FormHelper::create()`` has been deprecated. You should use
 the ``url`` key directly.
 
 Fatal Error Memory Limit Handling
@@ -139,7 +139,7 @@ replaced with better solutions. Deprecated features will not be removed until
 * ``Shell::error()`` is deprecated because its name does not clearly indicate
   that it both outputs a message and stops execution. Use ``Shell::abort()``
   instead.
-* ``Cake\\Database\\Type::type()`` is deprecated. Use ``tieWith()`` instead.
+* ``Cake\\Database\\Expression\QueryExpression::type()`` is deprecated. Use ``tieWith()`` instead.
 * ``Cake\\Database\\Type\\DateTimeType::$dateTimeClass`` is deprecated.  Use
   DateTimeType::useMutable() or DateTimeType::useImmutable() instead.
 * ``Cake\\Database\\Type\\DateType::$dateTimeClass`` is deprecated.  Use
@@ -161,3 +161,4 @@ Download a `packaged release on github
 .. author:: markstory
 .. categories:: release, news
 .. tags:: release, news
+

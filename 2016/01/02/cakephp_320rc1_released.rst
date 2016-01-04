@@ -96,7 +96,7 @@ Console Improvements
 
 * ``Shell::info()``, ``Shell::warn()`` and ``Shell::success()`` were added.
   These helper methods make using commonly used styling simpler.
-* ``Cake\\Console\\Exception\\StopException`` was added.
+* ``Cake\Console\Exception\StopException`` was added.
 * ``Shell::abort()`` was added to replace ``error()``.
 
 
@@ -104,7 +104,7 @@ StopException Added
 -------------------
 
 ``Shell::_stop()`` and ``Shell::error()`` no longer call ``exit()``. Instead
-they raise ``Cake\\Console\\Exception\\StopException``. If your shells/tasks are
+they raise ``Cake\Console\Exception\StopException``. If your shells/tasks are
 catching ``\Exception`` where these methods would have been called, those catch
 blocks will need to be updated so they don't catch the ``StopException``. By not
 calling ``exit()`` testing shells should be easier and require fewer mocks.
@@ -139,13 +139,13 @@ replaced with better solutions. Deprecated features will not be removed until
 * ``Shell::error()`` is deprecated because its name does not clearly indicate
   that it both outputs a message and stops execution. Use ``Shell::abort()``
   instead.
-* ``Cake\\Database\\Expression\QueryExpression::type()`` is deprecated. Use ``tieWith()`` instead.
-* ``Cake\\Database\\Type\\DateTimeType::$dateTimeClass`` is deprecated.  Use
+* ``Cake\Database\Expression\QueryExpression::type()`` is deprecated. Use ``tieWith()`` instead.
+* ``Cake\Database\Type\DateTimeType::$dateTimeClass`` is deprecated.  Use
   DateTimeType::useMutable() or DateTimeType::useImmutable() instead.
-* ``Cake\\Database\\Type\\DateType::$dateTimeClass`` is deprecated.  Use
+* ``Cake\Database\Type\\DateType::$dateTimeClass`` is deprecated.  Use
   ``DateTimeType::useMutable()`` or ``DateType::useImmutable()`` instead.
-* ``Cake\\ORM\\ResultSet::_calculateTypeMap()`` is now unused and deprecated.
-* ``Cake\\ORM\\ResultSet::_castValues()`` is now unused and deprecated.
+* ``Cake\ORM\ResultSet::_calculateTypeMap()`` is now unused and deprecated.
+* ``Cake\ORM\ResultSet::_castValues()`` is now unused and deprecated.
 
 Unless there are major issues with the 3.2.0-RC1 release, we will have a stable
 release packaged in the next 4-5 weeks. The documentation for 3.2.0 is now

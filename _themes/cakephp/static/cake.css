@@ -150,7 +150,7 @@ a:hover {
 
 
 /* Preformatted text */
-pre, code {
+pre, code, .pre {
 	font-family: "Bitstream Vera Sans Mono", "Consolas", "Monaco", monospace;
 }
 pre {

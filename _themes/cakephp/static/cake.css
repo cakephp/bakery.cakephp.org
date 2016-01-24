@@ -150,9 +150,15 @@ a:hover {
 
 
 /* Preformatted text */
-pre, code, .pre {
+code, .pre {
 	font-family: "Bitstream Vera Sans Mono", "Consolas", "Monaco", monospace;
+	font-size: 90%;
+	line-height: normal;
+	background: rgba(100, 100, 100, 0.10);
+	padding: 0px 1px;
+	color: #003D4C;
 }
+
 pre {
 	margin-bottom: 18px;
 	overflow-x: auto;

@@ -10,16 +10,16 @@ You can expect the following changes in 3.1.8. See the `changelog <http://cakeph
 
 * Using ``matching()`` on a BelongsToMany association with conditions no longer
   emits invalid SQL. (@markstory)
-* Generated reciporical BelongsToMany associations have association conditions
+* Generated reciprocal BelongsToMany associations have the original conditions
   applied to them. (@markstory)
 * ``Inflector::camelize()`` now caches results (@ypnos-web)
 * ``ConnectionManager::config()`` no longer clones objects passed in. (@lorenzo)
-* Postgres schema reflection now only reads constraints in the same schema
+* Postgres schema reflection now only reads constraints in the connection's schema
   (@lorenzo)
-* Memcached can now correctly connect to unix domain sockets. (@Mischa ter Smitten)
-* TreeBehavior now uses expression objects for field updates. This makes it more
+* Memcached can now connect to unix domain sockets. (@Mischa ter Smitten)
+* TreeBehavior now uses expression objects for field updates. This makes it
   compatible with datasources requiring identifier quoting. (@skiedr, @lorenzo)
-* Fixed incorect behavior of ``TextHelper::autoLink()`` when CRLFs are present.
+* Fixed incorrect behavior of ``TextHelper::autoLink()`` when CRLFs are present.
   (@jeremyharris)
 * The ``fullDebug`` argument of ``TestCase::assertHtml()`` now works as
   documented. (@jeremyharris)
@@ -31,7 +31,7 @@ You can expect the following changes in 3.1.8. See the `changelog <http://cakeph
   cause unintentional side-effects. (@lorenzo)
 * ``SecurityComponent`` now validates data whenever ``$request->data`` is populated.
   This allows SecurityComponent to apply to PATCH and DELETE requests.
-  (@markstory)
+  (@markstory, @chinpei25)
 * ``Controller::$name`` is correctly inflected when using the base route class.
   (@markstory)
 
@@ -45,8 +45,8 @@ Minor Enhancements
   consistent with ``Log::config()``. (@lorenzo)
 * ``Query::set()`` now accepts a builder callable. (@lorenzo)
 * ``Database\Type`` now allows objects to be injected via set(). (@jadb)
-* SQL Query logs now include execution time and rows returnned. (@Bernat Arlandis)
-* Error logs now include Refering URL if it is available. (@flavius)
+* SQL Query logs now include execution time and rows returned. (@Bernat Arlandis)
+* Error logs now include Referring URL if it is available. (@flavius)
 
 As always, a huge thanks to all the community members that helped make this release happen by reporting issues and sending pull requests.
 

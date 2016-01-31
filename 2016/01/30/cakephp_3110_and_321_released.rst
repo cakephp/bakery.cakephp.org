@@ -6,7 +6,7 @@ The CakePHP core team is pleased to announce the immediate availability of CakeP
 Bugfixes
 --------
 
-You can read all of the `changes in 3.1.10 <http://cakephp.org/changelogs/3.1.10>`__ and the `changes in 3.2.1 <http://cakephp.org/changelogs/3.1.10>`__ in the respective changelogs.
+You can read all of the `changes in 3.1.10 <http://cakephp.org/changelogs/3.1.10>`__ and the `changes in 3.2.1 <http://cakephp.org/changelogs/3.2.1>`__ in the respective changelogs.
 
 * A regression nested prefix routes being incorrectly inflected has been corrected. (@ADmad)
 

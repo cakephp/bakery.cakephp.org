@@ -6,7 +6,7 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 Deprecations
 ------------
 
-* The ``action`` option in ``FormHelper::create()`` has been deprecated, as it was in 3.x. Note that this now makes the ``action`` key of an array URL consistently respected for the generation of the DOM ID.  If you used the deprecated key you will want to compare the generated ID for the forms before and after your upgrade.
+* The ``action`` option in ``FormHelper::create()`` has been deprecated, as it was in 3.x. Note that this now makes the ``action`` key of an array URL consistently respected for the generation of the DOM ID.  If you used the deprecated key you will want to compare the generated ID for forms before and after your upgrade.
 
 PHP7 Compatibility
 ------------------

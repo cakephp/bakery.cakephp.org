@@ -1,7 +1,7 @@
 CakePHP 2.8.0 Released
 ======================
 
-The CakePHP core team is happy to announce the immediate availability of CakePHP 2.8.0. This release is the first release candidate for the 2.8 branch which adds several new features to the 2.x series.
+The CakePHP core team is happy to announce the immediate availability of CakePHP 2.8.0. This release is the first stable release for the 2.8 branch which adds several new features to the 2.x series.
 
 Deprecations
 ------------

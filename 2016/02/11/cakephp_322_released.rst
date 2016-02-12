@@ -44,7 +44,7 @@ Minor Enhancements
 * ``IntegrationTestCase::assertHeaderContains()`` was added. (@half2me)
 * ``FormHelper::text()`` and related functions now accept ``'id' => true``. This
   option enables the same automatic ID generation used in
-  ``FormHelper::input()``
+  ``FormHelper::input()``. (@ADmad)
 * Sub-split repositories now contain license files and status badges (@bravo-kernel)
 * ``FormHelper`` will now automatically load application widget classes that
   overload the core ones. (@ADmad)

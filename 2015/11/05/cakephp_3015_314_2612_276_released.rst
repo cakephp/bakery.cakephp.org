@@ -9,8 +9,8 @@ Security Fixes
 --------------
 
 These releases contain fixes for a Remote File Inclusion issue caused by unsafe
-view template filenames. There is also a fix for to correct older Validation
-methods handling of non-scalar data. We recommend that all users of CakePHP
+view template filenames. There is also a fix to correct how older Validation
+methods handle non-scalar data. We recommend that all users of CakePHP
 upgrade as soon as they can. More detail on both issues will be provided in
 a few weeks once people have the opportunity to upgrade. We'd once again like to
 thank *Kurita Takashi* for his help in identifying these issues and verifying

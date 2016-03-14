@@ -1,0 +1,56 @@
+CakePHP 2.6.13, 2.7.11, 2.8.2, 3.0.17, 3.1.12, and 3.2.5 Released
+=================================================================
+
+The CakePHP core team is happy to announce the immediate availability of CakePHP
+2.6.13, 2.7.11, 2.8.2, 3.0.17, 3.1.12, and 3.2.5. These releases contain security
+fixes. 3.2.5 and 2.8.2 also contain bugfixes.
+
+Security Fixes
+--------------
+
+These releases contain fixes for arbitrary address spoofing when using the
+``clientIp()`` method of the request object. Previously, this method would use
+the ``HTTP_CLIENT_IP`` header which can be spoofed easily. If you are using this
+method as a source of trusted data we recommend you upgrade. We'd like to thank
+the independent security researcher Dawid Golunski for discovering this
+vulnerability in CakePHP which was reported to us by Beyond Security's
+SecuriTeam Secure Disclosure program.
+
+Bugfixes in 2.8.2
+-----------------
+
+* Notice errors in ``request->referer()`` in PHP7 with no referrer were fixed.
+  (@phlyper)
+* Email logs now include the subject and to headers when using the
+  ``MailTransport`` (@garas)
+* Updated API documentation (@xhs345)
+* A regression in DbAcl introduced in 2.8.1 was fixed around how inherited
+  permissions and explicit deny permissions interacted (@markstory)
+
+Bugfixes in 3.2.5
+-----------------
+
+* Postgres schema reflection performs better on large databases. (@donkeyx,
+  @markstory)
+* Xcache cache engine can now store objects (@SmiSoft)
+* Malformed HTTP Range headers no longer emit warnings. (@markstory)
+* Improved API documentation (@markstory, @curtisgibby, @dereuromark)
+* The ``__xn`` and ``__dxn`` functions now correctly use plural forms.
+  (@chinpei215)
+
+
+New Features in 3.2.5
+---------------------
+
+* ``assertCookieNotSet`` was added to ``IntegrationTestCase``. (@lorenzo)
+* The 'obj' fetch type was added to ``PDOStatement``. (@davalb)
+
+As always, a huge thanks to all the community members that helped make this
+release happen by reporting issues and sending pull requests.
+
+Download a `packaged release on github
+<https://github.com/cakephp/cakephp/releases>`_.
+
+.. author:: markstory
+.. categories:: release, news, security
+.. tags:: release, security

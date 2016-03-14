@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2016/03/13/cakephp_2613_2711_282_3017_3112_325_released
    2016/03/06/cakephp_324_released
    2016/02/27/cakephp_281_released
    2016/02/21/cakephp_3016_3111_323_released

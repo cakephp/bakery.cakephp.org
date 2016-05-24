@@ -61,6 +61,7 @@
     font-weight: 400;
     letter-spacing: 0.05em;
     color: #bdbdb5;
+    margin-bottom: 1em;
 }
 
 
@@ -179,6 +180,15 @@ dl.docutils {
 
 
 /* -- Sidebar -- */
+.sidebar h1 {
+    color: #D33C44;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+}
+.sidebar ul {
+    margin-left: 0;
+}
 .sidebar li {
     list-style: none;
     text-transform: capitalize;
@@ -190,137 +200,9 @@ dl.docutils {
 }
 .sidebar a {
     color: #363637;
-    display: block;
 }
 .sidebar a:hover {
     color: #2f85ae;
-}
-
-#sidebar-navigation > ul {
-    padding-left: 0;
-}
-#sidebar-navigation > ul > li:before {
-    color: #363637;
-    font-family: 'Raleway', sans-serif;
-    display: block;
-    font-weight: bold;
-    font-size: 13px;
-    padding-bottom: 0.4em;
-    padding-top: 1.3em;
-}
-#sidebar-navigation > ul > li:nth-of-type(5):last-child:after,
-#sidebar-navigation > ul > li:nth-of-type(12):last-child:after,
-#sidebar-navigation > ul > li:nth-of-type(31):last-child:after,
-#sidebar-navigation > ul > li:nth-of-type(42):last-child:after {
-    content: " ";
-    display: block;
-    margin-bottom: 1em;
-}
-#sidebar-navigation > ul > li:nth-of-type(1):before {
-    content: "Preface";
-    padding-top: 0;
-}
-#sidebar-navigation > ul > li:lang(fr):nth-of-type(1):before {
-    content: "Préface";
-}
-#sidebar-navigation > ul > li:lang(es):nth-of-type(1):before {
-    content: "Preface";
-}
-#sidebar-navigation > ul > li:lang(pt):nth-of-type(1):before {
-    content: "Prefácio";
-}
-#sidebar-navigation > ul > li:lang(ja):nth-of-type(1):before {
-    content: "はじめに";
-}
-#sidebar-navigation > ul > li:lang(zh):nth-of-type(1):before {
-    content: "Preface";
-}
-#sidebar-navigation > ul > li:lang(tr):nth-of-type(1):before {
-    content: "Preface";
-}
-#sidebar-navigation > ul > li:nth-of-type(6):before {
-    content: "Getting Started";
-}
-#sidebar-navigation > ul > li:lang(fr):nth-of-type(6):before {
-    content: "Pour Commencer";
-}
-#sidebar-navigation > ul > li:lang(es):nth-of-type(6):before {
-    content: "Getting Started";
-}
-#sidebar-navigation > ul > li:lang(pt):nth-of-type(6):before {
-    content: "Começando";
-}
-#sidebar-navigation > ul > li:lang(ja):nth-of-type(6):before {
-    content: "入門";
-}
-#sidebar-navigation > ul > li:lang(zh):nth-of-type(6):before {
-    content: "Getting Started";
-}
-#sidebar-navigation > ul > li:lang(tr):nth-of-type(6):before {
-    content: "Getting Started";
-}
-#sidebar-navigation > ul > li:nth-of-type(13):before {
-    content: "General Topics";
-}
-#sidebar-navigation > ul > li:lang(fr):nth-of-type(13):before {
-    content: "Généralités";
-}
-#sidebar-navigation > ul > li:lang(es):nth-of-type(13):before {
-    content: "General Topics";
-}
-#sidebar-navigation > ul > li:lang(pt):nth-of-type(13):before {
-    content: "Tópicos Gerais";
-}
-#sidebar-navigation > ul > li:lang(ja):nth-of-type(13):before {
-    content: "一般的なトピック";
-}
-#sidebar-navigation > ul > li:lang(zh):nth-of-type(13):before {
-    content: "General Topics";
-}
-#sidebar-navigation > ul > li:lang(tr):nth-of-type(13):before {
-    content: "General Topics";
-}
-#sidebar-navigation > ul > li:nth-of-type(32):before {
-    content: "Utility Classes";
-}
-#sidebar-navigation > ul > li:lang(fr):nth-of-type(32):before {
-    content: "Utilitaires";
-}
-#sidebar-navigation > ul > li:lang(es):nth-of-type(32):before {
-    content: "Utility Classes";
-}
-#sidebar-navigation > ul > li:lang(pt):nth-of-type(32):before {
-    content: "Classes utilitárias";
-}
-#sidebar-navigation > ul > li:lang(ja):nth-of-type(32):before {
-    content: "ユーティリティ";
-}
-#sidebar-navigation > ul > li:lang(zh):nth-of-type(32):before {
-    content: "Utility Classes";
-}
-#sidebar-navigation > ul > li:lang(tr):nth-of-type(32):before {
-    content: "Utility Classes";
-}
-#sidebar-navigation > ul > li:nth-of-type(43):before {
-    content: "Other";
-}
-#sidebar-navigation > ul > li:lang(fr):nth-of-type(43):before {
-    content: "Divers";
-}
-#sidebar-navigation > ul > li:lang(es):nth-of-type(43):before {
-    content: "Other";
-}
-#sidebar-navigation > ul > li:lang(pt):nth-of-type(43):before {
-    content: "Diversos";
-}
-#sidebar-navigation > ul > li:lang(ja):nth-of-type(43):before {
-    content: "その他";
-}
-#sidebar-navigation > ul > li:lang(zh):nth-of-type(43):before {
-    content: "Other";
-}
-#sidebar-navigation > ul > li:lang(tr):nth-of-type(43):before {
-    content: "Other";
 }
 
 .docutils.internal-toc td {
@@ -334,111 +216,13 @@ table.internal-toc {
     width:80%;
 }
 
-/* Inline search */
-.search .twitter-typeahead {
-    width: 100%;
-}
-
-/* Inline search results */
-.tt-menu {
-    width: 150%;
-    position: absolute;
-    background: #fff;
-    z-index: 10;
-
-    -moz-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4);
-    -webkit-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4);
-    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4);
-    border-top: 1px solid #333;
-}
-
-.tt-menu .empty-result,
-.tt-menu .tt-suggestion {
-    font-size: 12px;
-    line-height: 1.4em;
-    display: block;
-    padding: 5px 10px;
-    border-bottom: 1px solid #eee;
-}
-.tt-cursor,
-.tt-suggestion:focus,
-.tt-suggestion:hover {
-    background: #eee;
-}
-
-/* Standalone search */
-.standalone-search {
-    margin-bottom: 20px;
-}
-.standalone-search .search-input {
-    width: 100%;
-}
-/* Search pagination */
-#search-pagination {
-    margin: 2em 0;
-}
-#search-pagination a {
-    font-size: 16px;
-    display: inline-block;
-    width: 28px;
-    height: 28px;
-    line-height: 28px;
-    text-align: center;
-    border-right: 1px solid #ccc;
-    margin: 0 4px 0 0;
-}
-#search-pagination a:last-child {
-    border: 0;
-}
-#search-pagination a.active {
-    color: #C92434;
-}
-#search-pagination a.active:hover {
-    text-decoration: none;
-}
-
-/* Search results */
-#search-results ul {
-    list-style: none;
-    margin: 0;
-}
-#search-results li {
-    list-style: none;
-    margin-bottom: 1em;
-}
-
-
-
-
-/* -- Headings -- */
-.headerlink {
-    display: none;
-}
-.staticattr:hover .headerlink,
-.attr:hover .headerlink,
-.staticmethod:hover .headerlink,
-.method:hover .headerlink,
-h1:hover .headerlink,
-h2:hover .headerlink,
-h3:hover .headerlink,
-h4:hover .headerlink,
-h5:hover .headerlink,
-h6:hover .headerlink {
-    display: inline;
-    margin: 0 0 0 5px;
-    font-size: 80%;
-    padding: 0;
-    line-height: 95%;
-    vertical-align: center;
-}
-
-
 /* -- body styles -- */
 .body {
     position: relative;
 }
 
 /* inline code */
+.docutils .pre,
 tt {
     font-family: "Roboto Mono", "Consolas", "Monaco", monospace;
     font-size: 105%;

@@ -2740,6 +2740,9 @@ header {
     width: 100%;
     z-index: 99;
 }
+.nav-up {
+    top: -76px;
+}
 .logo-cake img {
     margin-top: 24px;
     margin-bottom: 20px;

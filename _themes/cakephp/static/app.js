@@ -18,7 +18,6 @@ App.Bakery = (function() {
 // Responsive modal window menus.
 App.ResponsiveMenus = (function () {
   function init() {
-    debugger;
     $('#modal').on('show.bs.modal', function (event) {
       var modal = $(this);
       var button = $(event.relatedTarget);

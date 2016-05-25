@@ -3134,6 +3134,15 @@ header {
 .icon-social:hover {
     color: #D33C45;
 }
+.icon-irc {
+    font-weight: 700;
+    font-size: 20px;
+    color: #bdbdb5;
+}
+.icon-irc:hover {
+    color: #D33C45;
+}
+
 .tooltip {
     padding: 10px;
 }

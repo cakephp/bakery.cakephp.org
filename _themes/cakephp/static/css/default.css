@@ -55,6 +55,7 @@
     color: #D33C44;
 }
 
+/* Blog Post View */
 .timestamp.postmeta {
     font-size: 14px;
     line-height: 24px;
@@ -62,6 +63,41 @@
     letter-spacing: 0.05em;
     color: #bdbdb5;
     margin-bottom: 1em;
+}
+
+
+/* Archive List */
+.post-archive {
+    margin-bottom: 3em;
+}
+.post-archive .post-time {
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    color: #d33c44;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin: 0;
+}
+.post-archive .post-time span {
+    color: #363638;
+}
+.post-archive .entry-title {
+    margin: 0;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    font-weight: 700;
+    color: #D33C44;
+}
+.entry-title a {
+    color: #D33C44;
+}
+.post-archive p {
+    margin: 0;
+    font-size: 12px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
 }
 
 
@@ -85,98 +121,6 @@ dl.docutils {
 }
 
 
-/* Inline */
-.panel.flyout {
-    border: 3px solid #C92434;
-}
-
-/* Reveal modal dialogs */
-.reveal-modal {
-    background-image: none;
-    border: 4px solid #417282;
-
-    -webkit-box-shadow: 4px 4px 0 #003D4C;
-    -moz-box-shadow: 4px 4px 0 #003D4C;
-    box-shadow: 4px 4px 0 #003D4C;
-
-    -webkit-border-radius: 0;
-    -moz-border-radius: 0;
-    border-radius: 0;
-}
-
-/* promo spot on home page */
-.offline-download {
-    background: #F0F0E8;
-    padding: 30px 0;
-    width: auto;
-    margin-bottom: 30px
-}
-.offline-download strong {
-    color: #363637;
-    font-size: 32px;
-    font-weight: 300;
-    line-height: 50px;
-    font-family: Raleway, sans-serif;
-    display: block;
-    text-align: center;
-}
-.offline-download img {
-    height: auto;
-    max-width: 100%;
-}
-.offline-download ul,
-.offline-download p {
-    padding: 0 100px;
-    margin-bottom: 5px;
-    text-align: center;
-}
-.offline-download li {
-    display: inline-block;
-    list-style: none;
-}
-.offline-download a {
-    padding: 15px 30px;
-    border-radius: 8px;
-    font-weight: 600;
-    font-size: 15px;
-    display: inline-block;
-    text-align: center;
-    margin: 25px 5px;
-    color: #fff;
-    text-decoration: none;
-    font-weight: bold;
-    line-height: 1;
-    cursor: pointer;
-}
-
-/* -- Page Contents -- */
-.page-contents {
-    background: rgba(189, 189, 181, 0.32);
-    float: right;
-    padding: 2em;
-    margin-left: 2em;
-    margin-bottom: 1em;
-}
-.page-contents h3 {
-    font-size: 1em;
-    line-height: 1.2em;
-    font-weight: bold;
-    margin-bottom: 1.5em;
-}
-.page-contents li {
-    font-size: 13px;
-}
-.page-contents a {
-    color: #363637;
-}
-.page-contents ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-.page-contents ul ul {
-    margin: 0 1.5em;
-}
 
 
 /* -- Sidebar -- */
@@ -246,9 +190,6 @@ dl tt {
 }
 .inline li:last-child:after {
     content: '';
-}
-.breadcrumb li:after {
-    content: ' > ';
 }
 
 
@@ -379,142 +320,6 @@ div.viewcode-block:target {
     border-bottom: 1px solid #ac9;
 }
 
-/* arguments */
-dl.exception em,
-dl.interface em,
-dl.attr em,
-dl.class em,
-dl.trait em,
-dl.method em,
-dl.const em,
-dl.staticmethod em {
-    font-family: "Roboto Mono", "Consolas", "Monaco", monospace;
-    color: #444;
-    font-size: 12px;
-    font-style: normal;
-    font-weight: 400;
-}
-
-/* type flags */
-dl.exception em.property,
-dl.interface em.property,
-dl.attr em.property,
-dl.class em.property,
-dl.trait em.property,
-dl.method em.property,
-dl.staticmethod em.property,
-dl.const em.property {
-    background: #ECECE9;
-    font-size: 11px;
-    padding: 2px 0px 2px 8px;
-    border-radius: 4px;
-    margin-right: 5px;
-}
-
-/* method and property definitions */
-.role,
-.directive,
-.class,
-.trait,
-.const,
-.attr,
-.function,
-.method,
-.staticmethod {
-    margin-bottom: 1em;
-}
-.role dt,
-.directive dt,
-.class dt,
-.trait dt,
-.const dt,
-.attr dt,
-.function dt,
-.method dt,
-.staticmethod dt {
-    font-size: 14px;
-    margin-bottom: 5px;
-}
-dt tt {
-    background: none;
-}
-.role .descname,
-.directive .descname,
-.class .descname,
-.trait .descname,
-.attr .descname,
-.const .descname,
-.directive .descclassname,
-.role .descclassname,
-.attr .descclassname,
-.function .descname,
-.method .descname,
-.method .descclassname,
-.staticmethod .descname,
-.staticmethod .descclassname {
-    font-family: "Roboto Mono", "Consolas", "Monaco", monospace;
-    font-weight: normal;
-    font-size: 14px;
-}
-.descclassname {
-    font-weight: normal;
-    padding: 0;
-}
-
-.role .descname,
-.directive .descname,
-.class .descname,
-.trait .descname,
-.attr .descname,
-.const .descname,
-.function .descname,
-.method .descname,
-.staticmethod .descname {
-    font-weight: bold;
-    color: #000;
-}
-.role dd,
-.directive dd,
-.attr dd,
-.const dd,
-.function dd,
-.method dd,
-.staticmethod dd {
-    margin-left: 20px;
-}
-
-/* Parameter lists */
-.field-list {
-    border: 0;
-    padding-top: 0;
-}
-.field-list th,
-.field-list td {
-    border: 0;
-}
-.field-list .field-name,
-.field-list .field-body li {
-    line-height: 1.8rem;
-    font-size: 14px;
-}
-.field-list .field-name,
-.field-list .field-body {
-    font-size: 15px;
-    font-size: 1.5rem;
-    font-family: Raleway, Helvetica, Arial;
-    padding: 3px 0.5em 0;
-}
-.field-list ul {
-    list-style: none;
-    margin-left: 0;
-}
-.field-list
-.field-list strong {
-    font-size: 110%;
-    font-family: "Roboto Mono", "Consolas", "Monaco", monospace;
-    color: #003D4C;
-    font-weight: normal;
-}
 
 /* -- glossary -- */
 .glossary dt {
@@ -559,4 +364,3 @@ dt tt {
 .genindextable a {
     font-size: 14px;
 }
-

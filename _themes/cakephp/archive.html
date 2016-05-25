@@ -3,7 +3,7 @@
 {%- macro cake_list(post_tags) -%}
     {%- if post_tags -%}
         {% for link, tag in post_tags -%}
-            <span class="cat-links">
+            <span class="tag-links">
                 <a href="{{ pathto('tags/' + link + '.html', 1) }}" rel="tag">{{ tag }}</a>
             </span>
         {% endfor -%}
@@ -15,16 +15,18 @@
         <h1>{{ title }}</h1>
 
         {%- for year in years|sort(reverse=True) -%}
-            <h2 class="year">{{ year }}</h2>
             {%- for metadata in years[year] -%}
-                <div class="type-post">
-                    <h2 class="entry-title">
-                        <a href="{{ pathto(metadata.link) }}" rel="bookmark">{{ metadata.title }}</a>
-                    </h2>
-                    <h2 class="post-time">{{ metadata.formatted_date_short }}</h2>
-                    <div class="post-author">Posted by {{ metadata.author }}</div>
-                    {{ comment_count(metadata.comment_count) }}
-                    <div class="category-list">Tagged {{ cake_list(metadata.filing["tags"]) }}</div>
+                <div class="post-archive clearfix">
+                    <div class="col-sm-2 p0">
+                        <h4 class="post-time">{{ year }} <span>{{ metadata.formatted_date_short }}</span></h4>
+                    </div>
+                    <div class="col-sm-10 p0">
+                        <h2 class="entry-title">
+                            <a href="{{ pathto(metadata.link) }}" rel="bookmark">{{ metadata.title }}</a>
+                        </h2>
+                        <p class="post-author">Posted by {{ metadata.author }}</p>
+                        <p class="category-list">Tagged {{ cake_list(metadata.filing["tags"]) }}</p>
+                    </div>
                 </div>
             {%- endfor -%}
         {%- endfor -%}

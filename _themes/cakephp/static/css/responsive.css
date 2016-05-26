@@ -48,22 +48,6 @@
         background-color: #D33C44;
     }
 
-    #wrap .twitter-typeahead {
-        left: -240px; /* 60px less than width so icon is in box */
-        width: 300px;
-    }
-    #wrap .tt-input {
-        left: 240px;
-    }
-    #wrap .tt-input:focus {
-        left: 0;
-        width: 300px;
-    }
-
-    #wrap input[type="submit"] {
-        height: 58px;
-    }
-
     .nav-up {
         top: -600px;
     }
@@ -76,12 +60,13 @@
         padding: 14px 0;
     }
 
-    .toggle-menu .fa {
-        margin: 21px 0;
+    .sub-bakery {
+        display: block;
+        margin-top: 2em;
     }
 
-    #sub {
-        margin-top: 60px;
+    .toggle-menu .fa {
+        margin: 21px 0;
     }
 
     #fb-root-face {
@@ -89,26 +74,6 @@
     }
 
     #cakefest p {
-        text-align: center;
-    }
-
-    .sub-expertise {
-        text-align: center;
-    }
-
-    #expertise p {
-        text-align: center;
-    }
-
-    .icon-expertise-2 {
-        text-align: center;
-    }
-
-    .title-expertise{
-        text-align: center;
-    }
-
-    .box-services-d:hover .icon-expertise-2 {
         text-align: center;
     }
 
@@ -121,24 +86,18 @@
     }
 
 
-    /* ---------------------- COOK BOOK ------------------------- */
-
-
-    #cookbook {
-        padding-top: 50px;
-    }
+    /* ---------------------- Bakery ------------------------- */
 
     .page-container {
         padding-top: 20px;
     }
 
     .nav-btn {
-        padding-top: 73px;
         padding-bottom: 17px;
     }
 
     .read-the-book a {
-            margin: 15px 5px 22px;
+        margin: 15px 5px 22px;
     }
 
     .page-container .row {
@@ -147,7 +106,7 @@
     }
 
     .btn-nav {
-            font-size: 11px;
+        font-size: 11px;
     }
 
     #improve-slideout {
@@ -181,7 +140,9 @@
         top: -21px;
     }
 
-    .menu > li > a:hover, .menu > li > a:focus, .menu > li:hover > a {
+    .menu > li > a:hover,
+    .menu > li > a:focus,
+    .menu > li:hover > a {
         color: rgb(202, 202, 202);
     }
 
@@ -194,30 +155,10 @@
         margin-bottom: 14px;
     }
 
-    #sub {
-        margin-top: 60px;
-    }
-
-    /* ---------------------- COOK BOOK ------------------------- */
+    /* ---------------------- Bakery ------------------------- */
 
     .page-container {
         padding-top: 20px;
-    }
-
-    #wrap .twitter-typeahead {
-        left: -390px; /* 60px less than width so icon is in box */
-        width: 450px;
-    }
-    #wrap .tt-input {
-        left: 390px;
-    }
-    #wrap .tt-input:focus {
-        left: 0;
-        width: 450px;
-    }
-
-    #wrap input[type="submit"] {
-        height: 58px;
     }
 
     #improve-slideout {
@@ -252,12 +193,8 @@
         display: block;
         padding-bottom: 8px;
     }
-    /* ---------------------- COOK BOOK ------------------------- */
 
-    .t-language h6 {
-        font-size: 9px;
-    }
-
+    /* ---------------------- Bakery ------------------------- */
     .dropdown > a {
         font-size: 12px;
             padding: 5px 5px !important;

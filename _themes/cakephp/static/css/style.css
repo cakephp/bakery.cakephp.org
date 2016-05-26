@@ -2777,12 +2777,12 @@ header {
     font-weight: 400;
 }
 .icon-blog {
-    margin-right: 20px;
     font-size: 40px;
 }
 .glyph_range {
     font-family: 'cake_dingbatsregular';
 }
+
 /*-- Bakery -- */
 
 /* Improve Doc */
@@ -2936,9 +2936,8 @@ header {
 }
 
 .nav-btn {
-    padding-top: 88px;
+    padding: 14px 0;
     background: #ECECEC;
-    padding-bottom: 14px;
 }
 
 

@@ -141,9 +141,18 @@ dl.docutils {
 /* -- Sidebar -- */
 .sidebar h1 {
     color: #D33C44;
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: 400;
     line-height: 1.5em;
     margin-bottom: 1em;
+}
+.sidebar h1:after {
+    content: "";
+    display: block;
+    height: 1px;
+    width: 23px;
+    border-top: 1px solid #363637;
+    margin: 10px 0 15px;
 }
 .sidebar ul {
     margin-left: 0;

@@ -311,7 +311,7 @@ iframe {
     float: left;
     list-style: none;
 }
-.menu li {
+.menu > li {
     display: inline-block;
     float: left;
 }
@@ -449,11 +449,21 @@ iframe {
     margin:5px 0 5px;
 }
 
+.menu-title {
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 18px;
+    padding-bottom: 5px;
+}
+
 /* Not actually full, as we're missing some sub-menus */
 .megamenu.full {
     /* Will need to be 100% one day */
     width: 400px;
     right: 0;
+}
+.megamenu .fa-menu-title {
+    display: inline;
 }
 
 /*Megamenu positions */

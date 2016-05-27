@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -eo pipefail
+[[ -n $BIN_DIR ]] && source $BIN_DIR/utils
+
+main() {
+  tinker --build
+}
+
+main "$@"

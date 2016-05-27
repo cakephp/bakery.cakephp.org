@@ -6,7 +6,7 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 `changelog <http://cakephp.org/changelogs/3.0.7>`_ for every commit.
 
 Bug Fixes in 3.0.7
---------------
+------------------
 
 * Time validation rules now accept 12:15pm.
 * Table names with .'s to access tables in other databases in MySQL, now

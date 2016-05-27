@@ -69,7 +69,7 @@ install: requirements venv
 requirements:
 ifeq ($(BREW),)
 ifndef TRAVIS
-	sudo apt-get -qq -y install libxml2-dev > /dev/null
+	sudo apt-get -qq -y install libxml2-dev libxslt1-dev python-dev > /dev/null
 endif
 endif
 

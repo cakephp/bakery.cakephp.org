@@ -185,7 +185,7 @@
 
 {%- block content %}
 <div class="container page-container">
-    {%- if pagename != 'search' and 'tags/' not in pagename and 'categories/' not in pagename -%}
+    {%- if pagename not in ['search', 'index'] and 'tags/' not in pagename and 'categories/' not in pagename -%}
     <div id="improve-slideout">
         <i class="fa fa-pencil icon-improve"></i>
         <a href="https://github.com/cakephp/bakery/edit/master/{{ pagename }}.rst" target="_blank">

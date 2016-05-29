@@ -1992,6 +1992,10 @@ header {
     color: rgb(181,67,33);
     -webkit-transition:all 0.3s ease-out; transition:all 0.3s ease-out;
 }
+/* specificity needs to be high to get around responsive styles */
+.footer-wrapper .col-p30 .business-solution {
+    padding: 0 20px;
+}
 
 /* Copyright */
 .copyright {

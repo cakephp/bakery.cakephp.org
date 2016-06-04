@@ -1573,7 +1573,7 @@ header {
     z-index: 90; /* Behind header */
 }
 #improve-slideout:hover {
-  right: 180px;
+  right: 215px;
 }
 #improve-slideout:hover #improve-slideout-inner {
   right: 0;
@@ -1581,14 +1581,14 @@ header {
 #improve-slideout-inner {
     position: fixed;
     bottom: 70%;
-    right: -180px;
+    right: -215px;
     -webkit-transition-duration: 0.3s;
     -moz-transition-duration: 0.3s;
     -o-transition-duration: 0.3s;
     transition-duration: 0.3s;
     background: #e0e0d9;
     padding: 5px 12px;
-    width: 180px;
+    width: 215px;
 }
 #improve-slideout-inner h6 {
     color: #363637;
@@ -1855,31 +1855,6 @@ header {
 }
 
 
-/* ---------------------- COOK BOOK - VIEW ------------------------- */
-
-.page-content-list {
-    background: rgba(189, 189, 181, 0.32);
-    padding: 30px;
-}
-
-.page-content-list li > a{
-    font-size: 12px;
-    color: #363637;
-    letter-spacing: 0.04em;
-    font-weight: 500;
-    line-height: 1.8em;
-
-    -webkit-transition: all 0.2s linear;
-    transition: all 0.2s linear;
-}
-
-.page-content-list li {
-    line-height: 0;
-}
-
-.page-content-list li > a:hover{
-    color: #2a6496;
-}
 
 .italic {
     font-style: italic;
@@ -1926,6 +1901,8 @@ header {
 }
 
 .footer-wrapper {
+    font-weight: 400;
+    letter-spacing: 0.01em;
     background-color: #363638;
     color: #d8dade;
     position:relative;

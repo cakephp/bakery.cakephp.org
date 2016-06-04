@@ -28,6 +28,7 @@
 
 .page-container {
     padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 /* General button */
@@ -58,12 +59,13 @@
 /* Blog Post View */
 .page-container h1 {
     color: #d33c44;
+    font-weight: 200;
 }
 .page-container h2,
 .page-container h3,
 .page-container h4 {
     font-size: 26px;
-    font-weight: 200;
+    font-weight: 300;
     letter-spacing: 0.05em;
     line-height: 2em;
     margin: 1.5em 0 0.5em;

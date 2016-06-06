@@ -10,7 +10,6 @@
 ] -%}
 
 {%- set script_files = [
-	"_static/jquery.js",
 	"_static/vendor.js",
 	"_static/app.js",
 ] -%}
@@ -30,7 +29,11 @@
 {%- endblock %}
 
 {%- block headjs %}
-{# Don't include the parent theme's js files #}
+{#
+Don't include the parent theme's js files, but include jquery
+as the macro in the base theme filters out jquery.
+#}
+<script src="{{ pathto('_static/jquery.js', 1) }}"></script>
 {%- endblock %}
 
 {# Use the header block to insert the header navbar content #}
@@ -64,12 +67,12 @@
 							<a href="#"><i class="fa fa-menu fa-chevron-down"></i>Community</a>
 							<div class="megamenu full">
 								<div class="row">
-									<div class="col-6">
+									<div class="col-6 pl30">
 										<ul class="megamenu-list">
 											{% include 'menu/community.html' %}
 										</ul>
 									</div>
-									<div class="col-6">
+									<div class="col-6 pl30">
 										<ul class="megamenu-list">
 											{% include 'menu/help.html' %}
 										</ul>

@@ -165,6 +165,10 @@ iframe {
 .op4 { opacity:0.4 !important; }
 .op2 { opacity:0.2 !important; }
 
+.pl30 {
+    padding-left: 30px !important;
+}
+
 .uppercase { text-transform: uppercase;}
 .montserrat { font-family: "Montserrat",sans-serif; }
 

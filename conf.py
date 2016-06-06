@@ -85,6 +85,11 @@ html_use_index = False
 html_show_sourcelink = False
 html_add_permalinks = None
 
+# Disable indexes we never link to.
+html_domain_indicies = False
+html_use_modindex = False
+html_use_index = False
+
 from sphinx.highlighting import lexers
 from pygments.lexers.web import PhpLexer
 

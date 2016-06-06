@@ -103,6 +103,7 @@ $(document).ready(function(){
     }());
 
 /* ********************* Megamenu ********************* */
+
   var menu = $(".menu"),
     Megamenu = {
       desktopMenu: function() {

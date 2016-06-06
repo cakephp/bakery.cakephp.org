@@ -1,17 +1,5 @@
 {%- extends "boilerplate/layout.html" -%}
 
-{%- macro script_file(script_files) %}
-    {%- for scriptfile in script_files %}
-    <script type="text/javascript" src="{{ pathto(scriptfile, 1) }}"></script>
-    {%- endfor %}
-{%- endmacro %}
-
-{%- macro css_file(css_files) %}
-    {%- for cssfile in css_files %}
-    <link rel="stylesheet" href="{{ pathto(cssfile, 1) }}" type="text/css" />
-    {%- endfor %}
-{%- endmacro %}
-
 {%- set css_files = [
     '_static/css/bootstrap.min.css',
     '_static/css/font-awesome.min.css',
@@ -36,9 +24,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 {% endblock %}
 
+
 {%- block css %}
-    {{ css_file(css_files) }}
-    {{ script_file(script_files) }}
+{# Don't include the parent theme's css files #}
+{%- endblock %}
+
+{%- block headjs %}
+{# Don't include the parent theme's js files #}
 {%- endblock %}
 
 {# Use the header block to insert the header navbar content #}
@@ -72,30 +64,14 @@
 							<a href="#"><i class="fa fa-menu fa-chevron-down"></i>Community</a>
 							<div class="megamenu full">
 								<div class="row">
-									{# Event calendar is not done
-									<div class="col-3">
-										<ul class="megamenu-list">
-											<li class="menu-title"><i class="fa fa-menu-title fa-calendar-o"></i>Calendar</li>
-											<li><a href="#"><i class="fa fa-menu fa-chevron-right"></i>Meetups</a></li>
-											<li><a href="#"><i class="fa fa-menu fa-chevron-right"></i>Events</a></li>
-										</ul>
-									</div>
-									#}
-									{# Marketplace doesn't exist yet
-									<div class="col-3">
-										<ul class="megamenu-list">
-											{% include 'menu/marketplace.html' %}
-										</ul>
-									</div>
-									#}
-									<div class="col-6">
-										<ul class="megamenu-list">
-											{% include 'menu/help.html' %}
-										</ul>
-									</div>
 									<div class="col-6">
 										<ul class="megamenu-list">
 											{% include 'menu/community.html' %}
+										</ul>
+									</div>
+									<div class="col-6">
+										<ul class="megamenu-list">
+											{% include 'menu/help.html' %}
 										</ul>
 									</div>
 								</div>

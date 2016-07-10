@@ -27,8 +27,8 @@ Multiple Pagination Support Added
 ---------------------------------
 
 You can now paginate multiple queries in a single controller action/view
-template. By using the ``scope`` option you can use scoped the query string
-parameters used in pagination::
+template. By using the ``scope`` option you can use scoped query string
+parameters in pagination::
 
     // In a controller action
     $articles = $this->paginate($this->Articles, ['scope' => 'article']);

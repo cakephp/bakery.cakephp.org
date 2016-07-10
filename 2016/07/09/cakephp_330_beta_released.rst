@@ -9,6 +9,13 @@ might have on the new features before their API definitions become stable. In
 particular for the new PSR7 related features, as we see PSR7 as playing a big
 part in CakePHP's future.
 
+Upgrading to the Beta
+---------------------
+
+You can use composer to upgrade to the beta version of CakePHP 3.3.0::
+
+    php composer.phar require "cakephp/cakephp:3.3.0-beta"
+
 Behavior Changes
 ----------------
 

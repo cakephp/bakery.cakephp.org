@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 3.2.13. See the `changelog
-<https://github.com/cakephp/cakephp/compare/3.2.11...3.2.13>`_ for changes.
+<https://github.com/cakephp/cakephp/compare/3.2.12...3.2.13>`_ for changes.
 
 * The ``Content-Type`` header works better in controller integration tests.
   (@dakota)
@@ -45,7 +45,6 @@ Minor Enhancements
   ``QueryExpression``. (@skie)
 * A warning is now logged by ``Cake\Network\Response`` when headers have already
   been sent. (@markstory)
-* 
 
 As always, a huge thanks to all the community members that helped make this
 release happen by reporting issues and sending pull requests.

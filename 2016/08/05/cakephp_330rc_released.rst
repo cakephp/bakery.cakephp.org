@@ -6,8 +6,8 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 improvements both large and small to CakePHP. It also deprecates several
 features that will be removed in 4.0.0.
 
-Upgrading to this Beta
-----------------------
+Upgrading to this Version
+-------------------------
 
 You can use composer to upgrade to the RC version of CakePHP 3.3.0::
 

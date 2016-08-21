@@ -1904,6 +1904,12 @@ header {
     background: #2B2B2B;
 }
 
+
+.buss-icon-8 {
+    font-size: 25px;
+    color: white;
+}
+
 .footer-wrapper {
     font-weight: 400;
     letter-spacing: 0.01em;

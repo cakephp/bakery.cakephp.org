@@ -117,6 +117,71 @@
         float: none;
         margin-left: 0;
     }
+
+    /* ---------------------- BUSINESS SOLUTIONS ------------------------- */
+
+    .title-business-dc h5 {
+        text-align: center;
+    }
+
+    .icon-business-dev {
+        font-size: 230px;
+        padding-bottom: 110px;
+    }
+
+    .buss-icon-1 {
+        padding-top: 60px;
+        display: block;
+        padding-bottom: 80px;
+        font-size: 140px;
+    }
+
+    .buss-icon-2 {
+        margin-top: 19px;
+        display: block;
+        font-size: 140px;
+        padding-bottom: 30px;
+    }
+
+    .buss-icon-3 {
+        display: block;
+        font-size: 110px;
+        padding-bottom: 10px;
+        padding-top: 70px;
+    }
+
+    .buss-icon-4 {
+        padding-top: 70px;
+    }
+
+    .buss-icon-5 {
+        padding-top: 70px;
+        text-align: left;
+        display: block;
+        padding-bottom: 70px;
+        font-size: 140px;
+    }
+
+    .buss-icon-6 {
+        padding-top: 30px;
+        font-size: 100px;
+        text-align: left;
+        display: block;
+        padding-bottom: 60px;
+    }
+
+    .phone-busi {
+        font-size: 20px;
+    }
+
+    .phone-icon-busi {
+        font-size: 20px;
+    }
+
+    .premium-contact-busi p {
+        display: block;
+        margin-bottom: 30px;
+    }
 }
 
 

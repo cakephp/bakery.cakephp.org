@@ -13,10 +13,10 @@ tagline = 'Everything CakePHP'
 description = 'Latest news and articles about CakePHP'
 
 # Change this to your name
-author = 'CakePHP'
+author = 'Cake Software Foundation, Inc'
 
 # Change this to your copyright string
-copyright = '2016, ' + author
+copyright = '2005-2016 ' + author
 
 # Change this to your blog root URL (required for RSS feed)
 website = 'http://bakery.cakephp.org'

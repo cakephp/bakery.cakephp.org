@@ -339,11 +339,11 @@ iframe {
 
 
 /* Submenu */
-.submenu, 
+.submenu,
 .submenu .submenu {
     list-style: none;
     margin: 0;
-    padding: 0;   
+    padding: 0;
     display: none;
     position: absolute;
     z-index: 999999;
@@ -576,7 +576,7 @@ iframe {
 /* Menu on Mobiles */
 
     @media (max-width: 767px) {
-        .header-wrapper { 
+        .header-wrapper {
             background-color: #D33C44;
             color: #dadde2;
         }
@@ -636,7 +636,7 @@ iframe {
             display:block;
             color: white;
         }
-        .menu > li > a, 
+        .menu > li > a,
         .menu > .right > a {
             padding: 15px 25px;
         }
@@ -645,12 +645,12 @@ iframe {
             color:rgb(191, 191, 191);
         }
 
-        .submenu, 
+        .submenu,
         .submenu .submenu {
             width: 100% !important;
             left: 0;
             position: static !important;
-            border: none; 
+            border: none;
         }
         .submenu { border-top:none; }
 
@@ -679,9 +679,9 @@ iframe {
 
 
         /* Topbar */
-        .topbar .pull-right { 
-            float:none !important; 
-            margin-top: 20px; 
+        .topbar .pull-right {
+            float:none !important;
+            margin-top: 20px;
             margin-bottom:20px;
         }
     }
@@ -807,11 +807,11 @@ iframe {
 
 
 /* *********************    Elements    ********************* */
-    /* Forms, Buttons, Alerts, Progress Bars, Tabs, Accordions, 
+    /* Forms, Buttons, Alerts, Progress Bars, Tabs, Accordions,
     Popovers, Tolltips, Toggles etc */
 
 
-    /* Forms */ 
+    /* Forms */
     .form .form-control {
         border-radius:2px;
         background-color:#e8e8e8;
@@ -912,7 +912,7 @@ iframe {
         }
     }
 
-    .form-group { 
+    .form-group {
         position:relative;
     }
 
@@ -1150,7 +1150,7 @@ iframe {
         box-shadow:2px 4px 14px rgba(0,0,0,0.5);
     }
 
-    
+
     /* Background buttons */
     .btn.btn-bg {
         color:#fff;
@@ -1261,9 +1261,9 @@ iframe {
         font-size: 16px;
         font-weight: 400;
         line-height: 18px;
-        background-color: inherit; 
-        border-bottom: none; 
-        border-radius: 0; 
+        background-color: inherit;
+        border-bottom: none;
+        border-radius: 0;
     }
     .popover-title::after {
         content:"";
@@ -1468,7 +1468,7 @@ iframe {
 
 
     /* Media */
-    .media, 
+    .media,
     .media .media {
         margin-top:40px;
     }

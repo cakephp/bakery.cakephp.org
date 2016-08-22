@@ -58,7 +58,7 @@ Thank you to all the contributors that helped make this release happen:
 *  antograssiot
 *  saeideng
 
-As always, we would like to thank all the contributers that opened issues,
+As always, we would like to thank all the contributors that opened issues,
 opened pull requests or updated the documentation.
 
 Download a `packaged release on github

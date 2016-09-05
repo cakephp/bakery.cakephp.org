@@ -22,7 +22,9 @@ You can expect the following changes in 3.3.3. See the `changelog
   ambiguous behavior when relative paths were used.
 * ``TestCase::getMockForModel()`` now ensures that generated mocks have the
   correct table name.
-* ``EntityTrait::clean()`` now resets the original value states.
+* ``EntityTrait::clean()`` now resets the original value states. This means
+  that you will no longer have access to original values after
+  a successful save
 * Marshalling no longer marks unchanged ``null`` values as dirty.
 * Numeric column names are now correctly quoted when identifier quoting is
   enabled.

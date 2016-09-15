@@ -2,7 +2,7 @@ CakePHP 2.8.7 Released
 ======================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
-2.8.7. This is a maintenance release for the 3.3 branch that fixes several
+2.8.7. This is a maintenance release for the 2.8 branch that fixes several
 community reported issues.
 
 Bugfixes

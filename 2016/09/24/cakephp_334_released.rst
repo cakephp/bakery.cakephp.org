@@ -62,6 +62,7 @@ Thank you to all the contributors that helped make this release happen:
 * José Lorenzo Rodríguez
 * Mark Story
 * Mirko Pagliai
+* mscherer
 * Pedro Tanaka
 * Thinking Media
 * chinpei215

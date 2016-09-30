@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2016/09/24/cakephp_335_released
    2016/09/24/cakephp_334_released
    2016/09/18/cakephp_290_289_released
    2016/09/14/cakephp_287_released
@@ -274,4 +275,3 @@ Sitemap
    2012/01/09/CakePHP-2-1-alpha-just-baked
    2012/01/05/Layout-Component
    2012/01/04/Adding-a-TinyMCE-image-browser-to-CakePHP-2
-

@@ -17,7 +17,7 @@ You can expect the following changes in 3.3.8. See the `changelog
   they should.
 * ``ResponseEmitter`` no longer calls a missing method on ``Log``.
 * ``TranslateBehavior`` no longer creates translation records for the default
-  loacle. This was a regression introduced in 3.3.7.
+  locale. This was a regression introduced in 3.3.7.
 * Fixed column SQL generation nullable column with default values.
 * Options passed to ``Table::validateUnique()`` are now passed to the generated
   rule object.

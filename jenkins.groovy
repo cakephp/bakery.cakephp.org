@@ -8,6 +8,7 @@ job('Bakery - Rebuild and deploy') {
     github(REPO_NAME, 'master')
   }
   triggers {
+    scm('H/5 * * * *')
     githubPush()
   }
   logRotator {

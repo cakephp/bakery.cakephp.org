@@ -6,7 +6,7 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 Bugfixes
 --------
 
-You can expect the following changes in 3.3.11. See the [changelog](https://github.com/cakephp/cakephp/compare/3.3.10...3.3.11) for every commit.
+You can expect the following changes in 3.3.11. See the `changelog <https://github.com/cakephp/cakephp/compare/3.3.10...3.3.11>`_ for every commit.
 
 
 * ``Xml::fromArray()`` now serialized ``'0'`` correctly.

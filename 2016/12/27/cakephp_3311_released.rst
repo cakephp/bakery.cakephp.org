@@ -20,7 +20,7 @@ New Features
 The 3.3.11 introduces a few new features:
 
 * Improved API documentation.
-* ``Validation::(min|max)ByteLength()`` were added. These methods let you check
+* ``Validation::(min|max)LengthBytes()`` were added. These methods let you check
   the number of bytes in a value where as ``(min|max)Length()`` let you check
   the number of characters.
 * The Form library is now offered as a standalone package.

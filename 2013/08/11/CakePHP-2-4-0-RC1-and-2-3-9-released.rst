@@ -61,8 +61,8 @@ Download a packaged release [4].
 Links
 ~~~~~
 
-+ [1] `http://cakephp.org/changelogs/2.4.0-RC1`_
-+ [2] `http://cakephp.org/changelogs/2.3.9`_
++ [1] `https://cakephp.org/changelogs/2.4.0-RC1`_
++ [2] `https://cakephp.org/changelogs/2.3.9`_
 + [3] `http://cakefest.org/`_
 + [4] `https://github.com/cakephp/cakephp/tags`_
 
@@ -70,8 +70,8 @@ Links
 
 
 .. _http://cakefest.org/: http://cakefest.org/
-.. _http://cakephp.org/changelogs/2.4.0-RC1: http://cakephp.org/changelogs/2.4.0-RC1
-.. _http://cakephp.org/changelogs/2.3.9: http://cakephp.org/changelogs/2.3.9
+.. _https://cakephp.org/changelogs/2.4.0-RC1: https://cakephp.org/changelogs/2.4.0-RC1
+.. _https://cakephp.org/changelogs/2.3.9: https://cakephp.org/changelogs/2.3.9
 .. _https://github.com/cakephp/cakephp/tags: https://github.com/cakephp/cakephp/tags
 
 .. author:: lorenzo

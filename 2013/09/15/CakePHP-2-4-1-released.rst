@@ -61,14 +61,14 @@ CakePHP. Download a packaged release [2].
 Links
 ~~~~~
 
-+ [1] `http://cakephp.org/changelogs/2.4.1`_
-+ [2] `http://github.com/cakephp/cakephp/releases/2.4.1`_
++ [1] `https://cakephp.org/changelogs/2.4.1`_
++ [2] `https://github.com/cakephp/cakephp/releases/2.4.1`_
 
 
 
 
-.. _http://github.com/cakephp/cakephp/releases/2.4.1: http://github.com/cakephp/cakephp/releases/2.4.1
-.. _http://cakephp.org/changelogs/2.4.1: http://cakephp.org/changelogs/2.4.1
+.. _https://github.com/cakephp/cakephp/releases/2.4.1: https://github.com/cakephp/cakephp/releases/2.4.1
+.. _https://cakephp.org/changelogs/2.4.1: https://cakephp.org/changelogs/2.4.1
 
 .. author:: markstory
 .. categories:: news

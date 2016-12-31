@@ -76,14 +76,14 @@ would be no CakePHP!
 Links
 ~~~~~
 
-+ [1] `http://github.com/cakephp/cakephp`_
-+ [2] `http://cakephp.org/changelogs/2.1.0-beta`_
++ [1] `https://github.com/cakephp/cakephp`_
++ [2] `https://cakephp.org/changelogs/2.1.0-beta`_
 
 
 
 
-.. _http://cakephp.org/changelogs/2.1.0-beta: http://cakephp.org/changelogs/2.1.0-beta
-.. _http://github.com/cakephp/cakephp: http://github.com/cakephp/cakephp
+.. _https://cakephp.org/changelogs/2.1.0-beta: https://cakephp.org/changelogs/2.1.0-beta
+.. _https://github.com/cakephp/cakephp: https://github.com/cakephp/cakephp
 
 .. author:: lorenzo
 .. categories:: news

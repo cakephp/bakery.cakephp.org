@@ -53,13 +53,13 @@ view:
 
 I tested this code using CakePHP 1.2.11 and the following is the
 documentation link for afterFind
-callback:`http://book.cakephp.org/1.2/en/view/681/afterFind`_
+callback:`https://book.cakephp.org/1.2/en/view/681/afterFind`_
 
 I hope this article to be useful for you and it is clear that it may
 be applied for any hasMany relations.
 
 
-.. _http://book.cakephp.org/1.2/en/view/681/afterFind: http://book.cakephp.org/1.2/en/view/681/afterFind
+.. _https://book.cakephp.org/1.2/en/view/681/afterFind: https://book.cakephp.org/1.2/en/view/681/afterFind
 
 .. author:: saidbakr
 .. categories:: articles

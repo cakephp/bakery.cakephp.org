@@ -10,7 +10,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 3.0.14. See the `changelog
-<http://cakephp.org/changelogs/3.0.14>`_ for every commit.
+<https://cakephp.org/changelogs/3.0.14>`_ for every commit.
 
 - I18n shell no longer outputs both merged and separate domain pot files when
   ``--merge`` is used.

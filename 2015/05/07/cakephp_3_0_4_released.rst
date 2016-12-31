@@ -16,7 +16,7 @@ There are two issues that can impact the security of a CakePHP application:
   not be bypassed by these empty entities.
 
 We'd like to thank 'Hayato Araki' for contacting us through our `security issue
-<http://book.cakephp.org/3.0/en/contributing/tickets.html#reporting-security-issues>`_ 
+<https://book.cakephp.org/3.0/en/contributing/tickets.html#reporting-security-issues>`_
 process about the CsrfComponent issue. We recommend that all users of CakePHP
 upgrade to 3.0.4 as soon as possible.
 
@@ -40,7 +40,7 @@ In addition to the security issues the following defects have been fixed:
   properties are changed or removed.
 
 For a deeper insight of what changed, have a look at the
-`release notes <http://cakephp.org/changelogs/3.0.4>`_.
+`release notes <https://cakephp.org/changelogs/3.0.4>`_.
 
 CakeFest 2015 Tickets
 ---------------------

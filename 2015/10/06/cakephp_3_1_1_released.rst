@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 3.1.1. See the `changelog
-<http://cakephp.org/changelogs/3.1.1>`_ for every commit.
+<https://cakephp.org/changelogs/3.1.1>`_ for every commit.
 
 * ``Query::contain()`` now correctly overwrites existing containments when
   ``$override`` is true.

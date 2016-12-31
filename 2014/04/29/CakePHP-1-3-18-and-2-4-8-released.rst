@@ -47,14 +47,14 @@ contributed to the framework. Without you there would be no CakePHP.
 Links
 ~~~~~
 
-+ [1] `http://cakephp.org/changelogs/1.3.18`_
-+ [2] `http://cakephp.org/changelogs/2.4.8`_
++ [1] `https://cakephp.org/changelogs/1.3.18`_
++ [2] `https://cakephp.org/changelogs/2.4.8`_
 
 
 
 
-.. _http://cakephp.org/changelogs/1.3.18: http://cakephp.org/changelogs/1.3.18
-.. _http://cakephp.org/changelogs/2.4.8: http://cakephp.org/changelogs/2.4.8
+.. _https://cakephp.org/changelogs/1.3.18: https://cakephp.org/changelogs/1.3.18
+.. _https://cakephp.org/changelogs/2.4.8: https://cakephp.org/changelogs/2.4.8
 
 .. author:: markstory
 .. categories:: news

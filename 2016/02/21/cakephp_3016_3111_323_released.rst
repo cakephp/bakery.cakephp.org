@@ -46,7 +46,7 @@ CakeFest 2016 will be in Amsterdam from May 26th - May 29th. If you'd like to sp
 CakePHP Newsletter
 ----------------------------
 
-Be sure to sign up for our [Newsletter](http://cakephp.org/newsletter/signup) to stay updated with what is happening with CakePHP. We also have a security list for anyone that is interested in receiving details about security releases.
+Be sure to sign up for our [Newsletter](https://cakephp.org/newsletter/signup) to stay updated with what is happening with CakePHP. We also have a security list for anyone that is interested in receiving details about security releases.
 
 As always, a huge thanks to all the community members that helped make this release happen by reporting issues and sending pull requests.
 

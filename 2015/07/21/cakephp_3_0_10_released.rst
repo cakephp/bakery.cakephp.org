@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 3.0.10. See the `changelog
-<http://cakephp.org/changelogs/3.0.10>`_ for every commit.
+<https://cakephp.org/changelogs/3.0.10>`_ for every commit.
 
 * Fixed issue with getting plugin behaviors by alias
 * ``FormHelper`` do not throw warnings anymore when the ``_ids`` property of a field is

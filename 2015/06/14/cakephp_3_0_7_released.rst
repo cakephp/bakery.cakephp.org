@@ -3,7 +3,7 @@ CakePHP 3.0.7 Released
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 3.0.7. This is a maintenance release for the 3.0 release series.  See the
-`changelog <http://cakephp.org/changelogs/3.0.7>`_ for every commit.
+`changelog <https://cakephp.org/changelogs/3.0.7>`_ for every commit.
 
 Bug Fixes in 3.0.7
 ------------------

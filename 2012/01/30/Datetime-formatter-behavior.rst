@@ -4,11 +4,11 @@ Datetime formatter behavior
 Taking the idea from previous post, I have made a Behavior that
 formats date and datetime fields.
 
-I took the idea from Rikkin post:`http://bakery.cakephp.org/articles/rikkin/2012/01/26/formatos_de_fechas`_
+I took the idea from Rikkin post:`https://bakery.cakephp.org/articles/rikkin/2012/01/26/formatos_de_fechas`_
 
 Give thanks to him, I only put his idea into a behavior.
 
-Here's the code: (pasted here: `http://bin.cakephp.org/saved/72238)`_
+Here's the code: (pasted here: `https://bin.cakephp.org/saved/72238)`_
 
 ::
 
@@ -57,8 +57,8 @@ Here's the code: (pasted here: `http://bin.cakephp.org/saved/72238)`_
 
 
 
-.. _http://bakery.cakephp.org/articles/rikkin/2012/01/26/formatos_de_fechas: http://bakery.cakephp.org/articles/rikkin/2012/01/26/formatos_de_fechas
-.. _http://bin.cakephp.org/saved/72238): http://bin.cakephp.org/saved/72238)
+.. _https://bakery.cakephp.org/articles/rikkin/2012/01/26/formatos_de_fechas: https://bakery.cakephp.org/articles/rikkin/2012/01/26/formatos_de_fechas
+.. _https://bin.cakephp.org/saved/72238): https://bin.cakephp.org/saved/72238)
 
 .. author:: adael
 .. categories:: articles

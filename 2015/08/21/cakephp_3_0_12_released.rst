@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 3.0.12. See the `changelog
-<http://cakephp.org/changelogs/3.0.12>`_ for every commit.
+<https://cakephp.org/changelogs/3.0.12>`_ for every commit.
 
 * ``RuleChecker::existsIn()`` handles nullable fields better.
 * Entities created by plugin associations have the correct return value for

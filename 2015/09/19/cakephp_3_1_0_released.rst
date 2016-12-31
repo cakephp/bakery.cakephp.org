@@ -51,7 +51,7 @@ Mailers allow you to create reusable emails throughout your application. They
 can also be used to contain multiple email configurations in one location. This
 helps keep your code DRYer and keeps email configuration noise out of other
 areas in your application. See the `Mailer Documentation for more information
-<http://book.cakephp.org/3.0/en/core-libraries/email.html#creating-reusable-emails>`_.
+<https://book.cakephp.org/3.0/en/core-libraries/email.html#creating-reusable-emails>`_.
 
 Additional Template Variables in Templates
 -------------------------------------------
@@ -177,7 +177,7 @@ replaced with better solutions. Deprecated features will not be removed until
   using the ViewBuilder.
 
 The `3.1 migration guide
-<http://book.cakephp.org/3.0/en/appendices/3-1-migration-guide.html>`_ has
+<https://book.cakephp.org/3.0/en/appendices/3-1-migration-guide.html>`_ has
 a full list of all the changes in 3.1.0 and is recommended reading for those
 considering upgrading.
 

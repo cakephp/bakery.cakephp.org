@@ -60,7 +60,7 @@ expire.
 
 ::
 
-    
+
     /**
      *
      * Licensed under The MIT License
@@ -68,28 +68,28 @@ expire.
      * Redistributions of files must retain the above copyright notice.
      *
      * @copyright     Copyright (c) Chris Nizzardini
-     * @link          http://cakephp.org CakePHP(tm) Project
+     * @link          https://cakephp.org CakePHP(tm) Project
      * @package       Cake.Controller.Component.Acl
      * @license       MIT License (http://www.opensource.org/licenses/mit-license.php)
      */
     App::uses('AclInterface', 'Controller/Component/Acl');
     App::uses('Hash', 'Utility');
     App::uses('ClassRegistry', 'Utility');
-     
+
     /**
      * CacheDbAcl works the exact sabe as DbAcl expect that it will cache the results to using a cache config of your choosing:
-     * - Configurations in bootstrap.php: 
+     * - Configurations in bootstrap.php:
      * App::uses('CacheDbAcl', 'Lib');
      * Configure::write('CacheDbAclConfig','Name_of_Your_Cache_Config')
      * Configure::write('CacheDbAclAro','YourArrayKey.YourArray');
-     * 
+     *
      * - Configurations in core.php:
      * Configure::write('Acl.classname', 'CacheDbAcl');
-     * 
+     *
      * @package       Cake.Controller.Component.Acl
      */
     class CacheDbAcl extends Object implements AclInterface {
-     
+
     /**
      * Constructor
      *
@@ -100,7 +100,7 @@ expire.
     		$this->Aro = $this->Permission->Aro;
     		$this->Aco = $this->Permission->Aco;
     	}
-     
+
     /**
      * Initializes the containing component and sets the Aro/Aco objects to it.
      *
@@ -111,7 +111,7 @@ expire.
     		$component->Aro = $this->Aro;
     		$component->Aco = $this->Aco;
     	}
-     
+
     /**
      * Checks if the given $aro has access to action $action in $aco
      *
@@ -119,22 +119,22 @@ expire.
      * @param string $aco ACO The controlled object identifier.
      * @param string $action Action (defaults to *)
      * @return boolean Success (true if ARO has access to action in ACO, false otherwise)
-     * @link http://book.cakephp.org/2.0/en/core-libraries/components/access-control-lists.html#checking-permissions-the-acl-component
+     * @link https://book.cakephp.org/2.0/en/core-libraries/components/access-control-lists.html#checking-permissions-the-acl-component
      */
     	public function check($aro, $aco, $action = "*") {
-            
+
             // if cache is disabled then default to normal operation
             if(Configure::read('Cache.disable') == true){
                 return $this->Permission->check($aro, $aco, $action);
-            }        
-            
+            }
+
             // read name of cache config for AclCache
             $cacheConfig = Configure::read('CacheDbAclConfig');
             // if not found then use default
             if(!$cacheConfig){
                 $cacheConfig = 'default';
             }
-            
+
             // check which portion of $aro to use for key
             $cacheAro = Configure::read('CacheDbAclAro');
             // if not set just serialze $aro
@@ -153,7 +153,7 @@ expire.
                         $aroTmp = $aroTmp[$i];
                     }
                 }
-                
+
                 if(!isset($aroTmp) || empty($aroTmp)){
                     $cacheKey = 'CacheDbAcl_'.md5(serialize($aro).$aco.$action);
                 }
@@ -161,10 +161,10 @@ expire.
                     $cacheKey = 'CacheDbAcl_'.md5(serialize($aroTmp).$aco.$action);
                 }
             }
-            
+
             // check for cache key in cache
             $check = Cache::read($cacheKey);
-            
+
             // if key exists then return value
             if( $check !== false ){
                 return $check;
@@ -174,10 +174,10 @@ expire.
                 $check = $this->Permission->check($aro, $aco, $action);
                 Cache::write($cacheKey,$check,$cacheConfig);
             }
-            
+
     		return $check;
     	}
-     
+
     /**
      * Allow $aro to have access to action $actions in $aco
      *
@@ -186,12 +186,12 @@ expire.
      * @param string $actions Action (defaults to *)
      * @param integer $value Value to indicate access type (1 to give access, -1 to deny, 0 to inherit)
      * @return boolean Success
-     * @link http://book.cakephp.org/2.0/en/core-libraries/components/access-control-lists.html#assigning-permissions
+     * @link https://book.cakephp.org/2.0/en/core-libraries/components/access-control-lists.html#assigning-permissions
      */
     	public function allow($aro, $aco, $actions = "*", $value = 1) {
     		return $this->Permission->allow($aro, $aco, $actions, $value);
     	}
-     
+
     /**
      * Deny access for $aro to action $action in $aco
      *
@@ -199,12 +199,12 @@ expire.
      * @param string $aco ACO The controlled object identifier.
      * @param string $action Action (defaults to *)
      * @return boolean Success
-     * @link http://book.cakephp.org/2.0/en/core-libraries/components/access-control-lists.html#assigning-permissions
+     * @link https://book.cakephp.org/2.0/en/core-libraries/components/access-control-lists.html#assigning-permissions
      */
     	public function deny($aro, $aco, $action = "*") {
     		return $this->allow($aro, $aco, $action, -1);
     	}
-     
+
     /**
      * Let access for $aro to action $action in $aco be inherited
      *
@@ -216,7 +216,7 @@ expire.
     	public function inherit($aro, $aco, $action = "*") {
     		return $this->allow($aro, $aco, $action, 0);
     	}
-     
+
     /**
      * Allow $aro to have access to action $actions in $aco
      *
@@ -229,7 +229,7 @@ expire.
     	public function grant($aro, $aco, $action = "*") {
     		return $this->allow($aro, $aco, $action);
     	}
-     
+
     /**
      * Deny access for $aro to action $action in $aco
      *
@@ -242,7 +242,7 @@ expire.
     	public function revoke($aro, $aco, $action = "*") {
     		return $this->deny($aro, $aco, $action);
     	}
-     
+
     /**
      * Get an array of access-control links between the given Aro and Aco
      *
@@ -253,7 +253,7 @@ expire.
     	public function getAclLink($aro, $aco) {
     		return $this->Permission->getAclLink($aro, $aco);
     	}
-     
+
     /**
      * Get the keys used in an ACO
      *
@@ -263,7 +263,7 @@ expire.
     	protected function _getAcoKeys($keys) {
     		return $this->Permission->getAcoKeys($keys);
     	}
-     
+
     }
 
 

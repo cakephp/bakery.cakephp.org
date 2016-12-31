@@ -88,7 +88,7 @@ that have helped so far with the 3.0 release. Download a `packaged
 release`_.
 
 
-.. _migration guide: http://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html
+.. _migration guide: https://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html
 .. _packaged release: https://github.com/cakephp/cakephp/releases/3.0.0-RC2
 
 .. author:: markstory

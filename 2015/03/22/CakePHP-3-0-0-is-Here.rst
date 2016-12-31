@@ -162,26 +162,26 @@ Download a `packaged release`_ or get started with
 
 
 .. _bake: https://github.com/cakephp/bake
-.. _query building with a fluent interface: http://book.cakephp.org/3.0/en/orm/query-builder.html
+.. _query building with a fluent interface: https://book.cakephp.org/3.0/en/orm/query-builder.html
 .. _DebugKit: https://github.com/cakephp/debug_kit
 .. _acl: https://github.com/cakephp/acl
-.. _the quickstart guide: http://book.cakephp.org/3.0/en/quickstart.html
-.. _ORM migration guide: http://book.cakephp.org/3.0/en/appendices/orm-migration.html
-.. _eager loading strategies: http://book.cakephp.org/3.0/en/orm/associations.html#hasmany-associations
-.. _Custom data types: http://book.cakephp.org/3.0/en/orm/database-basics.html#adding-custom-types
-.. _Read more about View Cells: http://book.cakephp.org/3.0/en/views/cells.html
-.. _Feature-rich translation messages: http://book.cakephp.org/3.0/en/core-libraries/internationalization-and-localization.html#using-variables-in-translation-messages
+.. _the quickstart guide: https://book.cakephp.org/3.0/en/quickstart.html
+.. _ORM migration guide: https://book.cakephp.org/3.0/en/appendices/orm-migration.html
+.. _eager loading strategies: https://book.cakephp.org/3.0/en/orm/associations.html#hasmany-associations
+.. _Custom data types: https://book.cakephp.org/3.0/en/orm/database-basics.html#adding-custom-types
+.. _Read more about View Cells: https://book.cakephp.org/3.0/en/views/cells.html
+.. _Feature-rich translation messages: https://book.cakephp.org/3.0/en/core-libraries/internationalization-and-localization.html#using-variables-in-translation-messages
 .. _migrations: https://github.com/cakephp/migrations/
 .. _phinx: https://phinx.org/
-.. _full featured collections library: http://book.cakephp.org/3.0/en/core-libraries/collections.html
-.. _Datamapper Pattern: http://book.cakephp.org/3.0/en/orm.html#models
-.. _A locale-aware Time Library: http://book.cakephp.org/3.0/en/views/helpers/time.html
-.. _migration guide: http://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html
+.. _full featured collections library: https://book.cakephp.org/3.0/en/core-libraries/collections.html
+.. _Datamapper Pattern: https://book.cakephp.org/3.0/en/orm.html#models
+.. _A locale-aware Time Library: https://book.cakephp.org/3.0/en/views/helpers/time.html
+.. _migration guide: https://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html
 .. _list of CakePHP 3 community plugins: https://github.com/FriendsOfCake/awesome-cakephp
 .. _packaged release: https://github.com/cakephp/cakephp/releases/3.0.0
-.. _Routing section of the manual: http://book.cakephp.org/3.0/en/development/routing.html
-.. _A locale-aware Number Library: http://book.cakephp.org/3.0/en/views/helpers/number.html
-.. |DebugKit History Panel| image:: http://book.cakephp.org/3.0/en/_images/history-panel-use.gif
+.. _Routing section of the manual: https://book.cakephp.org/3.0/en/development/routing.html
+.. _A locale-aware Number Library: https://book.cakephp.org/3.0/en/views/helpers/number.html
+.. |DebugKit History Panel| image:: https://book.cakephp.org/3.0/en/_images/history-panel-use.gif
 
 .. author:: lorenzo
 .. categories:: news

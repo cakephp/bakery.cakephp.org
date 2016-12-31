@@ -3,7 +3,7 @@
 
 I found this project and made some changes to it and published it on
 Github. All the credits go to the original poster (Tom_M
-http://bakery.cakephp.org/users/view/tom_m), all I did was make it
+https://bakery.cakephp.org/users/view/tom_m), all I did was make it
 available on Github and a few changes for CakePHP 2.1. You can get the
 'new' version at https://github.com/snelweg/CakePHP-960-fluid
 
@@ -37,7 +37,7 @@ others too if you have more bake templates. Anyway, choose "960grid"
 and that's it. You should be set.
 
 Check out the manual for more information:
-`http://book.cakephp.org/view/789/Modify-default-HTML-produced-by-baked-templates`_
+`https://book.cakephp.org/view/789/Modify-default-HTML-produced-by-baked-templates`_
 
 
 New version
@@ -46,7 +46,7 @@ You can get the 'new' version at
 https://github.com/snelweg/CakePHP-960-fluid
 
 .. _http://www.shift8creative.com/project/960-fluid-grid-system-cakephp-bake-templates: http://www.shift8creative.com/project/960-fluid-grid-system-cakephp-bake-templates
-.. _http://book.cakephp.org/view/789/Modify-default-HTML-produced-by-baked-templates: http://book.cakephp.org/view/789/Modify-default-HTML-produced-by-baked-templates
+.. _https://book.cakephp.org/view/789/Modify-default-HTML-produced-by-baked-templates: https://book.cakephp.org/view/789/Modify-default-HTML-produced-by-baked-templates
 .. _http://www.shift8creative.com/files/960-fluid-cakephp-bake-template.tar.gz: http://www.shift8creative.com/files/960-fluid-cakephp-bake-template.tar.gz
 .. _http://www.designinfluences.com/fluid960gs: http://www.designinfluences.com/fluid960gs
 

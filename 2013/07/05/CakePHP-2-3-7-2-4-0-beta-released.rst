@@ -339,10 +339,10 @@ Download a packaged release [4].
 Links
 ~~~~~
 
-+ [1] http://cakephp.org/changelogs/2.4.0-beta
-+ [2] http://book.cakephp.org/2.0/en/appendices/2-4-migration-
++ [1] https://cakephp.org/changelogs/2.4.0-beta
++ [2] https://book.cakephp.org/2.0/en/appendices/2-4-migration-
   guide.html
-+ [3] http://api.cakephp.org/2.4
++ [3] https://api.cakephp.org/2.4
 + [4] https://github.com/cakephp/cakephp/tags
 
 

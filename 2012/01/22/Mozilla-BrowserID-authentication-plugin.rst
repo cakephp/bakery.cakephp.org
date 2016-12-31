@@ -9,7 +9,7 @@ simple way to enable your users to login to your cake application
 using only their email address.
 
 Please let me know what you think of my first plugin. Github page is
-`http://github.com/OverFlow636/ofbid`_
+`https://github.com/OverFlow636/ofbid`_
 
 Prerequisites
 
@@ -49,7 +49,7 @@ B0x1A0
 
 
 .. _https://github.com/OverFlow636/Ofbid.git: https://github.com/OverFlow636/Ofbid.git
-.. _http://github.com/OverFlow636/ofbid: http://github.com/OverFlow636/ofbid
+.. _https://github.com/OverFlow636/ofbid: https://github.com/OverFlow636/ofbid
 
 .. author:: overflow636
 .. categories:: articles, plugins

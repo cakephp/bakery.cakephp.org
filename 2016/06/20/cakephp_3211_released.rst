@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 3.2.11. See the `changelog
-<http://cakephp.org/changelogs/3.2.11>`_ for every commit.
+<https://cakephp.org/changelogs/3.2.11>`_ for every commit.
 
 * SQLServer schema correctly handles default values of 'NULL'. (@ADmad)
 * Model prefixed data is now merged with un-prefixed by the Marshaller instead

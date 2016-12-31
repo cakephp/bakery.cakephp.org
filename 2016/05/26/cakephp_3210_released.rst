@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 3.2.10. See the `changelog
-<http://cakephp.org/changelogs/3.2.10>`_ for every commit.
+<https://cakephp.org/changelogs/3.2.10>`_ for every commit.
 
 * ``Query::insert()`` now resets columns when called multiple times.
   (@markstory)

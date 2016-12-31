@@ -164,8 +164,8 @@ Development on 3.3 will now start. The `Roadmap
 <https://github.com/cakephp/cakephp/wiki/3.3-Roadmap>`_ for 3.3 is still
 incomplete, so if there is a feature or improvement you'd like to see reach out
 on IRC and github.  The documentation for 3.2.0 is currently
-available in the `book <http://book.cakephp.org/3.0/en>`_ and the `API
-<http://api.cakephp.org/3.2>`_.
+available in the `book <https://book.cakephp.org/3.0/en>`_ and the `API
+<https://api.cakephp.org/3.2>`_.
 
 As always, a huge thanks to all the community members that helped make this
 release happen by reporting issues and sending pull requests.

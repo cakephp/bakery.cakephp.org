@@ -6,7 +6,7 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 Bugfixes
 --------
 
-You can expect the following changes in 3.1.7. See the `changelog <http://cakephp.org/changelogs/3.1.7>`_ for every commit.
+You can expect the following changes in 3.1.7. See the `changelog <https://cakephp.org/changelogs/3.1.7>`_ for every commit.
 
 * ``Paginator::numbers()`` now treats numeric string values in ``first`` and ``last`` as strings.
 * Using invalid associations in ExistsIn rules now raises a helpful error.

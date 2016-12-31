@@ -6,7 +6,7 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 Bugfixes
 --------
 
-You can expect the following changes in 3.1.8. See the `changelog <http://cakephp.org/changelogs/3.1.8>`_ for every commit.
+You can expect the following changes in 3.1.8. See the `changelog <https://cakephp.org/changelogs/3.1.8>`_ for every commit.
 
 * Using ``matching()`` on a BelongsToMany association with conditions no longer emits invalid SQL. (@markstory)
 * Generated reciprocal BelongsToMany associations have the original conditions applied to them. (@markstory)

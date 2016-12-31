@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 2.7.3. See the `changelog
-<http://cakephp.org/changelogs/2.7.3>`_ for every commit.
+<https://cakephp.org/changelogs/2.7.3>`_ for every commit.
 
 * ``DboSource::isConnected()`` now emits a ``SELECT 1`` query to ensure the
   connection is still active. This is helpful in long running processes like CLI

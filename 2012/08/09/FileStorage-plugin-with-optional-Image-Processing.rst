@@ -158,7 +158,7 @@ instead of simply passing the tmp path as it is.
 Download
 ~~~~~~~~
 
-You can get the plugin from `http://github.com/burzum/FileStorage`_
+You can get the plugin from `https://github.com/burzum/FileStorage`_
 
 I consider it as stable, I've used it for some time now without issue,
 we have it used in an internal CakeDC project without issues and I
@@ -168,7 +168,7 @@ If you find bugs or have suggestions please use the git issue tracker
 to report them.
 
 
-.. _http://github.com/burzum/FileStorage: http://github.com/burzum/FileStorage
+.. _https://github.com/burzum/FileStorage: https://github.com/burzum/FileStorage
 
 .. author:: burzum
 .. categories:: articles, plugins

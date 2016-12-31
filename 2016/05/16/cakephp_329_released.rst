@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 3.2.9. See the `changelog
-<http://cakephp.org/changelogs/3.2.9>`_ for every commit.
+<https://cakephp.org/changelogs/3.2.9>`_ for every commit.
 
 * 'chef' is now pluralized correctly. (@ADmad)
 * ``Valiation::notBlank()`` now accepts '0'. (@dereuromark)

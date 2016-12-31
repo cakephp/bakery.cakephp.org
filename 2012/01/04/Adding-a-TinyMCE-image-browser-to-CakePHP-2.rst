@@ -310,7 +310,7 @@ Cheers!
 
 
 
-.. _Adding a TinyMCE image browser the CakePHP way: http://bakery.cakephp.org/articles/Braindead/2009/05/29/adding-a-tinymce-image-browser-the-cakephp-way
+.. _Adding a TinyMCE image browser the CakePHP way: https://bakery.cakephp.org/articles/Braindead/2009/05/29/adding-a-tinymce-image-browser-the-cakephp-way
 
 .. author:: jwilcox09
 .. categories:: articles

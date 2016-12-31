@@ -20,7 +20,7 @@ What's new in 3.3.0?
 --------------------
 
 The `migration guide
-<http://book.cakephp.org/3.0/en/appendices/3-3-migration-guide.html>`_ has
+<https://book.cakephp.org/3.0/en/appendices/3-3-migration-guide.html>`_ has
 a complete list of what's new in 3.3.0, and what has been deprecated. We
 recommend you give that page a read when upgrading.
 
@@ -53,7 +53,7 @@ bugfixes from ``master``.
 
 Unless there are major issues with the 3.3.0-beta3 release, we will have
 a release candidate and stable release packaged in the 2-3 weeks. The
-documentation for 3.3.0 is now available in the `book <http://book.cakephp.org/3.0/en>`_.
+documentation for 3.3.0 is now available in the `book <https://book.cakephp.org/3.0/en>`_.
 
 As always, a huge thanks to all the community members that helped make this
 release happen by reporting issues and sending pull requests.

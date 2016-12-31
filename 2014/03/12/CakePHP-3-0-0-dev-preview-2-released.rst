@@ -130,11 +130,11 @@ Links
 
 + [1] `https://github.com/cakephp/cakephp/releases/3.0.0-dev2`_
 + [2] `https://github.com/FriendsOfCake/crud/tree/cake3`_
-+ [3] `http://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html`_
++ [3] `https://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html`_
 
 
 
-.. _http://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html: http://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html
+.. _https://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html: https://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html
 .. _https://github.com/FriendsOfCake/crud/tree/cake3: https://github.com/FriendsOfCake/crud/tree/cake3
 .. _https://github.com/cakephp/cakephp/releases/3.0.0-dev2: https://github.com/cakephp/cakephp/releases/3.0.0-dev2
 

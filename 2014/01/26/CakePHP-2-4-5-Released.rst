@@ -34,13 +34,13 @@ github[2].
 Links
 ~~~~~
 
-+ [1] `http://cakephp.org/changelogs/2.4.5`_
++ [1] `https://cakephp.org/changelogs/2.4.5`_
 + [2] `https://github.com/cakephp/cakephp/releases/2.4.5`_
 
 
 
 
-.. _http://cakephp.org/changelogs/2.4.5: http://cakephp.org/changelogs/2.4.5
+.. _https://cakephp.org/changelogs/2.4.5: https://cakephp.org/changelogs/2.4.5
 .. _https://github.com/cakephp/cakephp/releases/2.4.5: https://github.com/cakephp/cakephp/releases/2.4.5
 
 .. author:: markstory

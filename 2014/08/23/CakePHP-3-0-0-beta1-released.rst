@@ -101,8 +101,8 @@ progress and without your help we wouldn't be here today.
 Download a `packaged release`_.
 
 
-.. _new i18n documentation: http://book.cakephp.org/3.0/en/core-libraries/internationalization-and-localization.html
-.. _migration guide: http://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html
+.. _new i18n documentation: https://book.cakephp.org/3.0/en/core-libraries/internationalization-and-localization.html
+.. _migration guide: https://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html
 .. _packaged release: https://github.com/cakephp/cakephp/releases/3.0.0-beta1
 
 .. author:: markstory

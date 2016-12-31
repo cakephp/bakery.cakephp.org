@@ -8,7 +8,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 2.6.10. See the
-`changelog <http://cakephp.org/changelogs/2.6.10>`_ for every commit.
+`changelog <https://cakephp.org/changelogs/2.6.10>`_ for every commit.
 
 * ``Model::saveMany()`` and ``Model::saveAssociated()`` behave correctly when
   saving with ``atomic = false`` and boolean fields set to ``false``.

@@ -38,14 +38,14 @@ contributed to the framework. Without you there would be no CakePHP.
 Links
 ~~~~~
 
-+ [1] `http://cakephp.org/changelogs/2.2.2`_
-+ [2] `http://github.com/cakephp/cakephp/tags`_
++ [1] `https://cakephp.org/changelogs/2.2.2`_
++ [2] `https://github.com/cakephp/cakephp/tags`_
 
 
 
 
-.. _http://cakephp.org/changelogs/2.2.2: http://cakephp.org/changelogs/2.2.2
-.. _http://github.com/cakephp/cakephp/tags: http://github.com/cakephp/cakephp/tags
+.. _https://cakephp.org/changelogs/2.2.2: https://cakephp.org/changelogs/2.2.2
+.. _https://github.com/cakephp/cakephp/tags: https://github.com/cakephp/cakephp/tags
 
 .. author:: markstory
 .. categories:: news

@@ -6,7 +6,7 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 Bugfixes
 --------
 
-You can expect the following changes in 3.1.9. See the `changelog <http://cakephp.org/changelogs/3.1.9>`_ for every commit.
+You can expect the following changes in 3.1.9. See the `changelog <https://cakephp.org/changelogs/3.1.9>`_ for every commit.
 
 * When merging data containing BelongsToMany associations with specific IDs the ORM now merges request data into the existing entities. This makes it easier to create a new record, link it to an existing associated records and update the existing record and its associations at the same time. (@markstory)
 * When using ``contain()`` on a BelongsToMany association, selecting specific fields and calling ``autoFields()``, all fields are selected as expected.  (@markstory)

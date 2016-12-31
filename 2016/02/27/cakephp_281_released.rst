@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 2.8.1. See the `changelog
-<http://cakephp.org/changelogs/2.8.1>`_ for every commit.
+<https://cakephp.org/changelogs/2.8.1>`_ for every commit.
 
 * API documentation improvements. (@garas, @bcrowe, @dereuromark, @ravage84)
 * ``Validation::uploadedFile()`` no longer cares about key order. (@markstory)

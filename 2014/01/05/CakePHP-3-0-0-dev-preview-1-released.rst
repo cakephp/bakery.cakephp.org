@@ -124,11 +124,11 @@ Links
 ~~~~~
 
 + [1] `https://github.com/cakephp/cakephp/releases/3.0.0-dev1`_
-+ [2] `http://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html`_
++ [2] `https://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html`_
 + [3] `https://github.com/cakephp/app`_
 + [4] `http://getcomposer.org`_
-+ [5] `http://book.cakephp.org/3.0/en/`_
-+ [6] `http://api.cakephp.org/3.0/`_
++ [5] `https://book.cakephp.org/3.0/en/`_
++ [6] `https://api.cakephp.org/3.0/`_
 + [7] `https://github.com/cakephp/cakephp/issues?milestone=7&state=open`_
 
 
@@ -136,10 +136,10 @@ Links
 
 .. _http://getcomposer.org: http://getcomposer.org
 .. _https://github.com/cakephp/cakephp/issues?milestone=7&state=open: https://github.com/cakephp/cakephp/issues?milestone=7&state=open
-.. _http://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html: http://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html
+.. _https://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html: https://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html
 .. _https://github.com/cakephp/cakephp/releases/3.0.0-dev1: https://github.com/cakephp/cakephp/releases/3.0.0-dev1
-.. _http://book.cakephp.org/3.0/en/: http://book.cakephp.org/3.0/en/
-.. _http://api.cakephp.org/3.0/: http://api.cakephp.org/3.0/
+.. _https://book.cakephp.org/3.0/en/: https://book.cakephp.org/3.0/en/
+.. _https://api.cakephp.org/3.0/: https://api.cakephp.org/3.0/
 .. _https://github.com/cakephp/app: https://github.com/cakephp/app
 
 .. author:: markstory

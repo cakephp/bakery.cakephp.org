@@ -135,7 +135,7 @@ contributors to the CakePHP documentation can work with me to find a
 way to include this use-case in the chapter on `Saving Your Data`_.
 
 
-.. _Saving Your Data: http://book.cakephp.org/2.0/en/models/saving-your-data.html
+.. _Saving Your Data: https://book.cakephp.org/2.0/en/models/saving-your-data.html
 
 .. author:: lsiden
 .. categories:: articles

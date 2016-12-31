@@ -36,7 +36,7 @@ github`_.
 
 
 .. _packaged release on github: https://github.com/cakephp/cakephp/releases/2.5.7
-.. _changelog on cakephp.org: http://cakephp.org/changelogs/2.5.7
+.. _changelog on cakephp.org: https://cakephp.org/changelogs/2.5.7
 
 .. author:: markstory
 .. categories:: news

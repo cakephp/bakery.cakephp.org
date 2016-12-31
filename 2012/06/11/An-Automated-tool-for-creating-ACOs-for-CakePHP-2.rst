@@ -2,7 +2,7 @@ An Automated tool for creating ACOs for CakePHP 2
 =================================================
 
 There was a tool(code) for CakePHP 1.3 for creating ACOs automatically
-(http://book.cakephp.org/1.3/view/1549/An-Automated-tool-for-creating-
+(https://book.cakephp.org/1.3/view/1549/An-Automated-tool-for-creating-
 ACOs). It didn't work on 2.1 though. I made a few fixes so it seems to
 work fine (I haven't tested it throughout and doubt that it's
 bulletproof, but it did what I wanted it to do). Hope someone will

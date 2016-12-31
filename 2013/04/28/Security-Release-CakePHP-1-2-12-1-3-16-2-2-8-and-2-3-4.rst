@@ -49,14 +49,14 @@ Links
 ~~~~~
 
 + Download a packaged release
-  `http://github.com/cakephp/cakephp/tags`_
-+ View the changelogs `http://cakephp.org/changelogs`_
+  `https://github.com/cakephp/cakephp/tags`_
++ View the changelogs `https://cakephp.org/changelogs`_
 
 
 
 
-.. _http://github.com/cakephp/cakephp/tags: http://github.com/cakephp/cakephp/tags
-.. _http://cakephp.org/changelogs: http://cakephp.org/changelogs
+.. _https://github.com/cakephp/cakephp/tags: https://github.com/cakephp/cakephp/tags
+.. _https://cakephp.org/changelogs: https://cakephp.org/changelogs
 
 .. author:: markstory
 .. categories:: news

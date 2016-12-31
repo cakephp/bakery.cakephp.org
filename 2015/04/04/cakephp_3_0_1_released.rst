@@ -43,7 +43,7 @@ There is still time to get your tickets for `CakeFest 2015
 10th anniversary are quickly approaching.
 
 You can view the full `changelog on cakephp.org
-<http://cakephp.org/changelogs/3.0.1>`_. I'd like to thank the people who have
+<https://cakephp.org/changelogs/3.0.1>`_. I'd like to thank the people who have
 contributed to this release. Your bug tickets, documentation edits, and
 patches/pull requests are a big part of what keeps CakePHP alive and ticking.
 Download a `packaged release on github <https://github.com/cakephp/cakephp/releases/3.0.1>`_.

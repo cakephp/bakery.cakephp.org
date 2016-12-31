@@ -35,13 +35,13 @@ contributed to the framework.
 Links
 ~~~~~
 
-+ [1] `http://cakephp.org/changelogs/2.5.0-RC2`_
++ [1] `https://cakephp.org/changelogs/2.5.0-RC2`_
 + [2] `https://github.com/cakephp/cakephp/tags`_
 
 
 
 
-.. _http://cakephp.org/changelogs/2.5.0-RC2: http://cakephp.org/changelogs/2.5.0-RC2
+.. _https://cakephp.org/changelogs/2.5.0-RC2: https://cakephp.org/changelogs/2.5.0-RC2
 .. _https://github.com/cakephp/cakephp/tags: https://github.com/cakephp/cakephp/tags
 
 .. author:: markstory

@@ -113,8 +113,8 @@ no CakePHP. Download a packaged release[2].
 
 Links
 
-+ [1] `http://cakephp.org/changelogs/2.3.6`_
-+ [2] `http://github.com/cakephp/cakephp/tags`_
++ [1] `https://cakephp.org/changelogs/2.3.6`_
++ [2] `https://github.com/cakephp/cakephp/tags`_
 
 
 
@@ -122,8 +122,8 @@ Links
 .. _this commit c327bd: https://github.com/cakephp/cakephp/commit/c327bdc4bd309ce07fe2c20a2a9123f2165cae76
 .. _this commit 6017db: https://github.com/cakephp/cakephp/commit/6017db9dc8eb86354ccf2dc1b94a9764adfee422
 .. _this commit db6dd1: https://github.com/cakephp/cakephp/commit/db6dd18f865359fa01e88d2691078dba383b753b
-.. _http://cakephp.org/changelogs/2.3.6: http://cakephp.org/changelogs/2.3.6
-.. _http://github.com/cakephp/cakephp/tags: http://github.com/cakephp/cakephp/tags
+.. _https://cakephp.org/changelogs/2.3.6: https://cakephp.org/changelogs/2.3.6
+.. _https://github.com/cakephp/cakephp/tags: https://github.com/cakephp/cakephp/tags
 
 .. author:: markstory
 .. categories:: news

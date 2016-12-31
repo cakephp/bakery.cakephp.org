@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 2.6.9. See the
-`changelog <http://cakephp.org/changelogs/2.6.9>`_ for every commit.
+`changelog <https://cakephp.org/changelogs/2.6.9>`_ for every commit.
 
 * Deep saving hasMany associations now handles validation errors correctly.
 * Improved API documentation.

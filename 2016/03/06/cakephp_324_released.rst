@@ -6,7 +6,7 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 Bugfixes
 --------
 
-You can expect the following changes in 3.2.4. See the `changelog <http://cakephp.org/changelogs/3.2.4>`_ for every commit.
+You can expect the following changes in 3.2.4. See the `changelog <https://cakephp.org/changelogs/3.2.4>`_ for every commit.
 
 * Table names are now quoted in SQLserver schema reflection when reflecting
   indexes. This allows table names in different schemas to be used. (@markstory)

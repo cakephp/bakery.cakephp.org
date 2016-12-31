@@ -3,7 +3,7 @@ ConfigAdmin - Administration of Custom Configuration File
 
 ConfigAdmin Pulgin is management of custom configuration file.
 > This is created on top of available functionality in cakephp 2.1<br
-> Ref: http://book.cakephp.org/2.0/en/development/configuration.html
+> Ref: https://book.cakephp.org/2.0/en/development/configuration.html
 #reading-and-writing-configuration-files
 > To use this plugin you must have cakephp version 2.1+. <br > This
 gives ability to end-user to modify key-value pairs in configuration

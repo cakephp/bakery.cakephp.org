@@ -28,7 +28,7 @@ keeps CakePHP alive and ticking. Download a `packaged release on
 github`_.
 
 
-.. _changelog on cakephp.org: http://cakephp.org/changelogs/2.5.8
+.. _changelog on cakephp.org: https://cakephp.org/changelogs/2.5.8
 .. _packaged release on github: https://github.com/cakephp/cakephp/releases/2.5.8
 
 .. author:: markstory

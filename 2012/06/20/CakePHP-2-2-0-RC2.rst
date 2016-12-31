@@ -87,8 +87,8 @@ CakePHP!
 
 Links
 
-+ [1] `http://cakephp.org/changelogs/2.2.0-RC2`_
-+ [2] `http://github.com/cakephp/cakephp/zipball/2.2.0-RC2`_
++ [1] `https://cakephp.org/changelogs/2.2.0-RC2`_
++ [2] `https://github.com/cakephp/cakephp/zipball/2.2.0-RC2`_
 + [3] `http://cakefest.org`_
 
 
@@ -96,9 +96,9 @@ Links
 
 .. _CakeFest 2012: http://cakefest.org/
 .. _booked your tickets: http://cakefest.org/ticket-info
-.. _http://cakephp.org/changelogs/2.2.0-RC2: http://cakephp.org/changelogs/2.2.0-RC2
+.. _https://cakephp.org/changelogs/2.2.0-RC2: https://cakephp.org/changelogs/2.2.0-RC2
 .. _http://cakefest.org: http://cakefest.org
-.. _http://github.com/cakephp/cakephp/zipball/2.2.0-RC2: http://github.com/cakephp/cakephp/zipball/2.2.0-RC2
+.. _https://github.com/cakephp/cakephp/zipball/2.2.0-RC2: https://github.com/cakephp/cakephp/zipball/2.2.0-RC2
 
 .. author:: lorenzo
 .. categories:: news

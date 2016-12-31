@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 2.7.5. See the `changelog
-<http://cakephp.org/changelogs/2.7.5>`_ for every commit.
+<https://cakephp.org/changelogs/2.7.5>`_ for every commit.
 
 * The web test runner had a few undefined variable errors caused by some
   erroneous cleanup.

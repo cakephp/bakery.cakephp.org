@@ -71,7 +71,7 @@ OpenId.
 .. _Click to know how to build basic authentication system. : http://www.crazylearner.com/auth-component-of-cakephp-demystified-part-1/
 .. _OpenId: http://openid.net/
 .. _here: https://github.com/openid/php-openid/downloads
-.. _link: http://github.com/mariano/openid/downloads
+.. _link: https://github.com/mariano/openid/downloads
 .. _Click To View Complete Tutorial: http://www.crazylearner.com/integrating-cakephp-with-openid/
 
 .. author:: neil6502

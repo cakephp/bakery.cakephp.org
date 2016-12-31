@@ -62,7 +62,7 @@ your view:
 Should be easy to add your arrows for moving categories up or down, or
 even delete. You just have to put them into the li.
 
-.. _Trees: http://book.cakephp.org/2.0/en/core-libraries/behaviors/tree.html
+.. _Trees: https://book.cakephp.org/2.0/en/core-libraries/behaviors/tree.html
 
 .. author:: Blackbit
 .. categories:: articles, tutorials

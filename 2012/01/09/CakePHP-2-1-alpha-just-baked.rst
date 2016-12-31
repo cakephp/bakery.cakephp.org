@@ -137,14 +137,14 @@ changes and new tickets. Without you there would be no CakePHP!
 Links
 ~~~~~
 
-+ [1] `http://github.com/cakephp/cakephp`_
-+ [2] `http://cakephp.org/changelogs/2.1.0-alpha`_
++ [1] `https://github.com/cakephp/cakephp`_
++ [2] `https://cakephp.org/changelogs/2.1.0-alpha`_
 
 
 
 
-.. _http://github.com/cakephp/cakephp: http://github.com/cakephp/cakephp
-.. _http://cakephp.org/changelogs/2.1.0-alpha: http://cakephp.org/changelogs/2.1.0-alpha
+.. _https://github.com/cakephp/cakephp: https://github.com/cakephp/cakephp
+.. _https://cakephp.org/changelogs/2.1.0-alpha: https://cakephp.org/changelogs/2.1.0-alpha
 
 .. author:: lorenzo
 .. categories:: news

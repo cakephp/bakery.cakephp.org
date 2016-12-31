@@ -8,7 +8,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 3.0.9. See the `changelog
-<http://cakephp.org/changelogs/3.0.9>`_ for every commit.
+<https://cakephp.org/changelogs/3.0.9>`_ for every commit.
 
 * Index and constraint reflection in MySQL now scopes to the current database.
 * ``.`` is now allowed in ObjectRegistry keys. This allows cache configurations

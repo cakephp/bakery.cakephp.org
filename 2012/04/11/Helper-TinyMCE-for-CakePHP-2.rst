@@ -237,11 +237,11 @@ Example
 
 Thanks
 ~~~~~~
-`http://bakery.cakephp.org/articles/daibach/2008/07/15/tinymce-helper-1`_
+`https://bakery.cakephp.org/articles/daibach/2008/07/15/tinymce-helper-1`_
 `http://forum.cakephp-fr.org/viewtopic.php?id=1136`_
 
 .. _http://www.tinymce.com/download/download.php: http://www.tinymce.com/download/download.php
-.. _http://bakery.cakephp.org/articles/daibach/2008/07/15/tinymce-helper-1: http://bakery.cakephp.org/articles/daibach/2008/07/15/tinymce-helper-1
+.. _https://bakery.cakephp.org/articles/daibach/2008/07/15/tinymce-helper-1: https://bakery.cakephp.org/articles/daibach/2008/07/15/tinymce-helper-1
 .. _http://forum.cakephp-fr.org/viewtopic.php?id=1136: http://forum.cakephp-fr.org/viewtopic.php?id=1136
 
 .. author:: galitul

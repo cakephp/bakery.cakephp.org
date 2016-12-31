@@ -66,7 +66,7 @@ take advantage of features like:
   delivery.
 
 See the `middleware documentation 
-<http://book.cakephp.org/3.0/en/controllers/middleware.html>`_ for more
+<https://book.cakephp.org/3.0/en/controllers/middleware.html>`_ for more
 information on how to use the new HTTP stack.
 
 Http Client is now PSR7 Compatible
@@ -116,19 +116,19 @@ Other Changes
 -------------
 
 There are many other great new things in 3.3.0. Refer to the `migration guide
-<http://book.cakephp.org/3.0/en/appendices/3-3-migration-guide.html>`_ for all
+<https://book.cakephp.org/3.0/en/appendices/3-3-migration-guide.html>`_ for all
 the greatness 3.3.0 brings.
 
 Deprecations
 ------------
 
 3.3.0 will deprecate a number of features. Refer to the `deprecated features
-<http://book.cakephp.org/3.0/en/appendices/3-3-migration-guide.html#deprecations>`_
+<https://book.cakephp.org/3.0/en/appendices/3-3-migration-guide.html#deprecations>`_
 for more details. Deprecated features will not be removed until 4.0.0.
 
 Unless there are major issues with the 3.3.0-beta release, we will have
 a release candidate and stable release packaged in the 4-5 weeks. The
-documentation for 3.3.0 is now available in the `book <http://book.cakephp.org/3.0/en>`_.
+documentation for 3.3.0 is now available in the `book <https://book.cakephp.org/3.0/en>`_.
 
 As always, a huge thanks to all the community members that helped make this
 release happen by reporting issues and sending pull requests.

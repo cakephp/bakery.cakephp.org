@@ -85,7 +85,7 @@ Notes:
 It was inspired by the Report Creator Component by Gene Kelly from Nov
 9th 2006.
 
-`http://bakery.cakephp.org/articles/Gkelly/2006/11/09/report-creator-component`_
+`https://bakery.cakephp.org/articles/Gkelly/2006/11/09/report-creator-component`_
 
 It also uses a Jquery plugin called SmartWizard by Tech Laboratory.
 
@@ -113,7 +113,7 @@ Contact: smartbyte.systems@gmail.com
 .. _http://mycakeapp/report_manager/reports: http://mycakeapp/report_manager/reports
 .. _http://techlaboratory.net/products.php?product=smartwizard: http://techlaboratory.net/products.php?product=smartwizard
 .. _https://sourceforge.net/projects/repomancakephp/: https://sourceforge.net/projects/repomancakephp/
-.. _http://bakery.cakephp.org/articles/Gkelly/2006/11/09/report-creator-component: http://bakery.cakephp.org/articles/Gkelly/2006/11/09/report-creator-component
+.. _https://bakery.cakephp.org/articles/Gkelly/2006/11/09/report-creator-component: https://bakery.cakephp.org/articles/Gkelly/2006/11/09/report-creator-component
 
 .. author:: luisedudias
 .. categories:: articles, plugins

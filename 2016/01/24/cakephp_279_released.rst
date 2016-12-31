@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 2.7.9. See the `changelog
-<http://cakephp.org/changelogs/2.7.9>`_ for every commit.
+<https://cakephp.org/changelogs/2.7.9>`_ for every commit.
 
 * ``file://`` paths are now handled correctly by ``File`` on windows.
   (@markstory)

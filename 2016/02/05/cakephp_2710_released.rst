@@ -12,7 +12,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 2.7.10. See the `changelog
-<http://cakephp.org/changelogs/2.7.10>`_ for every commit.
+<https://cakephp.org/changelogs/2.7.10>`_ for every commit.
 
 * Improved API docs. (@ndm2)
 * The ``IN`` operator now works in conditions when only one element is to be

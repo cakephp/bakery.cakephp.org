@@ -41,7 +41,7 @@ What's new in 3.3.0?
 --------------------
 
 The `migration guide
-<http://book.cakephp.org/3.0/en/appendices/3-3-migration-guide.html>`_ has
+<https://book.cakephp.org/3.0/en/appendices/3-3-migration-guide.html>`_ has
 a complete list of what's new in 3.3.0, and what has been deprecated. We
 recommend you give that page a read when upgrading. A short list of the new
 features in 3.3.0 is:

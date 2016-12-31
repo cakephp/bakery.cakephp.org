@@ -21,7 +21,7 @@ payload parsing you can do the following::
 The above code will replace the built-in XML parsing with a no-op function. We'd
 like to thank Takeshi Terada for notifying us of this security issue using our
 `Security Issue Process
-<http://book.cakephp.org/3.0/en/contributing/tickets.html#reporting-security-issues>`_
+<https://book.cakephp.org/3.0/en/contributing/tickets.html#reporting-security-issues>`_
 
 Other Fixes in 2.6.6
 --------------------

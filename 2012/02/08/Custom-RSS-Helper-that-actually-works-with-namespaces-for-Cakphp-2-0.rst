@@ -28,10 +28,10 @@ free to try this solution and also to improve it! You can also just
 comment if you have troubles running it.
 
 
-.. _this layout: http://bin.cakephp.org/view/362729703
-.. _here: http://book.cakephp.org/2.0/en/core-libraries/helpers/rss.html
-.. _Cakephp bRss Helper: http://bin.cakephp.org/view/1232471515
-.. _this view: http://bin.cakephp.org/view/1266667979
+.. _this layout: https://bin.cakephp.org/view/362729703
+.. _here: https://book.cakephp.org/2.0/en/core-libraries/helpers/rss.html
+.. _Cakephp bRss Helper: https://bin.cakephp.org/view/1232471515
+.. _this view: https://bin.cakephp.org/view/1266667979
 .. _this thread: http://groups.google.com/group/cake-php/browse_thread/thread/25e0f825c4eb878b#
 
 .. author:: benni

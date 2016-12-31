@@ -32,8 +32,8 @@ New Features
 - ``Validation::uploadedFile()`` was backported from 3.x.
 - ``'url' => false`` is now supported for ``FormHelper::create()`` to allow form tags to be created without HTML ``action`` attribute.
 
-The documentation for 2.8.0 is already available in the `book <http://book.cakephp.org/2.0/en>`_ and the `API
-<http://api.cakephp.org/2.8>`_.
+The documentation for 2.8.0 is already available in the `book <https://book.cakephp.org/2.0/en>`_ and the `API
+<https://api.cakephp.org/2.8>`_.
 
 As always, a huge thanks to all the community members that helped make this release happen by reporting issues and sending pull requests. Development will now begin on 2.9.0 with the target of releasing sometime in July of 2016.
 

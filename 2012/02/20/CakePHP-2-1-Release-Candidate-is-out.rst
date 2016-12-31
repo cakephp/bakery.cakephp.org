@@ -105,14 +105,14 @@ tickets. Without you there would be no CakePHP!
 Links
 ~~~~~
 
-+ [1] `http://github.com/cakephp/cakephp`_
-+ [2] `http://cakephp.org/changelogs/2.1.0-RC`_
++ [1] `https://github.com/cakephp/cakephp`_
++ [2] `https://cakephp.org/changelogs/2.1.0-RC`_
 
 
 
 
-.. _http://github.com/cakephp/cakephp: http://github.com/cakephp/cakephp
-.. _http://cakephp.org/changelogs/2.1.0-RC: http://cakephp.org/changelogs/2.1.0-RC
+.. _https://github.com/cakephp/cakephp: https://github.com/cakephp/cakephp
+.. _https://cakephp.org/changelogs/2.1.0-RC: https://cakephp.org/changelogs/2.1.0-RC
 
 .. author:: lorenzo
 .. categories:: news

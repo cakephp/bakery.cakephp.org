@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 2.7.4. See the `changelog
-<http://cakephp.org/changelogs/2.7.4>`_ for every commit.
+<https://cakephp.org/changelogs/2.7.4>`_ for every commit.
 
 * When saving, models will always correctly set the 'updated' and 'created'
   fields. Even when a 'fieldList' is used, and those fields are not in the

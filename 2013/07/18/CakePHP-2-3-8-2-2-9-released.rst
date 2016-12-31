@@ -40,16 +40,16 @@ Download a packaged release [4].
 Links
 ~~~~~
 
-+ [1] `http://cakephp.org/changelogs/2.3.8`_
-+ [2] `http://cakephp.org/changelogs/2.2.9`_
++ [1] `https://cakephp.org/changelogs/2.3.8`_
++ [2] `https://cakephp.org/changelogs/2.2.9`_
 + [3] `https://github.com/cakephp/cakephp/tags`_
 
 
 
 
-.. _http://cakephp.org/changelogs/2.2.9: http://cakephp.org/changelogs/2.2.9
+.. _https://cakephp.org/changelogs/2.2.9: https://cakephp.org/changelogs/2.2.9
 .. _https://github.com/cakephp/cakephp/tags: https://github.com/cakephp/cakephp/tags
-.. _http://cakephp.org/changelogs/2.3.8: http://cakephp.org/changelogs/2.3.8
+.. _https://cakephp.org/changelogs/2.3.8: https://cakephp.org/changelogs/2.3.8
 
 .. author:: markstory
 .. categories:: news

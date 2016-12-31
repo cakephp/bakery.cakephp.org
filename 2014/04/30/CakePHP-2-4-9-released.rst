@@ -21,14 +21,14 @@ download a packaged release from github[2].
 Links
 ~~~~~
 
-+ [1] `http://cakephp.org/changelogs/2.4.9`_
-+ [2] `http://github.com/cakephp/cakephp/tags`_
++ [1] `https://cakephp.org/changelogs/2.4.9`_
++ [2] `https://github.com/cakephp/cakephp/tags`_
 
 
 
 
-.. _http://github.com/cakephp/cakephp/tags: http://github.com/cakephp/cakephp/tags
-.. _http://cakephp.org/changelogs/2.4.9: http://cakephp.org/changelogs/2.4.9
+.. _https://github.com/cakephp/cakephp/tags: https://github.com/cakephp/cakephp/tags
+.. _https://cakephp.org/changelogs/2.4.9: https://cakephp.org/changelogs/2.4.9
 
 .. author:: markstory
 .. categories:: news

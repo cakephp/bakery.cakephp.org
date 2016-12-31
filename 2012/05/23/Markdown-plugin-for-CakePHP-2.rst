@@ -62,7 +62,7 @@ GitHub
 `https://github.com/maurymmarques/markdown-cakephp`_
 
 .. _submodule: http://help.github.com/submodules
-.. _plugin syntax: http://book.cakephp.org/2.0/en/appendices/glossary.html#term-plugin-syntax
+.. _plugin syntax: https://book.cakephp.org/2.0/en/appendices/glossary.html#term-plugin-syntax
 .. _https://github.com/maurymmarques/markdown-cakephp: https://github.com/maurymmarques/markdown-cakephp
 
 .. author:: maurymmarques

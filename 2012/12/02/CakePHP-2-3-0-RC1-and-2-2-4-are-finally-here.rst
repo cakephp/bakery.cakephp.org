@@ -87,16 +87,16 @@ Download a packaged release [3]
 Links
 ~~~~~
 
-+ [1] `http://cakephp.org/changelogs/2.3.0-RC1`_
-+ [1] `http://cakephp.org/changelogs/2.2.4`_
-+ [2] `http://github.com/cakephp/cakephp/tags`_
++ [1] `https://cakephp.org/changelogs/2.3.0-RC1`_
++ [1] `https://cakephp.org/changelogs/2.2.4`_
++ [2] `https://github.com/cakephp/cakephp/tags`_
 
 
 
 
-.. _http://cakephp.org/changelogs/2.2.4: http://cakephp.org/changelogs/2.2.4
-.. _http://github.com/cakephp/cakephp/tags: http://github.com/cakephp/cakephp/tags
-.. _http://cakephp.org/changelogs/2.3.0-RC1: http://cakephp.org/changelogs/2.3.0-RC1
+.. _https://cakephp.org/changelogs/2.2.4: https://cakephp.org/changelogs/2.2.4
+.. _https://github.com/cakephp/cakephp/tags: https://github.com/cakephp/cakephp/tags
+.. _https://cakephp.org/changelogs/2.3.0-RC1: https://cakephp.org/changelogs/2.3.0-RC1
 
 .. author:: lorenzo
 .. categories:: news

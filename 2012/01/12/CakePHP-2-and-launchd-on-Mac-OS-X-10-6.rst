@@ -54,8 +54,8 @@ won't be able to answer many of them since I'm certainly not an expert
 on any of those areas! :-)
 
 
-.. _example plist file here: http://bin.cakephp.org/view/1680557223
-.. _Creating a Shell: http://book.cakephp.org/2.0/en/console-and-shells.html#creating-a-shell
+.. _example plist file here: https://bin.cakephp.org/view/1680557223
+.. _Creating a Shell: https://book.cakephp.org/2.0/en/console-and-shells.html#creating-a-shell
 
 .. author:: benni
 .. categories:: articles, tutorials

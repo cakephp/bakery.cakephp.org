@@ -4,7 +4,7 @@ Sending content to the layout using Cake 2.x
 This post is based on Robert Conner's code for CakePHP 1.x., and I
 made some changes to get it to work on CakePHP 2.x and add some
 explanations on how to use it. The original post is on
-http://bakery.cakephp.org/articles/rtconner/2007/08/28
+https://bakery.cakephp.org/articles/rtconner/2007/08/28
 /anything_for_layout-making-html-from-the-view-available-to-the-layout
 Maybe many people have faced the problem for sending some content to
 the layout on CakePHP. By saying content I mean not only a simple

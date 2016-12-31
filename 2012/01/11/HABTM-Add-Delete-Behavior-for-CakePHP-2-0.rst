@@ -104,9 +104,9 @@ Well thats it for now, and thanks Brian for sharing such cool
 behavior.
 
 
-.. _Brandon Parise: http://bakery.cakephp.org/users/view/bparise
+.. _Brandon Parise: https://bakery.cakephp.org/users/view/bparise
 .. _Model/Behavior/ExtendAssociations2Behavior.php: http://iandeth.dyndns.org/mt/ian/archives/20120110-cakephp-extendassociations-behavior/ExtendAssociations2Behavior.txt
-.. _HABTM Add and Delete Behavior (posted May 9th 2007): http://bakery.cakephp.org/articles/bparise/2007/05/09/add-delete-habtm-behavior
+.. _HABTM Add and Delete Behavior (posted May 9th 2007): https://bakery.cakephp.org/articles/bparise/2007/05/09/add-delete-habtm-behavior
 
 .. author:: iandeth
 .. categories:: articles, behaviors

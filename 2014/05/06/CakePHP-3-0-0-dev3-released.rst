@@ -132,9 +132,9 @@ marked stable!
 
 
 .. _Carbon: https://github.com/briannesbitt/Carbon
-.. _CakePHP 3.0 book: http://book.cakephp.org/3.0/en/index.html
-.. _Read more about Time: http://book.cakephp.org/3.0/en/core-utility-libraries/time.html
-.. _Read more about View Cells: http://book.cakephp.org/3.0/en/views/cells.html
+.. _CakePHP 3.0 book: https://book.cakephp.org/3.0/en/index.html
+.. _Read more about Time: https://book.cakephp.org/3.0/en/core-utility-libraries/time.html
+.. _Read more about View Cells: https://book.cakephp.org/3.0/en/views/cells.html
 .. _Tools plugin: https://github.com/dereuromark/tools/tree/cake3
 .. _CakePHP 3.0.0: https://github.com/cakephp/cakephp/releases/3.0.0-dev3
 .. _CRUD plugin: http://blog.friendsofcake.org/2014/05/03/crud-v4-crud-view-and-search-cake-3-0.html

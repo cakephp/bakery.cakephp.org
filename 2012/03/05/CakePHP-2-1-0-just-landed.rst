@@ -177,7 +177,7 @@ One of the cool suprises we were saving for you, is the addition of a
 new site to the CakePHP domain. The new plugins repository site [4]
 aims to be the single reference and search start point for any
 extensions, plugins and applications done using CakePHP. Check it out
-at `http://plugins.cakephp.org`_
+at `https://plugins.cakephp.org`_
 
 Additionally we have done a major facelift to the CakePHP homepage [4]
 and the online manual [5], which among other cool things, have a fluid
@@ -203,22 +203,22 @@ CakePHP!
 Links
 ~~~~~
 
-+ [1] `http://github.com/cakephp/cakephp`_
-+ [2] `http://cakephp.org/changelogs/2.1.0`_
-+ [3] `http://plugins.cakephp.org`_
-+ [4] `http://cakephp.org/`_
-+ [5] `http://book.cakephp.org/`_
++ [1] `https://github.com/cakephp/cakephp`_
++ [2] `https://cakephp.org/changelogs/2.1.0`_
++ [3] `https://plugins.cakephp.org`_
++ [4] `https://cakephp.org/`_
++ [5] `https://book.cakephp.org/`_
 + [6] `http://pear.cakephp.org/`_
 
 
 
 
-.. _http://plugins.cakephp.org: http://plugins.cakephp.org
+.. _https://plugins.cakephp.org: https://plugins.cakephp.org
 .. _http://pear.cakephp.org/: http://pear.cakephp.org/
-.. _http://book.cakephp.org/: http://book.cakephp.org/
-.. _http://github.com/cakephp/cakephp: http://github.com/cakephp/cakephp
-.. _http://cakephp.org/changelogs/2.1.0: http://cakephp.org/changelogs/2.1.0
-.. _http://cakephp.org/: http://cakephp.org/
+.. _https://book.cakephp.org/: https://book.cakephp.org/
+.. _https://github.com/cakephp/cakephp: https://github.com/cakephp/cakephp
+.. _https://cakephp.org/changelogs/2.1.0: https://cakephp.org/changelogs/2.1.0
+.. _https://cakephp.org/: https://cakephp.org/
 
 .. author:: lorenzo
 .. categories:: news

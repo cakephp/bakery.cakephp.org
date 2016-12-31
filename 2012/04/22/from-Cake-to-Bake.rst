@@ -9,7 +9,7 @@ focus on CakePHP. I also assume that you have created atleast one
 table in your database by following naming conventions in CakePHP
 which is pretty easy task :)
 
-#. Download the latest version of Cake from `http://cakephp.org/`_
+#. Download the latest version of Cake from `https://cakephp.org/`_
 #. Go to your Download folder (or where ever you downloaded your
    folder), Extract the folder in the same location.
 #. Move the folder to your application root. (In my case /var/www/ )if
@@ -87,7 +87,7 @@ you created controller by the name, posts, use
 
 
 .. _http://localhost/MyCake/posts.: http://localhost/MyCake/posts.
-.. _http://cakephp.org/: http://cakephp.org/
+.. _https://cakephp.org/: https://cakephp.org/
 .. _http://localhost/MyCake/: http://localhost/MyCake/
 
 .. author:: mainiabhay

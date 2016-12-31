@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 3.2.8. See the `changelog
-<http://cakephp.org/changelogs/3.2.8>`_ for every commit.
+<https://cakephp.org/changelogs/3.2.8>`_ for every commit.
 
 * The Equifax Secure Certificate Authority root certificate was re-added. This
   fixes several issues with the certificate bundle update in 3.2.7. (@markstory)

@@ -225,8 +225,8 @@ kicaj
 `blog.kdev.pl`_
 
 .. _blog.kdev.pl: http://blog.kdev.pl
-.. _Router API: http://book.cakephp.org/2.0/en/development/routing.html#router-api
-.. _Saving in another language: http://book.cakephp.org/2.0/en/core-libraries/behaviors/translate.html#saving-in-another-language
+.. _Router API: https://book.cakephp.org/2.0/en/development/routing.html#router-api
+.. _Saving in another language: https://book.cakephp.org/2.0/en/core-libraries/behaviors/translate.html#saving-in-another-language
 
 .. author:: kicaj
 .. categories:: articles

@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 3.0.13. See the `changelog
-<http://cakephp.org/changelogs/3.0.13>`_ for every commit.
+<https://cakephp.org/changelogs/3.0.13>`_ for every commit.
 
 - ``Query::count()`` no longer fails when there are fields with complex
   expressions in the select.

@@ -39,10 +39,10 @@ You can download `packaged releases on github`_
 
 
 
-.. _2.5.2 changelog: http://cakephp.org/changelogs/2.5.2
+.. _2.5.2 changelog: https://cakephp.org/changelogs/2.5.2
 .. _CakeFest 2014: http://cakefest.org
 .. _conference schedule: http://cakefest.org/schedule
-.. _1.3.19 changelog: http://cakephp.org/changelogs/1.3.19
+.. _1.3.19 changelog: https://cakephp.org/changelogs/1.3.19
 .. _packaged releases on github: https://github.com/cakephp/cakephp/tags
 
 .. author:: markstory

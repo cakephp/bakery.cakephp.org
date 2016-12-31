@@ -39,7 +39,7 @@ up! Free Beta subscription is available only until the end of July
 
 
 .. _neptunide.com: http://neptunide.com
-.. _Two years ago I posted: http://bakery.cakephp.org/articles/jakubl_1/2011/07/25/neptunide_cakephp_dedicated_ide
+.. _Two years ago I posted: https://bakery.cakephp.org/articles/jakubl_1/2011/07/25/neptunide_cakephp_dedicated_ide
 
 .. author:: neptunide
 .. categories:: articles, general_interest

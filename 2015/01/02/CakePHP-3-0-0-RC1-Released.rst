@@ -142,7 +142,7 @@ tables or entities:
     `
 
 You can read more about them here
-`http://book.cakephp.org/3.0/en/core-libraries/form.html`_
+`https://book.cakephp.org/3.0/en/core-libraries/form.html`_
 
 
 Adopted PSR-2
@@ -172,9 +172,9 @@ issues or rough edges in the code by opening tickets in Github.
 .. _PSR-2: http://www.php-fig.org/psr/psr-2/
 .. _CakePHP 3.0.0: https://github.com/cakephp/cakephp/releases/3.0.0-rc1
 .. _Rails' better errors plugin: https://camo.githubusercontent.com/3fa6840d5e20236b4f768d6ed4b42421ba7c2f21/68747470733a2f2f692e696d6775722e636f6d2f367a42474141622e706e67
-.. _this blog post: http://bakery.cakephp.org/articles/jameswatts/2014/12/16/cakephp_3_to_fully_adopt_psr-2
-.. _http://book.cakephp.org/3.0/en/core-libraries/form.html: http://book.cakephp.org/3.0/en/core-libraries/form.html
-.. _rules checker documentation: http://book.cakephp.org/3.0/en/orm/saving-data.html#applying-application-rules
+.. _this blog post: https://bakery.cakephp.org/articles/jameswatts/2014/12/16/cakephp_3_to_fully_adopt_psr-2
+.. _https://book.cakephp.org/3.0/en/core-libraries/form.html: https://book.cakephp.org/3.0/en/core-libraries/form.html
+.. _rules checker documentation: https://book.cakephp.org/3.0/en/orm/saving-data.html#applying-application-rules
 
 .. author:: lorenzo
 .. categories:: release,news

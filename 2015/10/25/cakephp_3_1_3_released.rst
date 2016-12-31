@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 3.1.3. See the `changelog
-<http://cakephp.org/changelogs/3.1.3>`_ for every commit.
+<https://cakephp.org/changelogs/3.1.3>`_ for every commit.
 
 * Fixed issues in the SMTP email transport when connecting to gmail.
 * Fixed regression in the BooleanType converted in database when using NULL.

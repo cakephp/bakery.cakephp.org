@@ -15,7 +15,7 @@ Download Now - GitHub
 More Info...
 ------------
 This plugin is based on the Cake 1.3 Combinator Article from the
-Bakery - http://bakery.cakephp.org/articles/st3ph/2010/09/10
+Bakery - https://bakery.cakephp.org/articles/st3ph/2010/09/10
 /combinator-compress-and-combine-your-js-and-css-files
 I've just made it compatible with CakePHP 2.1, and packaged it as a
 plugin, including CSSTidy and jsmin.

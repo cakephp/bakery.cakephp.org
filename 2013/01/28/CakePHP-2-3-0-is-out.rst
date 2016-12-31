@@ -227,16 +227,16 @@ Links
 -----
 
 + [1] `https://github.com/cakephp/cakephp/tags`_
-+ [2] `http://book.cakephp.org/2.0/en/appendices/2-3-migration-guide.html`_
-+ [3] `http://cakephp.org/changelogs/2.3.0`_
-+ [4] `http://cakephp.org/changelogs/2.2.6`_
++ [2] `https://book.cakephp.org/2.0/en/appendices/2-3-migration-guide.html`_
++ [3] `https://cakephp.org/changelogs/2.3.0`_
++ [4] `https://cakephp.org/changelogs/2.2.6`_
 
 
 
 .. _https://github.com/cakephp/cakephp/tags: https://github.com/cakephp/cakephp/tags
-.. _http://book.cakephp.org/2.0/en/appendices/2-3-migration-guide.html: http://book.cakephp.org/2.0/en/appendices/2-3-migration-guide.html
-.. _http://cakephp.org/changelogs/2.2.6: http://cakephp.org/changelogs/2.2.6
-.. _http://cakephp.org/changelogs/2.3.0: http://cakephp.org/changelogs/2.3.0
+.. _https://book.cakephp.org/2.0/en/appendices/2-3-migration-guide.html: https://book.cakephp.org/2.0/en/appendices/2-3-migration-guide.html
+.. _https://cakephp.org/changelogs/2.2.6: https://cakephp.org/changelogs/2.2.6
+.. _https://cakephp.org/changelogs/2.3.0: https://cakephp.org/changelogs/2.3.0
 
 .. author:: lorenzo
 .. categories:: news

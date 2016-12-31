@@ -8,7 +8,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 3.0.5. See the `changelog
-<http://cakephp.org/changelogs/3.0.5>`_ for every commit.
+<https://cakephp.org/changelogs/3.0.5>`_ for every commit.
 
 * Filesystem libraries are now available as a standalone package through
   composer.

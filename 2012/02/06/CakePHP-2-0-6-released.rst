@@ -51,18 +51,18 @@ no CakePHP.
 Links
 ~~~~~
 
-+ [1] `http://github.com/cakephp/cakephp/zipball/2.0.6`_
-+ [2] `http://cakephp.org/changelogs/2.0.6`_
++ [1] `https://github.com/cakephp/cakephp/zipball/2.0.6`_
++ [2] `https://cakephp.org/changelogs/2.0.6`_
 + [3] `http://cakephp.lighthouseapp.com/projects/42648/development-roadmap`_
-+ [4] `http://book.cakephp.org/2.0/en/appendices/2-1-migration-guide.html`_
++ [4] `https://book.cakephp.org/2.0/en/appendices/2-1-migration-guide.html`_
 
 
 
 
 .. _http://cakephp.lighthouseapp.com/projects/42648/development-roadmap: http://cakephp.lighthouseapp.com/projects/42648/development-roadmap
-.. _http://book.cakephp.org/2.0/en/appendices/2-1-migration-guide.html: http://book.cakephp.org/2.0/en/appendices/2-1-migration-guide.html
-.. _http://cakephp.org/changelogs/2.0.6: http://cakephp.org/changelogs/2.0.6
-.. _http://github.com/cakephp/cakephp/zipball/2.0.6: http://github.com/cakephp/cakephp/zipball/2.0.6
+.. _https://book.cakephp.org/2.0/en/appendices/2-1-migration-guide.html: https://book.cakephp.org/2.0/en/appendices/2-1-migration-guide.html
+.. _https://cakephp.org/changelogs/2.0.6: https://cakephp.org/changelogs/2.0.6
+.. _https://github.com/cakephp/cakephp/zipball/2.0.6: https://github.com/cakephp/cakephp/zipball/2.0.6
 
 .. author:: lorenzo
 .. categories:: news

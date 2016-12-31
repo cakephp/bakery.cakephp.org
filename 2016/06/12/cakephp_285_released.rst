@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 2.8.5. See the `changelog
-<http://cakephp.org/changelogs/2.8.5>`_ for every commit.
+<https://cakephp.org/changelogs/2.8.5>`_ for every commit.
 
 * Bake now recommends using the ``FlashComponent`` instead of the deprecated
   ``SessionComponent``. (@xhs345)

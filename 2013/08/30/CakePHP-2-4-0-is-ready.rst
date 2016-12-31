@@ -91,13 +91,13 @@ Links
 ~~~~~
 
 + [1] `https://github.com/cakephp/cakephp/releases`_
-+ [2] `http://book.cakephp.org/2.0/en/appendices/2-4-migration-guide.html`_
++ [2] `https://book.cakephp.org/2.0/en/appendices/2-4-migration-guide.html`_
 + [3] `https://github.com/cakephp/cakephp/tags`_
 
 
 
 
-.. _http://book.cakephp.org/2.0/en/appendices/2-4-migration-guide.html: http://book.cakephp.org/2.0/en/appendices/2-4-migration-guide.html
+.. _https://book.cakephp.org/2.0/en/appendices/2-4-migration-guide.html: https://book.cakephp.org/2.0/en/appendices/2-4-migration-guide.html
 .. _https://github.com/cakephp/cakephp/tags: https://github.com/cakephp/cakephp/tags
 .. _https://github.com/cakephp/cakephp/releases: https://github.com/cakephp/cakephp/releases
 

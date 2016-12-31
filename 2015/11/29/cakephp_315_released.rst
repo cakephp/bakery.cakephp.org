@@ -6,7 +6,7 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 Bugfixes
 --------
 
-You can expect the following changes in 3.1.5. See the `changelog <http://cakephp.org/changelogs/3.1.5>`_ for every commit.
+You can expect the following changes in 3.1.5. See the `changelog <https://cakephp.org/changelogs/3.1.5>`_ for every commit.
 
 * ``Collection::toArray()`` now drops the keys when dealing with RecursiveIterator. This makes the collection features easier to reason about as they generally do what people have been expecting.
 * Improved API documentation.

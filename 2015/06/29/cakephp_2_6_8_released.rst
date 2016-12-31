@@ -8,7 +8,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 2.6.8. See the
-`changelog <http://cakephp.org/changelogs/2.6.8>`_ for every commit.
+`changelog <https://cakephp.org/changelogs/2.6.8>`_ for every commit.
 
 * Fix issue with overlapping irregular inflections. When irregular inflections
   overlap we should choose the longest match, not the shortest.

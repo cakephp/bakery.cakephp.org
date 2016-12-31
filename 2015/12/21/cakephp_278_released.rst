@@ -7,7 +7,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 2.7.8. See the `changelog
-<http://cakephp.org/changelogs/2.7.8>`_ for every commit.
+<https://cakephp.org/changelogs/2.7.8>`_ for every commit.
 
 * An extract() call was removed from Validation::comparison(). There was some
   concern that it could be used to circumvent validation.

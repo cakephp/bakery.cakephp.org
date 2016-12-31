@@ -7,7 +7,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 2.7.7. See the `changelog
-<http://cakephp.org/changelogs/2.7.7>`_ for every commit.
+<https://cakephp.org/changelogs/2.7.7>`_ for every commit.
 
 * In a CLI environment, error handlers now default the CLI error handlers during
   application bootstrap. Previously, errors during application startup would

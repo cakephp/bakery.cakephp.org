@@ -104,7 +104,7 @@ Download a `packaged release`_.
 
 
 
-.. _migration guide: http://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html
+.. _migration guide: https://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html
 .. _packaged release: https://github.com/cakephp/cakephp/releases/3.0.0-beta3
 
 .. author:: markstory

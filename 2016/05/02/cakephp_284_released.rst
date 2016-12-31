@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 2.8.4. See the `changelog
-<http://cakephp.org/changelogs/2.8.4>`_ for every commit.
+<https://cakephp.org/changelogs/2.8.4>`_ for every commit.
 
 * ``FormHelper::postLink()`` now correctly generates SecurityComponent field
   hashes when used within another form. (@MarkusBauer)

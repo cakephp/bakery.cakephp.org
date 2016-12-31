@@ -43,9 +43,9 @@ You can download `packaged releases on github`_
 
 
 
-.. _2.5.1 changelog: http://cakephp.org/changelogs/2.5.1
+.. _2.5.1 changelog: https://cakephp.org/changelogs/2.5.1
 .. _CakeFest 2014: http://cakefest.org
-.. _2.4.10 changelog: http://cakephp.org/changelogs/2.4.10
+.. _2.4.10 changelog: https://cakephp.org/changelogs/2.4.10
 .. _conference schedule: http://cakefest.org/schedule
 .. _packaged releases on github: https://github.com/cakephp/cakephp/tags
 

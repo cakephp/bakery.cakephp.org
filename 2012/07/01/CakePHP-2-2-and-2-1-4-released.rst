@@ -53,7 +53,7 @@ is a quick summary of what you can find after upgrading:
 + Added new validation methods for upload checking and natural numbers
 
 Please make sure you read the complete migration guide available at
-`http://book.cakephp.org/2.0/en/appendices/2-2-migration-guide.html`_
+`https://book.cakephp.org/2.0/en/appendices/2-2-migration-guide.html`_
 
 If you were following each release for 2.2 and 2.1, here's a summary
 of the changes that made into this final iteration:
@@ -110,20 +110,20 @@ CakePHP!
 Links
 ~~~~~
 
-+ [1] `http://cakephp.org/changelogs/2.2.0`_
-+ [2] `http://cakephp.org/changelogs/2.1.4`_
-+ [3] `http://github.com/cakephp/cakephp/zipball/2.2.0`_
++ [1] `https://cakephp.org/changelogs/2.2.0`_
++ [2] `https://cakephp.org/changelogs/2.1.4`_
++ [3] `https://github.com/cakephp/cakephp/zipball/2.2.0`_
 + [4] `http://cakefest.org`_
 
 
 
 .. _CakeFest 2012: http://cakefest.org/
-.. _http://cakephp.org/changelogs/2.1.4: http://cakephp.org/changelogs/2.1.4
+.. _https://cakephp.org/changelogs/2.1.4: https://cakephp.org/changelogs/2.1.4
 .. _booked your tickets: http://cakefest.org/ticket-info
-.. _http://book.cakephp.org/2.0/en/appendices/2-2-migration-guide.html: http://book.cakephp.org/2.0/en/appendices/2-2-migration-guide.html
+.. _https://book.cakephp.org/2.0/en/appendices/2-2-migration-guide.html: https://book.cakephp.org/2.0/en/appendices/2-2-migration-guide.html
 .. _http://cakefest.org: http://cakefest.org
-.. _http://cakephp.org/changelogs/2.2.0: http://cakephp.org/changelogs/2.2.0
-.. _http://github.com/cakephp/cakephp/zipball/2.2.0: http://github.com/cakephp/cakephp/zipball/2.2.0
+.. _https://cakephp.org/changelogs/2.2.0: https://cakephp.org/changelogs/2.2.0
+.. _https://github.com/cakephp/cakephp/zipball/2.2.0: https://github.com/cakephp/cakephp/zipball/2.2.0
 
 .. author:: lorenzo
 .. categories:: news

@@ -89,7 +89,7 @@ community! Thank you.
 .. _roadmap: https://github.com/cakephp/cakephp/wiki/3.0-Roadmap
 .. _Cloud Sites: http://www.rackspace.com/knowledge_center/article/installing-cakephp-on-cloud-sites
 .. _Community Center: http://community.cakephp.org
-.. _last year: http://bakery.cakephp.org/articles/jameswatts/2012/12/28/cakephp_community_2012
+.. _last year: https://bakery.cakephp.org/articles/jameswatts/2012/12/28/cakephp_community_2012
 .. _Cake Software Foundation: http://cakefoundation.org
 .. _3.0: https://github.com/cakephp/cakephp/tree/3.0
 .. _official group: https://www.facebook.com/groups/cake.community/
@@ -105,7 +105,7 @@ community! Thank you.
 .. _Pagoda Box: http://help.pagodabox.com/customer/portal/articles/174049-cakephp
 .. _cake: https://twitter.com/cakephp/status/374262949780533248
 .. _Fortrabbit: http://fortrabbit.com/solutions/cakephp-hosting
-.. _CookBook: http://book.cakephp.org
+.. _CookBook: https://book.cakephp.org
 .. _milestone: https://github.com/cakephp/cakephp/issues?milestone=7&state=open
 .. _useful: http://dogmatic69.com/sql-to-cakephp-find-converter
 .. _moments: https://www.facebook.com/photo.php?fbid=10152257493973135&set=a.10152257440208135.1073741830.339964833134&type=3&theater

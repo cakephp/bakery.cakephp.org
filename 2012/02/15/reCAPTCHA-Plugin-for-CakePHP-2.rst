@@ -72,7 +72,7 @@ echo $this->Recaptcha->error();
 
 
 .. _https://github.com/Jahdrien/ReCaptcha-Plugin: https://github.com/Jahdrien/ReCaptcha-Plugin
-.. _tbsmcd's reCAPTCHA Plugin: http://bakery.cakephp.org/articles/tbsmcd/2011/02/05/recaptcha_plugin_6
+.. _tbsmcd's reCAPTCHA Plugin: https://bakery.cakephp.org/articles/tbsmcd/2011/02/05/recaptcha_plugin_6
 
 .. author:: Jahdrien
 .. categories:: articles, plugins

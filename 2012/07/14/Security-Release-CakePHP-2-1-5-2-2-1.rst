@@ -53,23 +53,23 @@ CakePHP!
 Links
 ~~~~~
 
-[1] `http://cakephp.org/changelogs/2.2.1`_
+[1] `https://cakephp.org/changelogs/2.2.1`_
 
-[2] `http://cakephp.org/changelogs/2.1.5`_
+[2] `https://cakephp.org/changelogs/2.1.5`_
 
-[3] `http://github.com/cakephp/cakephp/tags`_
+[3] `https://github.com/cakephp/cakephp/tags`_
 
 [4] `http://cakefest.org`_
 
 
 
-.. _http://cakephp.org/changelogs/2.1.5: http://cakephp.org/changelogs/2.1.5
+.. _https://cakephp.org/changelogs/2.1.5: https://cakephp.org/changelogs/2.1.5
 .. _Paweł Wyleciał: http://h0wl.pl
 .. _your tickets: http://cakefest.org/ticket-info
 .. _http://cakefest.org: http://cakefest.org
-.. _http://cakephp.org/changelogs/2.2.1: http://cakephp.org/changelogs/2.2.1
-.. _patch: http://github.com/cakephp/cakephp/commit/6c905411bac66caad5e220a70e3d561b8a648507
-.. _http://github.com/cakephp/cakephp/tags: http://github.com/cakephp/cakephp/tags
+.. _https://cakephp.org/changelogs/2.2.1: https://cakephp.org/changelogs/2.2.1
+.. _patch: https://github.com/cakephp/cakephp/commit/6c905411bac66caad5e220a70e3d561b8a648507
+.. _https://github.com/cakephp/cakephp/tags: https://github.com/cakephp/cakephp/tags
 
 .. author:: markstory
 .. categories:: news

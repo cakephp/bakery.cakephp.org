@@ -86,15 +86,15 @@ Links
 ~~~~~
 
 + [1] `https://github.com/cakephp/cakephp/tags`_
-+ [2] `http://cakephp.org/changelogs/2.3.0-RC2`_
-+ [3] `http://cakephp.org/changelogs/2.2.5`_
++ [2] `https://cakephp.org/changelogs/2.3.0-RC2`_
++ [3] `https://cakephp.org/changelogs/2.2.5`_
 
 
 
 
 .. _https://github.com/cakephp/cakephp/tags: https://github.com/cakephp/cakephp/tags
-.. _http://cakephp.org/changelogs/2.2.5: http://cakephp.org/changelogs/2.2.5
-.. _http://cakephp.org/changelogs/2.3.0-RC2: http://cakephp.org/changelogs/2.3.0-RC2
+.. _https://cakephp.org/changelogs/2.2.5: https://cakephp.org/changelogs/2.2.5
+.. _https://cakephp.org/changelogs/2.3.0-RC2: https://cakephp.org/changelogs/2.3.0-RC2
 
 .. author:: markstory
 .. categories:: news

@@ -88,15 +88,15 @@ Links
 ~~~~~
 
 + [1] `https://github.com/cakephp/cakephp/releases/2.5.0-beta`_
-+ [2] `http://book.cakephp.org/2.0/en/appendices/2-5-migration-guide.html`_
-+ [3] `http://api.cakephp.org/2.5`_
++ [2] `https://book.cakephp.org/2.0/en/appendices/2-5-migration-guide.html`_
++ [3] `https://api.cakephp.org/2.5`_
 
 
 
 
-.. _http://api.cakephp.org/2.5: http://api.cakephp.org/2.5
+.. _https://api.cakephp.org/2.5: https://api.cakephp.org/2.5
 .. _https://github.com/cakephp/cakephp/releases/2.5.0-beta: https://github.com/cakephp/cakephp/releases/2.5.0-beta
-.. _http://book.cakephp.org/2.0/en/appendices/2-5-migration-guide.html: http://book.cakephp.org/2.0/en/appendices/2-5-migration-guide.html
+.. _https://book.cakephp.org/2.0/en/appendices/2-5-migration-guide.html: https://book.cakephp.org/2.0/en/appendices/2-5-migration-guide.html
 
 .. author:: markstory
 .. categories:: news

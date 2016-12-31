@@ -30,7 +30,7 @@ changes are:
 + View now correctly re-uses the Controller event manager instance.
 + Model::saveAll() and default values now behave better.
 
-You can download a packaged release from `http://pear.cakephp.org`_ or
+You can download a packaged release from `https://pear.cakephp.org`_ or
 get a zip file from github[3].
 
 
@@ -71,7 +71,7 @@ A new object `ModelValidator` was added to delegate the work of
 validating model data, it should be transparent to the application and
 fully backwards compatible. It also exposes a rich API to add, modify
 and remove validation rules. Check docs for this object in
-`http://book.cakephp.org/2.0/en/models/data-validation.html#dynamically-change-validation-rules`_
+`https://book.cakephp.org/2.0/en/models/data-validation.html#dynamically-change-validation-rules`_
 
 
 Generate config files on the fly
@@ -133,20 +133,20 @@ Misc changes
 Links
 ~~~~~
 
-+ [1] `http://cakephp.org/changelogs/2.1.3`_
-+ [2] `http://cakephp.org/changelogs/2.2.0-RC1`_
-+ [3] `http://github.com/cakephp/cakephp/zipball/2.1.3`_
-+ [4] `http://github.com/cakephp/cakephp/zipball/2.2.0-RC1`_
++ [1] `https://cakephp.org/changelogs/2.1.3`_
++ [2] `https://cakephp.org/changelogs/2.2.0-RC1`_
++ [3] `https://github.com/cakephp/cakephp/zipball/2.1.3`_
++ [4] `https://github.com/cakephp/cakephp/zipball/2.2.0-RC1`_
 
 
 
 
-.. _http://cakephp.org/changelogs/2.1.3: http://cakephp.org/changelogs/2.1.3
-.. _http://github.com/cakephp/cakephp/zipball/2.1.3: http://github.com/cakephp/cakephp/zipball/2.1.3
-.. _http://cakephp.org/changelogs/2.2.0-RC1: http://cakephp.org/changelogs/2.2.0-RC1
-.. _http://github.com/cakephp/cakephp/zipball/2.2.0-RC1: http://github.com/cakephp/cakephp/zipball/2.2.0-RC1
-.. _http://book.cakephp.org/2.0/en/models/data-validation.html#dynamically-change-validation-rules: http://book.cakephp.org/2.0/en/models/data-validation.html#dynamically-change-validation-rules
-.. _http://pear.cakephp.org: http://pear.cakephp.org
+.. _https://cakephp.org/changelogs/2.1.3: https://cakephp.org/changelogs/2.1.3
+.. _https://github.com/cakephp/cakephp/zipball/2.1.3: https://github.com/cakephp/cakephp/zipball/2.1.3
+.. _https://cakephp.org/changelogs/2.2.0-RC1: https://cakephp.org/changelogs/2.2.0-RC1
+.. _https://github.com/cakephp/cakephp/zipball/2.2.0-RC1: https://github.com/cakephp/cakephp/zipball/2.2.0-RC1
+.. _https://book.cakephp.org/2.0/en/models/data-validation.html#dynamically-change-validation-rules: https://book.cakephp.org/2.0/en/models/data-validation.html#dynamically-change-validation-rules
+.. _https://pear.cakephp.org: https://pear.cakephp.org
 
 .. author:: markstory
 .. categories:: news

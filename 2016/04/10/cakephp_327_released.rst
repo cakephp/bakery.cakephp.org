@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 3.2.7. See the `changelog
-<http://cakephp.org/changelogs/3.2.7>`_ for every commit.
+<https://cakephp.org/changelogs/3.2.7>`_ for every commit.
 
 * Connection drivers now support short classname references. (@ndm2)
 * Exception types raised by SecurityComponent have been updated to match the

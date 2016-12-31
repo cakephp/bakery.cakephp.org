@@ -16,7 +16,7 @@ There are two issues that can impact the security of a CakePHP application:
   crafted data past certain criteria.
 
 We'd like to thank 'Kurita Takashi' for contacting us through our `security issue
-<http://book.cakephp.org/3.0/en/contributing/tickets.html#reporting-security-issues>`_
+<https://book.cakephp.org/3.0/en/contributing/tickets.html#reporting-security-issues>`_
 process about the CsrfComponent issue. We recommend that all users of CakePHP
 upgrade to 3.0.11 or 3.1.0-beta as soon as possible.
 
@@ -43,7 +43,7 @@ branches:
 * DateTime instances can be sorted by Collection now.
 
 For a deeper insight of what changed, have a look at the
-`release notes <http://cakephp.org/changelogs/3.0.11>`_.
+`release notes <https://cakephp.org/changelogs/3.0.11>`_.
 
 .. author:: markstory
 .. categories:: security, release, news

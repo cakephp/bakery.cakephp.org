@@ -38,7 +38,7 @@ Additional Features
 
 Unless there are major issues with the 3.1.0-RC release, we will have a stable
 release packaged in the 2-3 weeks. The `3.1 migration guide
-<http://book.cakephp.org/3.0/en/appendices/3-1-migration-guide.html>`_ has
+<https://book.cakephp.org/3.0/en/appendices/3-1-migration-guide.html>`_ has
 a full list of all the changes in 3.1.0 and is recommended reading for those
 considering upgrading.
 

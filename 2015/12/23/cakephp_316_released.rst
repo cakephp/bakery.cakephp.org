@@ -6,7 +6,7 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 Bugfixes
 --------
 
-You can expect the following changes in 3.1.6. See the `changelog <http://cakephp.org/changelogs/3.1.6>`_ for every commit.
+You can expect the following changes in 3.1.6. See the `changelog <https://cakephp.org/changelogs/3.1.6>`_ for every commit.
 
 * The ``Auth.afterIdentify`` event is now triggered for stateless
   authentication.

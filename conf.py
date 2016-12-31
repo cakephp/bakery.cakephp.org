@@ -19,7 +19,7 @@ author = 'Cake Software Foundation, Inc'
 copyright = '2005-2016 ' + author
 
 # Change this to your blog root URL (required for RSS feed)
-website = 'http://bakery.cakephp.org'
+website = 'https://bakery.cakephp.org'
 
 # **************************************************************
 # More tweaks you can do

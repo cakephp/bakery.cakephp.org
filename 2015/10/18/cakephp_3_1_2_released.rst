@@ -6,7 +6,7 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 Bugfixes
 --------
 
-You can expect the following changes in 3.1.2. See the [changelog](http://cakephp.org/changelogs/3.1.2) for every commit.
+You can expect the following changes in 3.1.2. See the [changelog](https://cakephp.org/changelogs/3.1.2) for every commit.
 
 * Contained associations now add column typ data into queries. This means that you can use complex datatypes like `DateTime` objects in conditions for association columns.
 * XHR requests with query strings that are converted into requestAction calls by `RequestHandlerComponent` now work as expected.

@@ -8,7 +8,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 3.0.8. See the `changelog
-<http://cakephp.org/changelogs/3.0.8>`_ for every commit.
+<https://cakephp.org/changelogs/3.0.8>`_ for every commit.
 
 * ``EntityTrait::toArray()`` now handles mixed arrays better. Previously if the
   first element was an entity, it assumed that all elements were entities.

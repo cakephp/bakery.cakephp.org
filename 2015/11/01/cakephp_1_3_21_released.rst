@@ -12,7 +12,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 1.3.21. See the `changelog
-<http://cakephp.org/changelogs/1.3.21>`_ for every commit.
+<https://cakephp.org/changelogs/1.3.21>`_ for every commit.
 
 * TimeHelper no longer returns 1969 on invalid dates. Instead '' is returned.
 * crc32 hash keys used in DboSource have been replaced with md5 sums. This

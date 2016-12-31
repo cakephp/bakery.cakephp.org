@@ -8,7 +8,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 2.7.1. See the
-`changelog <http://cakephp.org/changelogs/2.7.1>`_ for every commit.
+`changelog <https://cakephp.org/changelogs/2.7.1>`_ for every commit.
 
 * ``CakeText::tokenize()`` now works with multibyte separator values.
 * AJAX requests that failed authentication when AuthComponent did not have

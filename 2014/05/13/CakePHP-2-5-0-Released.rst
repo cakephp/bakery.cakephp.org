@@ -91,8 +91,8 @@ CakePHP relies on your contributions to continue.
 
 
 
-.. _changelogs: http://cakephp.org/changelogs/2.5.0
-.. _migration guide: http://book.cakephp.org/2.0/en/appendices/2-5-migration-guide.html
+.. _changelogs: https://cakephp.org/changelogs/2.5.0
+.. _migration guide: https://book.cakephp.org/2.0/en/appendices/2-5-migration-guide.html
 
 .. author:: markstory
 .. categories:: news

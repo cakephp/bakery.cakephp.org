@@ -278,15 +278,15 @@ Download a packaged release [3]
 Links
 ~~~~~
 
-+ [1] `http://cakephp.org/changelogs/2.3.0-beta`_
-+ [2] `http://book.cakephp.org/2.0/en/appendices/2-3-migration-guide.html`_
-+ [3] `http://github.com/cakephp/cakephp/tags`_
++ [1] `https://cakephp.org/changelogs/2.3.0-beta`_
++ [2] `https://book.cakephp.org/2.0/en/appendices/2-3-migration-guide.html`_
++ [3] `https://github.com/cakephp/cakephp/tags`_
 
 
 
-.. _http://github.com/cakephp/cakephp/tags: http://github.com/cakephp/cakephp/tags
-.. _http://cakephp.org/changelogs/2.3.0-beta: http://cakephp.org/changelogs/2.3.0-beta
-.. _http://book.cakephp.org/2.0/en/appendices/2-3-migration-guide.html: http://book.cakephp.org/2.0/en/appendices/2-3-migration-guide.html
+.. _https://github.com/cakephp/cakephp/tags: https://github.com/cakephp/cakephp/tags
+.. _https://cakephp.org/changelogs/2.3.0-beta: https://cakephp.org/changelogs/2.3.0-beta
+.. _https://book.cakephp.org/2.0/en/appendices/2-3-migration-guide.html: https://book.cakephp.org/2.0/en/appendices/2-3-migration-guide.html
 
 .. author:: lorenzo
 .. categories:: news

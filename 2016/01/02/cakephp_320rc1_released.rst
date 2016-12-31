@@ -149,8 +149,8 @@ replaced with better solutions. Deprecated features will not be removed until
 
 Unless there are major issues with the 3.2.0-RC1 release, we will have a stable
 release packaged in the next 4-5 weeks. The documentation for 3.2.0 is now
-available in the `book <http://book.cakephp.org/3.0/en>`_ and the `API
-<http://api.cakephp.org/3.2>`_.
+available in the `book <https://book.cakephp.org/3.0/en>`_ and the `API
+<https://api.cakephp.org/3.2>`_.
 
 As always, a huge thanks to all the community members that helped make this
 release happen by reporting issues and sending pull requests.

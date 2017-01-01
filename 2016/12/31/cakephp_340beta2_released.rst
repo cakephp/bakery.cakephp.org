@@ -24,8 +24,8 @@ Bug Fixes
 * Fixed incorrect deprecation documentation comments in
   ``Cake\Http\ServerRequest``.
 
-A full list of the changes in 3.4.0 can be found in the [3.4.0 migration guide]
-(https://book.cakephp.org/3.next/en/appendices/3-4-migration-guide.html)
+A full list of the changes in 3.4.0 can be found in the `3.4.0 migration guide
+<https://book.cakephp.org/3.next/en/appendices/3-4-migration-guide.html>`_
 
 Contributors to 3.4.0-beta2
 ---------------------------

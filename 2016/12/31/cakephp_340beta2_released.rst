@@ -1,4 +1,4 @@
-CakePHP 3.4.0-beta1 Released
+CakePHP 3.4.0-beta2 Released
 ============================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
@@ -24,8 +24,8 @@ Bug Fixes
 * Fixed incorrect deprecation documentation comments in
   ``Cake\Http\ServerRequest``.
 
-A full list of the changes in 3.4.0 can be found in the `3.4.0 migration guide
-<https://book.cakephp.org/3.next/en/appendices/3-4-migration-guide.html>`_
+A full list of the changes in 3.4.0 can be found in the [3.4.0 migration guide]
+(https://book.cakephp.org/3.next/en/appendices/3-4-migration-guide.html)
 
 Contributors to 3.4.0-beta2
 ---------------------------

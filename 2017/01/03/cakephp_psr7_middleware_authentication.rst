@@ -70,7 +70,7 @@ CakePHP 3.5 early to mid next year.
 Where is the code? How do I install it?
 ---------------------------------------
 
-Check `the official repository<https://github.com/cakephp/authentication>`_ of
+Check `the official repository https://github.com/cakephp/authentication` of
 the plugin and install it via composer as usual.
 
   ``composer require cakephp/authentication``

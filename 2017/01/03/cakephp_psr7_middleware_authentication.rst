@@ -1,15 +1,12 @@
 CakePHP PSR7 Middleware Authentication Released
 ===============================================
 
-Introduction and background
----------------------------
-
 Let’s start with some background story on this topic. One of the parts of the
-CakePHP framework I like the less is the authentication and authorization.
-There are a few reasons why. For example the authentication and authorization.
-Firstly both authentication and authorization have been married through the
-AuthComponent, secondly the component is a monolith that is coupled to the
-controller layer of the MVC pattern.
+CakePHP framework I like the least is the authentication and authorization. For
+example the authentication and authorization. Firstly both authentication and
+authorization have been married through the AuthComponent, secondly the
+component is a monolith that is coupled to the controller layer of the MVC
+pattern.
 
 While CakePHP 3 is an awesome framework it carries some of the older parts of
 the framework along to ensure backward compatibility which is, in my personal
@@ -79,6 +76,8 @@ the plugin and install it via composer as usual.
 
 Pay attention to the version constraints! Until CakePHP 3.4 is released it will
 require the 3.next branch!
+
+  ``composer:require cakephp/cakephp:"3.next as 3.4"``
 
 The readme.md of the project contains some basic information on how to get
 started with the new implementation and provides information on how to migrate

@@ -1,7 +1,7 @@
 CakePHP PSR7 Middleware Authentication Released
 ===============================================
 
-The CakePHP team has recently been working hard at improving the authentication and authorization systems. There are a few reasons for this, firstly, both have been historically married through the ``AuthComponent``. And Secondly, the component is a monolithic class that is tightly coupled to the controller layer of an application – this can potentially make authorization hard to reuse in other layers.
+The CakePHP team has recently been working hard at improving the authentication and authorization systems. There are a few reasons for this, firstly, both have been historically married through the ``AuthComponent``. Secondly, the component is a monolithic class that is tightly coupled to the controller layer of an application – this can potentially make authorization hard to reuse in other layers.
 
 CakePHP 3 has taken several steps forward to ensuring that the framework keeps up to the latest standards. It also, at the same time, is very important to the team that the framework ensures backwards compatibility and soft migration paths. One of the key requirements of an improved authentication system for CakePHP was to retain some of this backwards compatibility.
 
@@ -10,7 +10,7 @@ The improved implementation
 
 https://github.com/cakephp/authentication
 
-Hours of dedication were expended to finish this release of the improved authentication system for the CakePHP 3 framework based on PSR7 compliant middleware- For the core team, it was decided that this is the place where authentication should happen.
+Hours of dedication were expended to finish this release of the improved authentication system for the CakePHP 3 framework based on PSR7 compliant middleware. For the core team, it was decided that this is the place where authentication should happen.
 
 Ideally, the request object should carry all information you need to identify a user. While generally, best practice is to identify a user or agent early in the stack. The improvement has meant that the authentication has been completely refactored and moved into a new namespace, as well as the code‘s folder structure being reorganised. But the biggest change was the better separation of logic.
 

@@ -39,7 +39,7 @@ the plugin and install it via composer as usual.
 Pay attention to the version constraints! Until CakePHP 3.4 is released it will
 require the 3.next branch!
 
-  ``composer:require cakephp/cakephp:"3.next as 3.4"``
+  ``composer:require cakephp/cakephp:"dev-3.next as 3.4"``
 
 The readme.md of the project contains some basic information on how to get
 started with the new implementation and provides information on how to migrate

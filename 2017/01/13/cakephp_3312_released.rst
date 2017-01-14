@@ -40,7 +40,7 @@ The 3.3.12 introduces a few new features:
 * Add ``dd()`` as quick alternative for ``debug(); die();``.
 
 Contributors to 3.3.12
----------------------
+----------------------
 
 Thank you to all the contributors that helped make this release happen:
 

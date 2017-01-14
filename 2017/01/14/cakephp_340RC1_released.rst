@@ -53,6 +53,14 @@ Contributors to 3.4.0-RC1
 
 Thank you to all the contributors that helped make this release happen:
 
+* ADmad
+* José Lorenzo Rodríguez
+* Mark Scherer
+* Mark Story
+* Michael Underwood
+* Robert Pustułka
+* antograssiot
+
 As always, a huge thanks to all the community members that helped make this
 release happen by reporting issues and sending pull requests.
 

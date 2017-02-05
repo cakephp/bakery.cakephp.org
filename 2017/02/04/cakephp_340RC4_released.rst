@@ -24,7 +24,7 @@ recommend you give that page a read when upgrading.
 Bugfixes and Minor Features
 ---------------------------
 
-This release fixes a few issues identified in the 3.4.0-RC2, as well as
+This release fixes a few issues identified in the 3.4.0-RC3, as well as
 the recent bugfixes from ``master``. This release contains the following changes:
 
 * ``Email::setPriority()`` was added. This method lets you set the

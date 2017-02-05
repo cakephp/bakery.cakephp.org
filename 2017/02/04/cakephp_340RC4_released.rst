@@ -47,7 +47,7 @@ the recent bugfixes from ``master``. This release contains the following changes
 * Caching result sets on PHP 7.1.1 works again. There was an incompatibility due
   to a change in how SplFixedArray was unserialized.
 * CakePHP internals no longer use ``config()`` where possible.
-* ``Validation::notEmpty()`` now works with float 0.
+* ``Validation::notBlank()`` now works with float 0.
 * ``Collection::transpose()`` with different number of columns and rows now
   works as expected.
 * Session destruction now works properly using the cache engine and memcached.

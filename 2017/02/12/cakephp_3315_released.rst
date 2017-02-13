@@ -17,7 +17,7 @@ You can expect the following changes in 3.3.15. See the `changelog
 * Improved API documentation types.
 * QueryLogger no longer strips ``$`` and ``\`` when re-creating SQL queries.
 * Custom attributes can be passed down to checkboxes and radio buttons now.
-* Added ``labelOptions`` for multi-checkbox/radio widgets, enabling these widges
+* Added ``labelOptions`` for multi-checkbox/radio widgets, enabling these widgets
   to have additional attributes defined on the label elements through the
   ``labelOptions`` key.
 * Whitespace before text inside HTML tags no longer causes ``assertHtml()`` to

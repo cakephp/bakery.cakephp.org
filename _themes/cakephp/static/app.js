@@ -35,14 +35,14 @@ App.ResponsiveMenus = (function () {
       modal.find('.modal-title-cookbook').text(title);
 
       // Bind click events for sub menus.
-      modal.find('li').on('click', function() {
-        var el = $(this),
-          menu = el.find('.submenu, .megamenu');
+      modal.find('li > a').on('click', function() {
+        var el = $(this).parent(),
+          subMenu = el.find('.submenu, .megamenu');
         // No menu, bail
-        if (menu.length == 0) {
+        if (subMenu.length === 0) {
           return;
         }
-        menu.toggle();
+        subMenu.toggle();
         return false;
       });
     });
@@ -80,7 +80,7 @@ $(document).ready(function(){
     // Media queries width include the scrollbar
     mqWidth = $win.outerWidth(true, true),
 
-    // Detect Mobile Devices 
+    // Detect Mobile Devices
     isMobileDevice = (( navigator.userAgent.match(/Android|webOS|iPhone|iPad|iPod|BlackBerry|Windows Phone|IEMobile|Opera Mini|Mobi/i) || (mqWidth < 767) ) ? true : false );
 
     // detect IE browsers

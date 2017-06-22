@@ -78,7 +78,7 @@ Long Term Support for 2.x
 -------------------------
 
 2.x has enjoyed a long life. Given the rate of issues being opened, and pull
-requests being created for 2.x, *2.10 be the last 2.x release*. We recognize
+requests being created for 2.x, *2.10 will be the last 2.x release*. We recognize
 that there are still a number of applications running on 2.x so we plan on
 supporting 2.x with:
 

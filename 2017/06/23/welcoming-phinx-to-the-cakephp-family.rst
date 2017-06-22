@@ -11,7 +11,7 @@ As you are aware, CakePHP has been using Phinx since 3.0.0 for database
 migrations. The CakePHP Core team welcomes the opportunity to look after and
 maintain the project and will now start making changes to bring the code in line
 with the CakePHP (our) coding standards. As well as cleaning up issues and PR's
-soon. We will be following up with a our plans for the code and setting roadmaps
+soon. We will be following up with our plans for the code and setting roadmaps
 in the coming weeks.
 
 We welcome Phinx to the CakePHP family and hope to see Rob Morgan, Richard

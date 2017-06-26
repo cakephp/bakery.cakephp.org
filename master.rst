@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2017/06/25/cakephp_349_released
    2017/06/23/welcoming-phinx-to-the-cakephp-family
    2017/06/23/upcoming-cakephp-roadmap
    2017/06/19/cakephp_348_released

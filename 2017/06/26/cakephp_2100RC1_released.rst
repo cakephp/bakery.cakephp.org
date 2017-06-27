@@ -4,7 +4,7 @@ CakePHP 2.10.0-RC1 Released
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 2.10.0-RC1. This is a release candidate for 2.10.0, which is the *final* 2.x
 feature release. We recommend anyone who would like to see a feature
-added/backported to 2.x do so soon. Once 2.10 becomse stable we will not be
+added/backported to 2.x do so soon. Once 2.10 becomes stable we will not be
 merging any new features, as 2.x will enter long term support.
 
 Long Term Support
@@ -15,7 +15,7 @@ As the final feature release for 2.x, we plan on supporting 2.x with:
 * Bug fixes for *12 months* after the release of 4.0.0.
 * Security fixes for *18 months* after the release of 4.0.0.
 
-After that point, 2.x will become unmaintained and receive no further updates.
+After that point, 2.x will become un-maintained and receive no further updates.
 
 New Features
 ------------

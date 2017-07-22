@@ -11,7 +11,7 @@ What's new in 2.10.0
 --------------------
 
 The `migration guide
-<https://book.cakephp.org/2.x/en/appendices/2-10-migration-guide.html>`_ has
+<https://book.cakephp.org/2.0/en/appendices/2-10-migration-guide.html>`_ has
 a complete list of what's new in 2.10.0, and what has been deprecated. We
 recommend you give that page a read when upgrading.
 

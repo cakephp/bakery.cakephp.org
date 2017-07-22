@@ -36,13 +36,13 @@ Contributors to 2.10.0
 
 Thank you to all the contributors that helped make this release happen:
 
-As always, we would like to thank all the contributors that opened issues,
-opened pull requests or updated the documentation.
-
 * Koji Tanaka
 * Kurre Ståhlberg
 * Mark Story
 * Val Bancer
+
+As always, we would like to thank all the contributors that opened issues,
+opened pull requests or updated the documentation.
 
 Download a `packaged release on github
 <https://github.com/cakephp/cakephp/releases>`_.

@@ -10,7 +10,7 @@ program.
 The SOS program provides security auditing, remediation, and
 verification for key open source software projects, and is funded by `Mozilla's
 Open Source Support
-<https://blog.mozilla.org/blog/2015/10/23/mozilla-launches-open-source-support-program/>`
+<https://blog.mozilla.org/blog/2015/10/23/mozilla-launches-open-source-support-program/>`_
 fund.
 
 The CakePHP audit was performed by `NCC Group <https://www.nccgroup.trust/>`_.

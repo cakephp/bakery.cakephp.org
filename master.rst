@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2017/12/08/potential-information-disclosure-in-application-skeleton
    2017/12/05/cakephp_357_released
    2017/11/22/mozilla_sos_audit_published
    2017/11/20/cakephp_2105_released

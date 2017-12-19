@@ -5,7 +5,8 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 2.10.6. This is a maintenance release for the 2.10 branch that fixes several
 community reported issues. This release contains a security fix for
 ``Controller::postConditions()`` and we recommend you upgrade quickly if you
-rely on this function.
+rely on this function. We'd like to thank 'ooooooo_q' for notifying us of this
+issue through our responsible disclosure process and working with us on a fix.
 
 Bugfixes & New Features
 -----------------------

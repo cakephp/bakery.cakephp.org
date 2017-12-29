@@ -1,3 +1,4 @@
 *.pyc
 blog/*
 /env
+.DS_Store

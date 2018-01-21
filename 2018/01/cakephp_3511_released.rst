@@ -25,7 +25,6 @@ You can expect the following changes in 3.5.11. See the `changelog
 * The default database session configuration no longer triggers errors in
   PHP7.2.0+
 
-
 Contributors to 3.5.11
 ----------------------
 
@@ -41,7 +40,11 @@ Thank you to all the contributors that helped make this release happen:
 * fortkle
 * saeideng
 
-As always, we would like to thank all the contributors that opened issues,
+
+We'd like to welcome `@saeideng <http://github.com/saeideng>`_ to the core team.
+Saeideng has been a consistent contributor over the past few months and we're
+happy to have them on the team as we complete CakePHP 3.6. and start work on
+4.x. As always, we would like to thank all the contributors that opened issues,
 created pull requests or updated the documentation.
 
 Download a `packaged release on github

@@ -76,7 +76,7 @@ Sitemap
    2016/09/29/cakephp_335_released
    2016/09/24/cakephp_334_released
    2016/09/18/cakephp_290_289_released
-   2016/09/14/cakephp_287_released
+   2016/09/14/cakephp_288_released
    2016/09/09/cakephp_287_released
    2016/09/05/cakephp_290rc1_released
    2016/09/02/cakephp_333_released

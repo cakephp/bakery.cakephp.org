@@ -1,5 +1,5 @@
 CakePHP 3.5.11 Released
-======================
+=======================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 3.5.11. This is a maintenance release for the 3.5 branch that fixes several

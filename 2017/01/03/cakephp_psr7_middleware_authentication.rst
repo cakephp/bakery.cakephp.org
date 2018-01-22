@@ -6,7 +6,7 @@ The CakePHP team has recently been working hard at improving the authentication 
 CakePHP 3 has taken several steps forward to ensuring that the framework keeps up to the latest standards. It also, at the same time, is very important to the team that the framework ensures backwards compatibility and soft migration paths. One of the key requirements of an improved authentication system for CakePHP was to retain some of this backwards compatibility.
 
 The improved implementation
-----------------------
+---------------------------
 
 https://github.com/cakephp/authentication
 

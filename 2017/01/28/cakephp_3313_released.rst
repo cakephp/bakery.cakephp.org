@@ -1,5 +1,5 @@
 CakePHP 3.3.13 Released
-======================
+=======================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 3.3.13. This is a maintenance release for the 3.3 branch that fixes several

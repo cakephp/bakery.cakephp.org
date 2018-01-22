@@ -1,5 +1,5 @@
 CakePHP 3.5.0-RC2 Released
-=========================
+==========================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 3.5.0-RC2. This is a release candidate for 3.5.0. 3.5.0 provides a number

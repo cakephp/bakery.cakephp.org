@@ -1,5 +1,5 @@
 CakePHP 3.3.0-RC1 Released
-=========================
+==========================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 3.3.0-RC1. This is a release candidate for 3.3.0. 3.3.0 provides a number

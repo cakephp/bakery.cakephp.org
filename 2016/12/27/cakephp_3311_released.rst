@@ -1,5 +1,5 @@
 CakePHP 3.3.11 Released
-======================
+=======================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP 3.3.11. This is a maintenance release for the 3.3 branch that fixes several community reported issues.
 
@@ -27,7 +27,7 @@ The 3.3.11 introduces a few new features:
 
 
 Contributors to 3.3.11
----------------------
+----------------------
 
 Thank you to all the contributors that helped make this release happen:
 

@@ -1,5 +1,5 @@
 CakePHP 3.3.0-beta3 Released
-===========================
+============================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 3.3.0-beta3. This is a beta release for the 3.3 release branch. 3.3 provides

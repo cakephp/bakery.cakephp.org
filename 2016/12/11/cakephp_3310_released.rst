@@ -38,7 +38,7 @@ The 3.3.10 introduces a few new features:
 * ``MissingElementException`` provides more context now.
 
 Contributors to 3.3.10
----------------------
+----------------------
 
 Thank you to all the contributors that helped make this release happen:
 

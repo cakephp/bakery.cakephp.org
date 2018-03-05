@@ -29,6 +29,32 @@ Contributors to 3.6.0-beta1
 
 Thank you to all the contributors that helped make this release happen:
 
+* AD7six
+* ADmad
+* Andrej Griniuk
+* Anton Nguyen
+* Ceeram
+* Code-Working
+* Dustin Haggard
+* Elias De Vos
+* Florian Krämer
+* Gabriel Caruso
+* Hideki Kinjyo
+* Johannes Jordan
+* Jose Diaz-Gonzalez
+* Joshua Lückers
+* José Lorenzo Rodríguez
+* Mark Scherer
+* Mark Story
+* Mathew Foscarini
+* Michael Hoffmann
+* Raúl Arellano
+* Robert Pustułka
+* antograssiot
+* chinpei215
+* inoas
+* mosaxiv
+* saeid
 
 As always, we would like to thank all the contributors that opened issues,
 created pull requests or updated the documentation.

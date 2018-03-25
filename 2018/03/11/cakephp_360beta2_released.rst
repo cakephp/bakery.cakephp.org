@@ -2,7 +2,7 @@ CakePHP 3.6.0-beta2 Released
 ============================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
-3.6.0-beta2. This is the first beta release for 3.6.0, and it contains several
+3.6.0-beta2. This is a beta release for 3.6.0, and it contains several
 new major features.
 
 Updating to the beta

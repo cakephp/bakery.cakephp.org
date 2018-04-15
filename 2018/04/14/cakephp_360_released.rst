@@ -59,7 +59,7 @@ when upgrading.
 * Cached Routes - Your application's routes can now be cached improving startup
   time for applications with a large number of routes.
 
-Contributors to 3.6.0-RC2
+Contributors to 3.6.0
 ---------------------------
 
 Thank you to all the contributors that helped make this release happen:

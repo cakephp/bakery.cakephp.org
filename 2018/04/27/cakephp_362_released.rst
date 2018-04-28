@@ -7,8 +7,8 @@ community reported issues. The 3.5.16 release contains only one change to
 address the potential timing side channel in CSRF tokens.
 
 
-Bugfixes & New Features
------------------------
+Bugfixes
+--------
 
 You can expect the following changes in 3.6.2. See the `changelog
 <https://github.com/cakephp/cakephp/compare/3.6.1...3.6.2>`_ for every commit.

@@ -8,7 +8,7 @@ community reported issues.
 We are also releasing 3.5.17 and 3.4.14 at this time. These releases contain
 security related fixes that address a cross-site-scripting (XSS) vulnerability
 in the development only 'missing route' and 'duplicate named route' error pages.
-Thank you to Nancer for notifying us of this issue via our responsible
+Thank you to Nacer for notifying us of this issue via our responsible
 disclosure process. We recommend that all users of 3.4 and 3.5 update to these
 releases.
 

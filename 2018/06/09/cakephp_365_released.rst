@@ -31,7 +31,7 @@ You can expect the following changes in 3.6.5. See the `changelog
   ``$options`` now.
 
 
-Contributors to 3.6.3
+Contributors to 3.6.5
 ----------------------
 
 Thank you to all the contributors that helped make this release happen:

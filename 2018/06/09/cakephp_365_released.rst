@@ -2,7 +2,7 @@ CakePHP 3.6.5 Released
 ===============================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
-3.6.3. This is a maintenance release for the 3.6 branch that fixes several
+3.6.5. This is a maintenance release for the 3.6 branch that fixes several
 community reported issues.
 
 Bugfixes

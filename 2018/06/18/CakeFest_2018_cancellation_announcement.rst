@@ -21,7 +21,8 @@ And that brings us to the next point - this cancellation is a disappointment to 
 
 We are proud to say that even after a very difficult personal time, Larry is committed to the framework and community - and while CakeFest is cancelled for this year, we will back in 2019. We'd also like to let you know that this bump in the road does not change our resolve to continue building and growing the cakephp community
 
-2019 is already in our view, and we are going to put the location up to vote! We’d now like to hear your feedback on these 4 options - Let us know where you’d most like to attend CakeFest 2019:
+2019 is already in our view, and we are going to put the location up to vote! We’d now like to hear your feedback on these 4 options - Let us know where you’d most like to attend `CakeFest 2019 <https://cakefest.org/>`_:
+
  * Japan, 
  * Atlanta GA, USA 
  * France

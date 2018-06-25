@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2018/06/24/cakephp_366_released
    2018/06/18/CakeFest_2018_cancellation_announcement
    2018/06/09/cakephp_365_released
    2018/05/20/cakephp_364_3517_3414_released

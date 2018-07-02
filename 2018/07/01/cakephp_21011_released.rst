@@ -15,7 +15,7 @@ You can expect the following changes in 2.10.11. See the `changelog
 * Improved API documenation.
 * Fix incorrectly cased method call.
 
-Contributors to 2.10.10
+Contributors to 2.10.11
 ----------------------
 
 Thank you to all the contributors that helped make this release happen:

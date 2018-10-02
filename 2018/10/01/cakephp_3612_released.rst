@@ -19,7 +19,7 @@ You can expect the following changes in 3.6.11. See the `changelog <https://gith
 * Schema generation for MySQL binary types has been improved. Arbitrary sized
   columns are now handled correctly.
 * Undefined controller properties now emit warnings when accessed. This prevents
-  'invalid method call on null' type errors.
+  'invalid method call on false' type errors.
 * ``Response`` now checks ``disabled_functions`` before trying to set request
   timeout to 0.
 * Re-rendering an email message no longer rotates the message-id.

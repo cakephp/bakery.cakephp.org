@@ -1,8 +1,8 @@
 #! /usr/bin/env python
-
 import posixpath
 import argparse
 import urllib
+import urlparse
 import os
 
 from SimpleHTTPServer import SimpleHTTPRequestHandler
@@ -19,9 +19,9 @@ class RootedHTTPServer(HTTPServer):
 class RootedHTTPRequestHandler(SimpleHTTPRequestHandler):
 
     def translate_path(self, path):
-        path = posixpath.normpath(urllib.unquote(path))
-        words = path.split('/')
-        words = filter(None, words)
+        url_path = urlparse.urlparse(path).path
+        path = posixpath.normpath(urllib.unquote(url_path))
+        words = [w for w in path.split('/') if w]
         path = self.base_path
         for word in words:
             drive, word = os.path.splitdrive(word)
@@ -33,9 +33,10 @@ class RootedHTTPRequestHandler(SimpleHTTPRequestHandler):
 
 
 def main(HandlerClass=RootedHTTPRequestHandler, ServerClass=RootedHTTPServer):
-
     parser = argparse.ArgumentParser()
-    parser.add_argument('--port', '-p', default=os.getenv('PORT', 5000), type=int)
+    parser.add_argument('--port', '-p',
+                        default=os.getenv('PORT', 5000),
+                        type=int)
     parser.add_argument('--dir', '-d', default=os.getcwd(), type=str)
     args = parser.parse_args()
 
@@ -46,6 +47,7 @@ def main(HandlerClass=RootedHTTPRequestHandler, ServerClass=RootedHTTPServer):
     sa = httpd.socket.getsockname()
     print "Serving HTTP on", sa[0], "port", sa[1], "..."
     httpd.serve_forever()
+
 
 if __name__ == '__main__':
     main()

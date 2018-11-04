@@ -36,7 +36,7 @@ Thank you to all the contributors that helped make this release happen:
 * nojimage
 
 We'd like to welcome `garas <https://github.com/garas>`_ to the CakePHP core
-team. Hailing from Croatia, garas has been helpful with fixing bugs in 3.x and
+team. Hailing from Lithuania, garas has been helpful with fixing bugs in 3.x and
 reviewing/writing pull requests for 3.7.
 
 As always, we would like to thank all the contributors that opened issues, created pull requests or updated the documentation.

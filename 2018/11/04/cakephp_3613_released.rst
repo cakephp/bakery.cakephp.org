@@ -6,7 +6,7 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 Bugfixes
 --------
 
-You can expect the following changes in 3.6.11. See the `changelog <https://github.com/cakephp/cakephp/compare/3.6.12...3.6.12>`_ for every commit.
+You can expect the following changes in 3.6.13. See the `changelog <https://github.com/cakephp/cakephp/compare/3.6.12...3.6.13>`_ for every commit.
 
 * PHP 7.3 was added to the build matrix with all tests passing.
 * Extensions are no longer silently ignored when specific extensions are

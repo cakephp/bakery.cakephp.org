@@ -1,4 +1,4 @@
-CakePHP 3.6.13 Released
+CakePHP 3.6.14 Released
 ===============================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP

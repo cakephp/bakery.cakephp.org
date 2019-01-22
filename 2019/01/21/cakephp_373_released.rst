@@ -6,7 +6,7 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 Bugfixes
 --------
 
-You can expect the following changes in 3.7.2. See the `changelog <https://github.com/cakephp/cakephp/compare/3.7.2...3.7.3>`_ for every commit.
+You can expect the following changes in 3.7.3. See the `changelog <https://github.com/cakephp/cakephp/compare/3.7.2...3.7.3>`_ for every commit.
 
 * Improved API documentation and typehint annotations.
 * Update deprecation notice version numbers.

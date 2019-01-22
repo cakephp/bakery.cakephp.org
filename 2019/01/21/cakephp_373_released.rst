@@ -1,4 +1,4 @@
-CakePHP 3.7.2 Released
+CakePHP 3.7.3 Released
 ===============================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP 3.7.3. This is a maintenance release for the 3.7 branch that fixes several community reported issues.

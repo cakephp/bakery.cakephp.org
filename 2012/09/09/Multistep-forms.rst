@@ -8,15 +8,9 @@ especially when you care about user experience. In this tutorial
 you'll be amazed by how much little code can manage a whole full
 featured multistep form when taking advantage of CakePHP powerful
 classes. We'll build the form in only 60 lines of controller code.
-`Original article here, with better syntax highlighting`_
-One of the features I really love about PHP frameworks is form
-management. Coding forms in plain PHP can easily become a pain if not
-well planned out. Multistep forms take this complexity even further,
-especially when you care about user experience. In this tutorial
-you'll be amazed by how much little code can manage a whole full
-featured multistep form when taking advantage of CakePHP powerful
-classes. We'll build the form in only 60 lines of controller code. The
-form will have the following features:
+`Original article here, with better syntax highlighting`_.
+
+The form will have the following features:
 
 + automagical data management
 + flexible steps control

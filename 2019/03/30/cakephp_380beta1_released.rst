@@ -47,9 +47,7 @@ Thank you to all the contributors that helped make 3.8 happen:
 * andrii-pukhalevych
 
 As always, a huge thanks to all the community members that helped make this
-release happen by reporting issues and sending pull requests. 3.8.0 is a large
-release and would not have been possible without the community support and
-feedback.
+release happen by reporting issues and sending pull requests.
 
 Download a `packaged release on github
 <https://github.com/cakephp/cakephp/releases>`_.

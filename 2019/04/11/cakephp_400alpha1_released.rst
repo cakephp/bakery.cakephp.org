@@ -11,7 +11,9 @@ delivers upon:
 #. Remove all features and functionality deprecated in 3.x and marked for
    removal in 4.x
 #. Raise the minimum PHP version to 7.1.0. PHP 5 and PHP 7.0 are now end-of-life
-   and we wanted to target a supported version of PHP.
+   and we wanted to target a supported version of PHP. We are considering
+   raising the minimum required PHP version to 7.2 and would `like your feedback
+   <https://github.com/cakephp/cakephp/issue/13103>`.
 #. Greatly improve the usage of typehinting internally to allow internals to be
    simplified due to less need to type check arguments.
 #. Improve error messages across the framework.
@@ -40,22 +42,22 @@ How you Can Help
 
 You can help deliver 4.0 by contributing in one of many ways:
 
-#. Check the `documentation <https://book.cakephp.org/4.0/en/` for mistakes
-   and unclear or broken examples. We've been trying to update everything but
-   may not have caught everthing.
+#. Check the `documentation <https://book.cakephp.org/4.0/en/` for mistakes,
+   outdated, unclear or broken examples. We've been trying to update everything
+   but may have not caught everthing.
 #. Try it out! Give CakePHP 4.0 a test drive in a non-production application.
    We'd love to hear how converting a small application went and what was harder
    than it should have been.
-#. File bugs for new features or regressions in existing behavior.
+#. File issues for regreessions in existing features, or suggest new features.
+   While we're not likely to greatly expand the scope of 4.0, we would like
+   input on what should be a part of 4.1 and 4.2.
 #. Let us know about unclear error messages or silent failures in CakePHP.
-#. Suggest new features. While we're not likely to greatly expand the scope of
-   4.0, we would like input on what should be a part of 4.1 and 4.2.
 
 
 Contributors to 4.0.0-alpha1
 ----------------------------
 
-Thank you to all the contributors that helped make 4.0 happen:
+Thank you to all the contributors that helped get 4.0 to this point:
 
 * TODO
 

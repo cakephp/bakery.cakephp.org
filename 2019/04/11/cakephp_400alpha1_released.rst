@@ -13,7 +13,7 @@ delivers upon:
 #. Raise the minimum PHP version to 7.1.0. PHP 5 and PHP 7.0 are now end-of-life
    and we wanted to target a supported version of PHP. We are considering
    raising the minimum required PHP version to 7.2 and would `like your feedback
-   <https://github.com/cakephp/cakephp/issues/13103>`.
+   <https://github.com/cakephp/cakephp/issues/13103>`_.
 #. Greatly improve the usage of typehinting internally to allow internals to be
    simplified due to less need to type check arguments.
 #. Improve error messages across the framework.
@@ -27,9 +27,9 @@ to add some great new features:
 * The ORM can now automatically handle timezone conversions between your
   application server timezone and database timezone if they differ.
 * CakePHP now supports the `PSR-15: HTTP Server Request Handlers
-  <https://www.php-fig.org/psr/psr-15/>_` specification.
+  <https://www.php-fig.org/psr/psr-15/>`_ specification.
 * ``Cake\Http\Client`` now follows `PSR-18: HTTP Client
-  <https://www.php-fig.org/psr/psr-18/>_` specifications.
+  <https://www.php-fig.org/psr/psr-18/>`_ specifications.
 * FormHelper now generates HTML5 validation messages and datetime inputs.
 
 The `migration guide
@@ -42,7 +42,7 @@ How you Can Help
 
 You can help deliver 4.0 by contributing in one of many ways:
 
-#. Check the `documentation <https://book.cakephp.org/4.0/en/>` for mistakes,
+#. Check the `documentation <https://book.cakephp.org/4.0/en/>`_ for mistakes,
    outdated, unclear or broken examples. We've been trying to update everything
    but may have not caught everthing.
 #. Try it out! Give CakePHP 4.0 a test drive in a non-production application.

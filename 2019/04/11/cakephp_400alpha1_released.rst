@@ -59,7 +59,26 @@ Contributors to 4.0.0-alpha1
 
 Thank you to all the contributors that helped get 4.0 to this point:
 
-* TODO
+* ADmad
+* Edgaras Janušauskas
+* Florian Krämer
+* Ian den Hartog
+* Iandenh
+* Ilie
+* Ilie Pandia
+* Jeremy Harris
+* José Lorenzo Rodríguez
+* Kyle Burton
+* Marc Wilhelm
+* Marc Würth
+* Mark Scherer
+* Mark Story
+* Matthew Brown
+* Michael Hoffmann
+* Simone Alers
+* Tomas Saghy
+* saeideng
+* sohelrana820
 
 As always, a huge thanks to all the community members that helped make this
 release happen by reporting issues and sending pull requests.

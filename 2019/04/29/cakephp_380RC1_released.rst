@@ -27,7 +27,7 @@ What's new in 3.8.0?
 --------------------
 
 The `migration guide
-<https://book.cakephp.org/3.next/en/appendices/3.8-migration-guide.html>`_ has
+<https://book.cakephp.org/3.next/en/appendices/3-8-migration-guide.html>`_ has
 a complete list of what's new in 3.8.0, and what has been deprecated. We
 recommend you give that page a read when upgrading.
 

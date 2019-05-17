@@ -2,11 +2,10 @@
 import posixpath
 import argparse
 import urllib
-import urlparse
 import os
 
-from SimpleHTTPServer import SimpleHTTPRequestHandler
-from BaseHTTPServer import HTTPServer
+from http.server import SimpleHTTPRequestHandler
+from http.server import HTTPServer
 
 
 class RootedHTTPServer(HTTPServer):
@@ -19,8 +18,8 @@ class RootedHTTPServer(HTTPServer):
 class RootedHTTPRequestHandler(SimpleHTTPRequestHandler):
 
     def translate_path(self, path):
-        url_path = urlparse.urlparse(path).path
-        path = posixpath.normpath(urllib.unquote(url_path))
+        url_path = urllib.parse.urlparse(path).path
+        path = posixpath.normpath(urllib.parse.unquote(url_path))
         words = [w for w in path.split('/') if w]
         path = self.base_path
         for word in words:

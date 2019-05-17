@@ -1,5 +1,5 @@
 CakePHP 3.2.11 Released
-======================
+=======================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 3.2.11. This is a maintenance release for the 3.2 branch that fixes several

@@ -1,5 +1,5 @@
 CakePHP 3.8.0-RC1 Released
-=========================
+==========================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 3.8.0-RC1. This is the release candidate for 3.8.0, and it contains several

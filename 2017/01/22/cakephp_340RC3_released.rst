@@ -1,5 +1,5 @@
 CakePHP 3.4.0-RC3 Released
-=========================
+==========================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 3.4.0-RC3. This is a release candidate for 3.4.0. 3.4.0 provides a number

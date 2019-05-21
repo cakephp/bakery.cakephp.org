@@ -9,7 +9,7 @@ packaged in a few weeks.
 3.8 is the **last** planned minor release of CakePHP 3.x before 4.0 is released.
 Once 4.0 is released, 2.x will only receive security fixes, and 3.x will only
 continue to receive bug & security fix releases. If there is significant
-community interest there may be a 3.8 release, but there are no plans at this
+community interest there may be a 3.9 release, but there are no plans at this
 point in time.
 
 Updating to the RC

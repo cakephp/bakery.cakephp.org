@@ -1,7 +1,7 @@
 CakePHP 4.0.0-beta2 Released
 ============================
 
-The CakePHP core team is proud to announce the first beta release of CakePHP
+The CakePHP core team is proud to announce the second beta release of CakePHP
 4.0.0. Since the previous beta we've finished upgrading migrations to 4.x,
 cleaned up how booleans and nulls are handled by the database layer, improved
 generated javascript snippets, made the development error pages better, finished

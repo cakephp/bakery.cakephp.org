@@ -41,8 +41,17 @@ You can help deliver 4.0 by contributing in one of many ways:
 Contributors to 4.0.0-beta3
 ---------------------------
 
-Thank you to all the contributors that have helped since the beta1 release:
+Thank you to all the contributors that have helped since the beta2 release:
 
+* ADmad
+* Alex
+* Edgaras Janušauskas
+* Ethan Pooley
+* Jorge González
+* Mark Scherer
+* Mark Story
+* Val Bancer
+* ndm2
 
 As always, a huge thanks to all the community members that helped make this
 release happen by reporting issues and sending pull requests.

@@ -18,7 +18,7 @@ You can expect the following changes in 3.8.2. See the `changelog
   ``matching()`` with ``TranslateBehavior``.
 * The default value for the ``$when`` parameter of
   ``Validation::notEmptyDateTime()`` was corrected.
-* ``RedisEngine`` now calls ``setTimeout()`` instead of ``expire()``.
+* ``RedisEngine`` now calls ``expire()`` instead of ``setTimeout()``.
 * ``FormHelper`` now correctly generates Javascript snippets to clear custom
   HTML validation messages.
 * Fixed an overflow error if ``RequestHandlerComponent`` was loaded multiple

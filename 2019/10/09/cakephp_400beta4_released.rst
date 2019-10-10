@@ -1,7 +1,7 @@
 CakePHP 4.0.0-beta4 Released
 ============================
 
-The CakePHP core team is proud to announce the third beta release of CakePHP
+The CakePHP core team is proud to announce the fourth beta release of CakePHP
 4.0.0. Since the previous beta we've completed several tasks:
 
 * The ``requireSsl`` features of ``SecurityComponent`` are available as

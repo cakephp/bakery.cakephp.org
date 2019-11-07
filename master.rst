@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2019/11/07/cakephp_386_released
    2019/10/09/cakephp_400beta4_released
    2019/10/06/cakephp_385_released
    2019/09/13/cakephp_384_released

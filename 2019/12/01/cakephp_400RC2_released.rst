@@ -2,9 +2,9 @@ CakePHP 4.0.0-RC2 Released
 ==========================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
-4.0.0-RC2. This is the first release candidate for 4.0.0, and contains all the
-major features that are planned for 4.0.0. If no major issues are reported
-a stable release will be packaged in two weeks.
+4.0.0-RC2. This is the second and hopefully final release candidate for 4.0.0,
+and contains all the major features that are planned for 4.0.0. If no major
+issues are reported a stable release will be packaged in two weeks.
 
 Updating to the RC
 ------------------

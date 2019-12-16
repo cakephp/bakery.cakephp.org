@@ -43,6 +43,47 @@ Contributors to 4.0.0
 CakePHP 4.0 would not have been possible without the hard work and contributions
 from the following folks:
 
+* ADmad
+* Albert Cansado Solà
+* Chetan Varshney
+* Corey Taylor
+* Edgaras Janušauskas
+* Erwane Breton
+* Florian Krämer
+* Ian den Hartog
+* Iandenh
+* Ilie Pandia
+* Jason Horvath
+* Jeremy Harris
+* Jorge González
+* José Lorenzo Rodríguez
+* Ján Súkeník
+* Karma Dice
+* Marc Würth
+* Marcelo Rocha
+* Mark Scherer
+* Mark Story
+* Matthew Brown
+* Michael Hoffmann
+* Robert Pustułka
+* Tomas Saghy
+* Val Bancer
+* Yevgeny Tomenko
+* Zuluru
+* andrii-pukhalevych
+* bancer
+* dan
+* gregs
+* kawaguchi masaki
+* mirko-pagliai
+* ndm2
+* nojimage
+* o0h
+* othercorey
+* saeideng
+* sohelrana820
+* val
+
 
 Thank you for all you've done to make CakePHP 4 a reality.
 

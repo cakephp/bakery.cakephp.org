@@ -1,9 +1,6 @@
 CakePHP 3.0.0 is Here!
 ======================
 
-The CakePHP team is thrilled to announce the immediate availability of
-version 3.0.0 stable.
-
 The CakePHP core team is thrilled to announce the release of CakePHP
 3.0.0. This is the first API stable release for the 3.0 branch. This
 release is a backwards incompatible release with previous CakePHP

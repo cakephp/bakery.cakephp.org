@@ -2,7 +2,7 @@ CakePHP 4.0.0 Released
 ======================
 
 The CakePHP team is thrilled to announce the immediate availability of 4.0.0.
-This is release begins a new chapter for CakePHP as 4.0 is now API stable and
+This release begins a new chapter for CakePHP as 4.0 is now API stable and
 the release windows for 2.x and 3.x begin.
 
 Key Features

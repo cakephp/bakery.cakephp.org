@@ -28,7 +28,7 @@ Upgrading to 4.0
 
 While 4.0 contains a number of
 breaking changes we have prepared an exhaustive `migration guide
-<https://book.cakephp.org/4/en/appendices/migration-guide.html>`__ covering all
+<https://book.cakephp.org/4/en/appendices/4-0-migration-guide.html>`__ covering all
 the deprecated, removed, and new features.
 
 Additionally, we have put together an `upgrade guide

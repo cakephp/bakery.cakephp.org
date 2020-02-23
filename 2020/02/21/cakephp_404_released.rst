@@ -11,9 +11,8 @@ Bugfixes
 You can expect the following changes in 4.0.4. See the `changelog
 <https://github.com/cakephp/cakephp/compare/4.0.3...4.0.4>`_ for every commit.
 
-* ``Http\Response::$_contenType`` was removed as it was often wrong and out of
+* ``Http\Response::$_contentType`` was removed as it was often wrong and out of
   sync with the ``getHeader('Content-Type')`` value.
-* Logged fatal errors now include the file and line position.
 * ``NumberHelper::precision()`` had the ``$options`` parameter added so it can
   better wrap ``Number::precision()``.
 * Add ``timestamptimezone`` mapping to ``FormHelper`` and ``DateTimeWidget``.

@@ -24,7 +24,8 @@ git remote rm origin
 git branch -D master || true
 git checkout -b master
 
-git remote | grep dokku || git remote add dokku dokku@new.cakephp.org:bakery
+git remote rm dokku || true
+git remote add dokku dokku@apps.cakephp.org:bakery
 git push -fv dokku master
 rm -rf /tmp/bakery-$GIT_COMMIT
     ''')

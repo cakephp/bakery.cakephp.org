@@ -1,4 +1,4 @@
-CakePHP 4.0.0-beta1 Released
+CakePHP 4.1.0-beta1 Released
 ============================
 
 The CakePHP core team is proud to announce the first beta release of CakePHP
@@ -21,7 +21,7 @@ You can help by trying out the beta in your application. Please open issues for
 any new test failures or regressions the new version creates in your
 application.
 
-Contributors to 4.0.0-beta1
+Contributors to 4.1.0-beta1
 ---------------------------
 
 Thank you to all the contributors that have helped with 4.1.0:

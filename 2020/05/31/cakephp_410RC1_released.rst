@@ -46,7 +46,7 @@ Changes Since 4.1.0-beta1
 How you Can Help
 ----------------
 
-You can help by trying out the beta in your application. Please open issues for
+You can help by trying out the RC in your application. Please open issues for
 any new test failures or regressions the new version creates in your
 application.
 

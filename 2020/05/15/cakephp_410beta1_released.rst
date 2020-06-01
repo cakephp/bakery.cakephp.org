@@ -26,10 +26,6 @@ Contributors to 4.1.0-beta1
 
 Thank you to all the contributors that have helped with 4.1.0:
 
-
-As always, a huge thanks to all the community members that helped make this
-release happen by reporting issues and sending pull requests.
-
 * ADmad
 * Corey Taylor
 * Diego Sardina
@@ -49,6 +45,9 @@ release happen by reporting issues and sending pull requests.
 * ndm2
 * nojimage
 * saeideng
+
+As always, a huge thanks to all the community members that helped make this
+release happen by reporting issues and sending pull requests.
 
 Download a `packaged release on github
 <https://github.com/cakephp/cakephp/releases>`_.

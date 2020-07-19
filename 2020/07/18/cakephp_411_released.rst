@@ -2,7 +2,7 @@ CakePHP 4.1.1 Released
 ===============================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
-4.1.1. This is a maintenance release for the 4.0 branch that fixes several
+4.1.1. This is a maintenance release for the 4.1 branch that fixes several
 community reported issues.
 
 Bugfixes

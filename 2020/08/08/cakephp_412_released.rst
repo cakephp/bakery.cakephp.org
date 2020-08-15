@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 4.1.2. See the `changelog
-<https://github.com/cakephp/cakephp/compare/4.1.1`...4.1.2>`_ for every commit.
+<https://github.com/cakephp/cakephp/compare/4.1.1...4.1.2>`_ for every commit.
 
 * Fixed usage of deprecated classes internally.
 * Fixed TypeError in PHP8.

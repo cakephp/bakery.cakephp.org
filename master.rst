@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2020/08/15/cakephp_413_released
    2020/08/08/cakephp_412_released
    2020/07/26/cakephp_391_released
    2020/07/18/cakephp_411_released
@@ -443,4 +444,4 @@ Sitemap
    2012/01/11/HABTM-Add-Delete-Behavior-for-CakePHP-2-0
    2012/01/09/CakePHP-2-1-alpha-just-baked
    2012/01/05/Layout-Component
-   2012/01/04/Adding-a-TinyMCE-image-browser-to-CakePHP-2
+   2012/01/04/Adding-a-TnyMCE-image-browser-to-CakePHP-2

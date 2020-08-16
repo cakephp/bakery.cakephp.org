@@ -16,7 +16,8 @@ You can expect the following changes in 4.1.3. See the `changelog
 * XML entity loading code was de-duplicated and made compatible with PHP8.
 * The ``SqlServer`` driver now raises an exception when more than 2100
   parameters are provided as that is the maximum that SQLServer supports.
-* The ``SqlServer`` driver will now retry connection creation up to 5 times.
+* The ``SqlServer`` driver will now retry connection creation up to 4 times on 
+  certain errors such as database paused.
   This increases compatibility with cloud hosted SQLServer instances.
 * View now closes all open output buffers when an element or view fails during
   rendering. This resolves open buffer warnings in test cases.

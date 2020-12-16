@@ -2,7 +2,7 @@ CakePHP 2.10.24 Released
 ========================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
-2.10.22. This is the *final* maintenance release for 2.x. The 2.10 release will
+2.10.24. This is the *final* maintenance release for 2.x. The 2.10 release will
 continue to receive security fixes until June 15 2021.
 
 Bugfixes

@@ -51,6 +51,22 @@ Contributors to 4.2.0
 
 Thank you to all tbe contributors that helped make 4.2 happen:
 
+* ADmad
+* Blaz
+* chris cnizzardini
+* Edgaras Janušauskas
+* Eugene Ritter
+* imo-tikuwa
+* Juan Basso
+* Mario Rothauer
+* Mark Scherer
+* Mark Story
+* ndm2
+* othercorey
+* Ricardo Turella
+* tanden
+* tikuwa
+
 As always, a huge thanks to all the community members that helped make this
 release happen by reporting issues and sending pull requests. 4.2.0 is a large
 release and would not have been possible without the community support and

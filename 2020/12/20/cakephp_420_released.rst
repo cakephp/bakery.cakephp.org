@@ -45,6 +45,7 @@ when upgrading. A few highlights from 4.2.0 are:
   a request, making it useful in middleware.
 * ``Table::subquery()`` and  ``Query::subquery()`` were added. These methods
   lets you create query objects that don't have automatic aliasing.
+* Collations are now supported for string literals and ``IdentifierExpression``.
 
 Contributors to 4.2.0
 ---------------------------

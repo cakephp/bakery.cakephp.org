@@ -4,8 +4,8 @@ CakePHP 4.2.1 Released
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 4.2.1. This is a maintenance release for the 4.2 branch that fixes several
 community reported issues. We'd like to thank `Xhelal Likaj
-<https://github.com/xhlika>`_ for reporting the BREACH weaknesses via our
-security process.
+<https://github.com/xhlika>`_ for reporting the BREACH weakness, and incomplete
+salt length checks via our security process.
 
 Bugfixes
 --------

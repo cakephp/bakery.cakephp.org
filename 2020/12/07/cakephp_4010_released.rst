@@ -11,7 +11,7 @@ no additional POST data. The fixes validate that the HTTP method override is
 a valid HTTP method name. We'd like to thank `Xhelal Likaj
 <https://github.com/xhlika>`_ for reporting `this issue
 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-35239>`_ to us via our
-security mailing list.
+security process.
 
 The versions impacted by this issue are >4.0.0, <=4.0.9 and >4.1.0, <=4.1.3.
 Releases after 4.1.3 are not vulnerable as they already validated the HTTP

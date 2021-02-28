@@ -13,7 +13,7 @@ You can expect the following changes in 4.2.4. See the `changelog
 
 * Fix ``bin/cake routes check`` not handling redirect routes correctly.
 * Removed a connection flag from the SQLServer driver that is incompatible with
-  new versions of SQLServer.
+  pdo_sqlsrv 5.9+.
 * Improved API documentation.
 * Console ``TableHelper`` now accepts integers and floats as cell values.
 * Updated documentation for ``ServerRequest::is()`` to allow ``mixed``.

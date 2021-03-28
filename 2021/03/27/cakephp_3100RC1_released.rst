@@ -1,9 +1,9 @@
-CakePHP 3.10.0RC1 Released
-==========================
+CakePHP 3.10.0-RC1 Released
+===========================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 3.10.0-RC1. This is the first release candidate for 3.10.0. It contains several
-new major features. If no major issues are reported a stable release will be
+new features. If no major issues are reported a stable release will be
 packaged in a few weeks.
 
 3.10 contains several features that have been backported from 4.x.
@@ -33,7 +33,7 @@ ran your tests. By opening issues for any regressions in the release candidate,
 we can help ensure a smoother release of 3.10.0 before the stable release.
 
 What's new in 3.10.0?
---------------------
+---------------------
 
 The shortlist of features included in 3.10 is as follows:
 

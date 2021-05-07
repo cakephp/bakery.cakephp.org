@@ -354,6 +354,8 @@
     display: inline-block
 }
 
+#modal .megamenu .row:first-child { padding-top: 30px; }
+
 @media (min-width: 1200px) {
     .row.col-p30 [class*="col-"].business-solution {
         padding: 0 15px;

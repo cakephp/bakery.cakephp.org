@@ -229,15 +229,12 @@
     #improve-slideout-inner {
         bottom: 0;
     }
+
+    .row.col-p30 {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
 }
-
-
-
-
-
-
-
-
 
 
 @media (min-width: 992px) and (max-width: 1199px) {

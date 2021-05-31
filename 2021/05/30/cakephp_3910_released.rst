@@ -13,7 +13,7 @@ You can expect the following changes in 3.9.10. See the `changelog
 
 * Fixed 'text file busy' errors that occur with file caching and virtual
   machines.
-* Fixed type information being lost when translating tuple comparisions. The
+* Fixed type information being lost when translating tuple comparisons. The
   surrogate queries did not inherit type map information.
 * Fixed types not being used when marshalling ``_ids`` and composite keys.
 * Added missing encoding to OAuth1 client when the consumer_key is a base64

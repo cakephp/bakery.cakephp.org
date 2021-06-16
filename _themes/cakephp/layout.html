@@ -304,7 +304,7 @@ as the macro in the base theme filters out jquery.
                         {%- if hasdoc('copyright') %}
                             {% trans path=pathto('copyright'), copyright=copyright|e %}&copy; <a href="{{ path }}">Copyright</a> {{ copyright }}.{% endtrans %}
                         {%- else %}
-                            {% trans copyright=copyright|e %}&copy; Copyright {{ copyright }}.{% endtrans %}
+                            {% trans copyright=copyright|e %}Copyright &copy; {{ copyright }}.{% endtrans %}
                         {%- endif %}
                     {%- endif %}
                     {%- if last_updated %}

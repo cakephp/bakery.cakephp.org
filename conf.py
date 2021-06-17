@@ -16,7 +16,7 @@ description = 'Latest news and articles about CakePHP'
 author = 'Cake Software Foundation, Inc'
 
 # Change this to your copyright string
-copyright = '2005-2021 ' + author
+copyright = ' ' + author
 
 # Change this to your blog root URL (required for RSS feed)
 website = 'https://bakery.cakephp.org'

@@ -17,7 +17,7 @@ usage of 3.x we've decided to extend the 3.x maintenance timeline and release
 * 3.10 will continue to receive bug fixes until December 15 2021.
 * 3.10 will continue to receive security fixes until December 15 of 2022.
 
-Updating to the RC
+Updating to 3.10.0
 ------------------
 
 You can use composer to upgrade to the beta version of CakePHP 3.10.0::

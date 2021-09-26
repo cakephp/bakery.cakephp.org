@@ -38,6 +38,24 @@ Contributors to 4.3.0-RC1
 
 Thank you to all the contributors that have helped with 4.3.0:
 
+* ADmad
+* Breton Erwane
+* Chris Nizzardini
+* Erwane Breton
+* J.Brabec
+* Jan Brabec
+* Juan Pablo Ramirez
+* Mark Scherer
+* Mark Story
+* Rob Rikken
+* andrii-pukhalevych
+* captain-redbeard
+* chris cnizzardini
+* fabsn182
+* jpramirez
+* ndm2
+* othercorey
+
 As always, a huge thanks to all the community members that helped make this
 release happen by reporting issues and sending pull requests.
 

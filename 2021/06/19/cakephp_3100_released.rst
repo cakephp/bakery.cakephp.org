@@ -14,8 +14,8 @@ were planned to stop after *June 15 2021*. Because of continued interest and
 usage of 3.x we've decided to extend the 3.x maintenance timeline and release
 3.10. The new timelines are:
 
-* 3.10 will continue to receive bug fixes until December 15 2021.
-* 3.10 will continue to receive security fixes until December 15 of 2022.
+* 3.10 will continue to receive bug fixes until December 15, 2021.
+* 3.10 will continue to receive security fixes until December 15, 2022.
 
 Updating to 3.10.0
 ------------------

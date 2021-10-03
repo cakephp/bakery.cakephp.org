@@ -20,6 +20,6 @@ to help support users who have made the transition out of 2.x.
 With CakePHP 4.3 just aroud the corner and work in CakePHP 5 started, we hope users
 are excited about the push for improvements and tastier Cake.
 
-.. author:: othercorey
+.. author:: corey
 .. categories:: news
 .. tags:: news

@@ -12,7 +12,7 @@ When CakePHP 4 was released, the ``allowMultipleNulls`` option was removed due t
 This caused ``IsUnique`` to fail if a row matched the fields including ``NULL`` values.
 
 However, this issue was caught and the option reintroduced in CakePHP 4.2 with a differnet implementation.
-Due to backwards compatible rules for releasese, the default was set to ``false`` because CakePHP 4.0 did
+Due to backwards compatible rules for releases, the default was set to ``false`` because CakePHP 4.0 did
 not include it.
 
 Baking ``allowMultipleNulls`` in Application Rules
@@ -24,14 +24,14 @@ for users to understand the behavior and know where to change the option.
 
 You should see unique rules generated something like this:
 
-..code-block:: php
+.. code-block:: php
     $rules->add($rules->isUnique(['field_1', 'field_2'], ['allowMultipleNulls' => true]), ['errorField' => 'field_1']);
 
 There are always edge cases for rules like this. Some users might have nullable columns but maintain unique
 null values. Some users might have a solution for SQL Server to consider ``NULL`` unique. Our goal is to
 provide reasonable and reliable defaults.
 
-..note::
+.. note::
     Bake 2.6 also includes support for baking unique rules with multiple fields.
 
 CakePHP 5 will default ``allowMultipleNulls`` to ``true``

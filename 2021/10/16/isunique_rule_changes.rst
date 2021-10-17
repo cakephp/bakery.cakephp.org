@@ -35,7 +35,7 @@ provide reasonable and reliable defaults.
     Bake 2.6 also includes support for baking unique rules with multiple fields.
 
 CakePHP 5 will default ``allowMultipleNulls`` to ``true``
-----------------------------------------------------------
+---------------------------------------------------------
 
 We understand there is confusion caused by changing default behavior of options that are hidden,
 but we think this needs to be corrected the right way.

@@ -22,9 +22,8 @@ Bake 2.6 will automatically add the ``allowMultipleNulls`` option for any unique
 a nullable column. This will be set to ``true`` for all databases except ``SQL Server``. This should be easier
 for users to understand the behavior and know where to change the option.
 
-You should see unique rules generated something like this:
+You should see unique rules generated something like this::
 
-.. code-block::
     $rules->add($rules->isUnique(['field_1', 'field_2'], ['allowMultipleNulls' => true]), ['errorField' => 'field_1']);
 
 There are always edge cases for rules like this. Some users might have nullable columns but maintain unique

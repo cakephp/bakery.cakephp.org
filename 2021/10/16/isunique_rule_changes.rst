@@ -28,7 +28,7 @@ You should see unique rules generated something like this:
     $rules->add($rules->isUnique(['field_1', 'field_2'], ['allowMultipleNulls' => true]), ['errorField' => 'field_1']);
 
 There are always edge cases for rules like this. Some users might have nullable columns but maintain unique
-null values. Some users might have a solution for SQL Server to consider ``NULL`` unqiue. Our goal is to
+null values. Some users might have a solution for SQL Server to consider ``NULL`` unique. Our goal is to
 provide reasonable and reliable defaults.
 
 ..note::

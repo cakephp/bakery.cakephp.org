@@ -11,7 +11,7 @@ the rule returns true when any field contains a ``NULL`` value.
 When CakePHP 4 was released, the ``allowMultipleNulls`` option was removed due to a miscommuncation.
 This caused ``IsUnique`` to fail if a row matched the fields including ``NULL`` values.
 
-However, this issue was caught and the option reintroduced in CakePHP 4.2 with a differnet implementation.
+However, this issue was caught and the option reintroduced in CakePHP 4.2 with a different implementation.
 Due to backwards compatible rules for releases, the default was set to ``false`` because CakePHP 4.0 did
 not include it.
 

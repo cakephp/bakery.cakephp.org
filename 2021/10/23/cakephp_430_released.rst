@@ -27,10 +27,16 @@ The `migration guide
 a complete list of what's new in 4.3.0. We recommend you give that page a read
 when upgrading. A few highlights from 4.3.0 are:
 
+* A new fixture system that allows you to use your existing migrations or SQL
+  dump files to define schema was added. Support for cake's migrations and SQL
+  dump files is included.
+* ``TestSuite\HttpMockTrait`` was added to make mocking HTTP client requests
+  easier.
+* ``LocatorAwareTrait::fetchTable()`` was added to make the
+  ``getTableLocator()->get()`` pattern more ergonomic.
 * ``Controller::middleware()`` was added. This method lets you define middleware
   specific to a controller, or the current controller action.
 * ``deprecationWarning()`` no longer emits duplicate warnings.
-* CakePHP's dependency on ``league/container`` was bumped to ``^4.1.1``.
 * Logged SQL queries now use boolean literals making them easier to paste into
   a repl.
 * The ``cake console`` command was extracted into a new ``cakephp/repl``
@@ -38,16 +44,10 @@ when upgrading. A few highlights from 4.3.0 are:
 * ``Form`` objects now support multiple validators and leverage a similar
   interface to the ORM to use those validators.
 * ``CspMiddleware`` can now transparently add ``nonce-`` based policies.
-* ``TestSuite\HttpMockTrait`` was added to make mocking HTTP client requests
-  easier.
-* A new fixture system that allows you to use your existing migrations or SQL
-  dump files to define schema was added. Support for cake's migrations and SQL
-  dump files is included.
-* ``LocatorAwareTrait::fetchTable()`` was added to make the
-  ``getTableLocator()->get()`` pattern more ergonomic.
 * ``FormHelper`` will now set additional ARIA attributes automatically.
 * The ORM can now marshall date times from the user's timezone into the
   applications timezone transparently.
+* CakePHP's dependency on ``league/container`` was bumped to ``^4.1.1``.
 
 
 Contributors to 4.3.0

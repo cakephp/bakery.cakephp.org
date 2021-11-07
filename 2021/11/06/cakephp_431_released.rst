@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 4.3.1. See the `changelog
-<https://github.com/cakephp/cakephp/compare/4.4.0...4.3.1>`_ for every commit.
+<https://github.com/cakephp/cakephp/compare/4.3.0...4.3.1>`_ for every commit.
 
 * Fixed incomplete cloning when ``Database\Query`` is cloned.
 * Fixed ``Query::modifier()`` not handling expression objects correctly.

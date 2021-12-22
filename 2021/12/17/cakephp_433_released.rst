@@ -11,14 +11,11 @@ Bugfixes
 You can expect the following changes in 4.3.3. See the `changelog
 <https://github.com/cakephp/cakephp/compare/4.3.2...4.3.3>`_ for every commit.
 
-* Added ``Query::expr()`` as a shorter alias for ``Query::newExpr()``.
 * Improved error handling when OAuth signing encounters SSL errors.
 * Fixed regression in ``Router::reverse()`` and how it handles passed arguments.
 * Fixed inserting breadcrumbs at the end of the list with ``insertAfter()``.
 * Improved API docs.
 * Improved error mesages when PDO extensions are missing.
-* Fixed ``TestCase::deprecated()`` disabling default error handling.
-
 
 Contributors to 4.3.3
 ----------------------

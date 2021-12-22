@@ -6,7 +6,7 @@ Sitemap
 
    2021/12/17/cakephp_433_released
    2021/12/12/cakephp_3102_released
-   2021/11/23/cakephp_432_released
+   2021/11/26/cakephp_432_released
    2021/11/06/cakephp_431_released
    2021/10/29/cakephp_3101_released
    2021/10/23/cakephp_430_released

@@ -36,7 +36,7 @@
     }
 
 
-    .icon-social, .icon-irc, .icon-social-q {
+    .icon-irc, .icon-social-q {
         margin-bottom: 30px;
     }
 
@@ -78,7 +78,7 @@
     }
 
     .social {
-        margin-bottom: 20px;
+        margin-bottom: 15px;
     }
 
     .social iframe {
@@ -356,5 +356,11 @@
 @media (min-width: 1200px) {
     .row.col-p30 [class*="col-"].business-solution {
         padding: 0 15px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1199px) {
+    .social {
+        margin-bottom: 20px;
     }
 }

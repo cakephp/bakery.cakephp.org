@@ -19,7 +19,7 @@ You can expect the following changes in 2.10.12. See the `changelog
 * ``CakeTestCase`` forcibly frees memory now.
 
 Contributors to 2.10.12
-----------------------
+-----------------------
 
 Thank you to all the contributors that helped make this release happen:
 

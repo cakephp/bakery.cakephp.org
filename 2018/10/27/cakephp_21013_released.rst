@@ -18,7 +18,7 @@ You can expect the following changes in 2.10.13. See the `changelog
 * Fixed UNC path handling in ``Shell::createFile()``.
 
 Contributors to 2.10.13
-----------------------
+-----------------------
 
 Thank you to all the contributors that helped make this release happen:
 

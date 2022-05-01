@@ -1,5 +1,5 @@
 CakePHP 2.10.12 Released
-=======================
+========================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 2.10.12. This is a maintenance release for the 2.10 branch that fixes several

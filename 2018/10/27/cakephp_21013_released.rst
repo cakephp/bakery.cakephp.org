@@ -1,5 +1,5 @@
 CakePHP 2.10.13 Released
-=======================
+========================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 2.10.13. This is a maintenance release for the 2.10 branch that fixes several

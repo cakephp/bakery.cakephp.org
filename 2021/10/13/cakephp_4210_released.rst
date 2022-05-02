@@ -1,5 +1,5 @@
 CakePHP 4.2.10 Released
-=======================
+======================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 4.2.10. This is a maintenance release for the 4.2 branch that fixes several

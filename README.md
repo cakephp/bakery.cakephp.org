@@ -29,3 +29,9 @@ tinker --build
    one does not already exist.
 2. Create the file for your post including metadata at the bottom.
 3. Update `master.rst` to include your new post.
+
+
+## Deployment
+
+The bakery uses a combination of python and nginx buildpacks.
+We use the `bin/post-compile` hook from the python buildpack to generate the HTML site, and point nginx at the generated content with the `NGINX_ROOT=blog/html` application option in dokku.

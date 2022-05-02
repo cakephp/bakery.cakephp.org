@@ -9,16 +9,16 @@ RUN apk add --update \
 
 COPY . /data/bakery
 
-# Install dependencies.
-RUN cd /data/bakery \
- && pip install -r requirements.txt
-
+# Everything below this line is in this directory.
 WORKDIR /data/bakery
 
-RUN cd /data/bakery \
- && tinker --build
+# Install dependencies.
+RUN pip install -r requirements.txt
 
-# Build a small nginx container with just the static site in it.
+# Build the site.
+RUN tinker --build
+
+# Only run a small nginx container with just the static site in it.
 FROM nginx:1.15-alpine
 
 # Copy built docs into the webroot.

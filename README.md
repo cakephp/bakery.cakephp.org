@@ -29,3 +29,5 @@ tinker --build
    one does not already exist.
 2. Create the file for your post including metadata at the bottom.
 3. Update `master.rst` to include your new post.
+4. Push to GitHub.
+5. Wait for GitHub Actions to deploy the article to bakery.cakephp.org

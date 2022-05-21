@@ -3,7 +3,7 @@ CakePHP 3.10.4 Released
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 3.10.4. This is a maintenance and security release for the 3.10 branch that
-fixes a couple community reported issues, and patches a security vulnerability.
+fixes a community reported issue, and patches a security vulnerability.
 
 Security Fixes
 --------------

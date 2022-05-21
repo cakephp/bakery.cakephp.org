@@ -2,7 +2,7 @@ CakePHP 3.10.3 Released
 =======================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
-3.10.2. This is a maintenance and security release for the 3.10 branch that
+3.10.3. This is a maintenance and security release for the 3.10 branch that
 fixes a couple community reported issues, and patches a security vulnerability.
 
 Security Fixes

@@ -18,7 +18,7 @@ You can expect the following changes in 4.4.2. See the `changelog
 * When ``viewClasses()`` based extension driven content-negotiation fails
   a ``NotFoundException`` will now be raised.
 * Fixed ``ServerRequest::is('xml')`` from returning true on the default
-  ``Accept`` header sent by firefox.
+  ``Accept`` header sent by Chrome and Firefox.
 * Added deprecation for the ``Error.errorLogger`` configure option. This was
   missed during the development of the ``ErrorTrap`` sub-system.
 * Improved API documentation.

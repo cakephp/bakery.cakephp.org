@@ -15,7 +15,7 @@ You can expect the following changes in 4.4.4. See the `changelog
 * Fix build errors from new versions of intl, MySQL, and openssl.
 * Improved README docs.
 * Fix regression in route parameter coercion intoduced in 4.4.3 with the value
-  ``0`` being cast to a float.
+  ``0`` being cast to an int.
 
 Contributors to 4.4.4
 ----------------------

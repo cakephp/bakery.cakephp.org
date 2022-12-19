@@ -5,7 +5,8 @@ The CakePHP core team is proud to announce the first beta release of CakePHP
 5.0.0. This initial release contains most of the new features and breaking
 changes that 5.0 will contain. This release contains a minimal working
 application skeleton. It also features a new version of Chronos with several
-breaking changes.
+breaking changes. A focus of 5.0 has been to remove deprecated features and
+improve the adoption of native type-declarations where possible.
 
 Our focus in the near future is to finish updating all of the CakePHP maintained
 plugins to be compatible with 5.0. We'll also be putting more work into
@@ -20,7 +21,7 @@ New Features
 ------------
 
 The `migration guide
-<https://book.cakephp.org/5.0/en/appendices/5-0-migration-guide.html>`_ has
+<https://book.cakephp.org/5/en/appendices/5-0-migration-guide.html>`_ has
 a complete list of what's new in 5.0.0. We recommend you give that page a read
 when upgrading as it notes the various breaking changes present in 5.0.
 
@@ -36,8 +37,8 @@ You can help deliver 5.0 by contributing in one of many ways:
    We'd love to hear how converting a small application went and what was harder
    than it should have been.
 #. File issues for regressions in existing features, or suggest new features.
-   While we're not likely to greatly expand the scope of 5.0, we would like
-   input on what should be a part of 5.1 and 5.2.
+   Even if those features don't make it into 5.0, we would appreciate community
+   input on what should be part of 5.1 and 5.2
 
 Contributors to 5.0.0-beta1
 ---------------------------

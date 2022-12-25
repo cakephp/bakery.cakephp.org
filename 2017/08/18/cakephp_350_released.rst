@@ -23,7 +23,7 @@ Deprecations
 
 3.5.0 deprecates a number of methods as we continue to transition away from
 combined get/set methods in favour of separate get/set methods. The `migration
-guide <https://book.cakephp.org/3.0/en/appendices/3-5-migration-guide.html#deprecations>`_
+guide <https://book.cakephp.org/3.0/en/appendices/3-5-migration-guide.html#deprecations>`__
 has the full list of deprecated methods and their replacements. Deprecated
 features will continue to exist and behave as they always have until 4.0.0
 

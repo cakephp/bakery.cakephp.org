@@ -33,7 +33,7 @@ you to make incremental progress in fixing them. To disable deprecation warnings
 set ``Error.errorLevel`` to ``E_ALL ^ E_USER_DEPRECATED`` in **config/app.php**.
 
 The `migration guide
-<https://book.cakephp.org/3.0/en/appendices/3-8-migration-guide.html#deprecations>`_
+<https://book.cakephp.org/3.0/en/appendices/3-8-migration-guide.html#deprecations>`__
 has more details on the deprecation in 3.8 and their replacements. Deprecated
 features will continue to exist and behave as they always have until 4.0.0
 

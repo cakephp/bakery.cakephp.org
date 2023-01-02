@@ -15,7 +15,7 @@ CakePHP 3.10.5 released
 
 The 3.10.5 release contains a single bugfix:
 
-* Fix providing null for $data would fail in foreach in ``_castToString()``.
+* Fix ``IntegrationTestTrait`` providing ``null`` as the request body.
 
 Contributors to 3.10.5
 ----------------------

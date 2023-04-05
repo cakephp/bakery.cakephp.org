@@ -41,7 +41,7 @@ Thank you to all the contributors that helped make this release happen:
 * saeideng
 
 
-We'd like to welcome `@saeideng <http://github.com/saeideng>`_ to the core team.
+We'd like to welcome `@saeideng <https://github.com/saeideng>`_ to the core team.
 Saeideng has been a consistent contributor over the past few months and we're
 happy to have them on the team as we complete CakePHP 3.6. and start work on
 4.x. As always, we would like to thank all the contributors that opened issues,

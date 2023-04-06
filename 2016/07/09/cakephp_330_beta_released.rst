@@ -65,7 +65,7 @@ take advantage of features like:
 * Be able to augment the response objects emitted by error handling and asset
   delivery.
 
-See the `middleware documentation 
+See the `middleware documentation
 <https://book.cakephp.org/3.0/en/controllers/middleware.html>`_ for more
 information on how to use the new HTTP stack.
 
@@ -74,7 +74,7 @@ Http Client is now PSR7 Compatible
 
 ``Cake\Network\Http\Client`` has been moved to ``Cake\Http\Client``. Its request
 and response objects now implement the
-`PSR7 interfaces <http://www.php-fig.org/psr/psr-7/>`_.
+`PSR7 interfaces <https://www.php-fig.org/psr/psr-7/>`_.
 
 ORM Improvements
 ----------------

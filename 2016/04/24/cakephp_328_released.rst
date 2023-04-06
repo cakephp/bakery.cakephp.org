@@ -32,7 +32,7 @@ Minor Enhancements
 CakeFest Tickets Available Now
 ------------------------------
 
-Tickets are now `available for CakeFest 2016 <http://cakefest.org/tickets>`__.
+Tickets are now `available for CakeFest 2016 <https://cakefest.org/tickets>`__.
 Join us in Amsterdam for 2 days of workshops followed by 2 days of talks.
 
 As always, a huge thanks to all the community members that helped make this

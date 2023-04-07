@@ -42,8 +42,8 @@ github`_.
 
 .. _packaged release on github: https://github.com/cakephp/cakephp/releases/2.6.3
 .. _changelog on cakephp.org: https://cakephp.org/changelogs/2.6.3
-.. _CakeFest 2015: http://cakefest.org/schedule
-.. _tickets now: http://cakefest.org/tickets
+.. _CakeFest 2015: https://cakefest.org/schedule
+.. _tickets now: https://cakefest.org/tickets
 
 .. author:: markstory
 .. categories:: release, news

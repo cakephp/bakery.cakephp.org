@@ -54,7 +54,7 @@ the following new features were added.
 CakeFest 2015 Tickets
 ---------------------
 
-`CakeFest 2015 <http://cakefest.org/tickets>`_ is happening in 11 days in NYC.
+`CakeFest 2015 <https://cakefest.org/tickets>`_ is happening in 11 days in NYC.
 If you haven't already purchased your tickets, there is still time.
 
 As always, a huge thanks to all the community members that helped make this

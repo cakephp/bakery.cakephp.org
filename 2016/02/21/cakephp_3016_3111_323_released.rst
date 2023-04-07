@@ -41,7 +41,7 @@ Minor Enhancements
 CakeFest Call for Speakers is Still Open
 ----------------------------------------
 
-CakeFest 2016 will be in Amsterdam from May 26th - May 29th. If you'd like to speak at CakeFest the call for [speakers is still open](http://cakefest.org/).  Tickets [are also on sale](http://cakefest.org/tickets) at a special rate until the speaker list is announced.
+CakeFest 2016 will be in Amsterdam from May 26th - May 29th. If you'd like to speak at CakeFest the call for [speakers is still open](https://cakefest.org/).  Tickets [are also on sale](https://cakefest.org/tickets) at a special rate until the speaker list is announced.
 
 CakePHP Newsletter
 ----------------------------

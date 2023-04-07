@@ -35,7 +35,7 @@ Deprecations
 * ``RequestActionTrait`` has been deprecated. Refactor your code to use
   view cells instead.
 * ``Cake\\Utility\\Crypto\\Mcrypt`` engine has been deprecated as the ``mcrypt``
-  extension is deprecated in PHP 7.1. Use the ``openssl`` driver instead. 
+  extension is deprecated in PHP 7.1. Use the ``openssl`` driver instead.
 
 What's new in 3.3.0?
 --------------------
@@ -53,7 +53,7 @@ features in 3.3.0 is:
   multiple translation values easier than before.
 * ``Cake\Network\Http\Client`` has been moved to ``Cake\Http\Client``. Its request
   and response objects now implement the
-  `PSR7 interfaces <http://www.php-fig.org/psr/psr-7/>`__.
+  `PSR7 interfaces <https://www.php-fig.org/psr/psr-7/>`__.
 * Additional support has been added for mapping complex data types. This makes
   it easier to work with geo-spatial types, and data that cannot be represented
   by strings in SQL queries.

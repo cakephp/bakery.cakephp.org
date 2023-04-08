@@ -137,7 +137,7 @@ marked stable!
 .. _Read more about View Cells: https://book.cakephp.org/3.0/en/views/cells.html
 .. _Tools plugin: https://github.com/dereuromark/tools/tree/cake3
 .. _CakePHP 3.0.0: https://github.com/cakephp/cakephp/releases/3.0.0-dev3
-.. _CRUD plugin: http://blog.friendsofcake.org/2014/05/03/crud-v4-crud-view-and-search-cake-3-0.html
+.. _CRUD plugin: https://blog.friendsofcake.org/2014/05/03/crud-v4-crud-view-and-search-cake-3-0.html
 
 .. author:: lorenzo
 .. categories:: news

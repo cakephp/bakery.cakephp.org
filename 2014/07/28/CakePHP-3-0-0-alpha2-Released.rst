@@ -92,8 +92,8 @@ found and fixed early is a huge help.
 
 .. _routes.php: https://github.com/cakephp/app/blob/master/src/Config/routes.php
 .. _migration guide: https://book.cakephp.org/3.0/en/appendices/3-0-migration-guide.html
-.. _Varnish: http://varnish-cache.org
-.. _your tickets now: http://cakefest.org/tickets
+.. _Varnish: https://varnish-cache.org
+.. _your tickets now: https://cakefest.org/tickets
 .. _CakePHP 3.0.0-alpha2: https://github.com/cakephp/cakephp/releases/3.0.0-alpha2
 
 .. author:: markstory

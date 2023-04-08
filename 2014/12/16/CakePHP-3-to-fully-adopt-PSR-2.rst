@@ -61,11 +61,11 @@ allow us to advance the process of adapting our existing code bases
 where necessary.
 
 
-.. _PSR-2: http://www.php-fig.org/psr/psr-2
+.. _PSR-2: https://www.php-fig.org/psr/psr-2
 .. _RFC: https://github.com/cakephp/cakephp/issues/4499
 .. _coding standard: https://github.com/cakephp/cakephp-codesniffer
 .. _CakePHP: https://cakephp.org
-.. _coding conventions: http://squizlabs.github.io/PHP_CodeSniffer/analysis/cakephp/cakephp/
+.. _coding conventions: https://squizlabs.github.io/PHP_CodeSniffer/analysis/cakephp/cakephp/
 
 .. author:: jameswatts
 .. categories:: news

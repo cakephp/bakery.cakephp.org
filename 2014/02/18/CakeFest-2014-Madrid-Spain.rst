@@ -3,7 +3,7 @@ CakeFest 2014: Madrid, Spain
 
 Join us at CakeFest 2014, the annual CakePHP conference, held this
 year in Madrid, Spain, from the 21st until the 24th of August, and
-experience the very best of open source! Visit http://cakefest.org for
+experience the very best of open source! Visit https://cakefest.org for
 info and tickets.
 
 
@@ -17,7 +17,7 @@ really cannot miss this year's event, held in the beautiful European
 city of Madrid, Spain, from Thursday the 21st until Sunday the 24th of
 August.
 
-See more details on the location at `http://cakefest.org/location`_.
+See more details on the location at `https://cakefest.org/location`_.
 
 We've also got an incredible offer for you this year, as we're
 providing some tickets which include a room plus breakfast in the 4*
@@ -25,7 +25,7 @@ hotel that's hosting the conference! That's right, all you need is to
 get there and we'll take care of the rest. Who said we don't love you
 guys?!
 
-Get your tickets now at `http://cakefest.org/tickets`_.
+Get your tickets now at `https://cakefest.org/tickets`_.
 
 Workshops
 ~~~~~~~~~
@@ -58,7 +58,7 @@ The annual CakePHP conference draws an exceptionally friendly
 community of developers, tech lovers and geeks in general. If you're
 interested in giving a talk this year, then CakeFest is the ideal
 event. The submissions are open until April 30th! Just head over to
-`http://cakefest.org`_ and submit your talk proposals. We're open to
+`https://cakefest.org`_ and submit your talk proposals. We're open to
 anyone for submissions. All it takes is a interesting idea, and we'd
 love to hear yours!
 
@@ -71,10 +71,10 @@ conference? Consult our `sponsorship prospectus`_ for more details as
 well as the sponsor packages currently available.
 
 
-.. _sponsorship prospectus: http://cakefest.org/sponsorship
-.. _http://cakefest.org/location: http://cakefest.org/location
-.. _http://cakefest.org: http://cakefest.org
-.. _http://cakefest.org/tickets: http://cakefest.org/tickets
+.. _sponsorship prospectus: https://cakefest.org/sponsorship
+.. _https://cakefest.org/location: https://cakefest.org/location
+.. _https://cakefest.org: https://cakefest.org
+.. _https://cakefest.org/tickets: https://cakefest.org/tickets
 
 .. author:: jameswatts
 .. categories:: news

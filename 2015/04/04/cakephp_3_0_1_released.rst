@@ -39,7 +39,7 @@ changes you can expect is:
 * Improved API documentation.
 
 There is still time to get your tickets for `CakeFest 2015
-<http://cakefest.org/tickets>`_ if you haven't already. May 28th and CakePHP's
+<https://cakefest.org/tickets>`_ if you haven't already. May 28th and CakePHP's
 10th anniversary are quickly approaching.
 
 You can view the full `changelog on cakephp.org

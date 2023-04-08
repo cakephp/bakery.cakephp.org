@@ -3,7 +3,7 @@ CakeFest 2015: New York, USA
 
 Join us at CakeFest 2015, the annual CakePHP conference, held this year in New York, USA,
 from the 28th until the 31st of May, and experience the very best of Open Source!
-Visit http://cakefest.org for info and tickets.
+Visit https://cakefest.org for info and tickets.
 
 The biggest CakePHP event, ever!
 --------------------------------
@@ -34,7 +34,7 @@ related technologies, the conference portion of CakeFest is an event you
 don’t want to miss, for both enthusiasts and newcomers to the framework.
 It’s a unique time to engage and network with the community, learn from
 other experienced developers, and hang out with the core team! See
-http://cakefest.org/schedule for more details.
+https://cakefest.org/schedule for more details.
 
 Sponsors
 ~~~~~~~~
@@ -43,7 +43,7 @@ This year we’ve teamed up again with some of the biggest names in the
 industry, to make this the best CakePHP and Open Source community
 conference ever! These people, organisations and companies help make
 everything happen, so be sure to check them out at
-http://cakefest.org/sponsors and say hi!
+https://cakefest.org/sponsors and say hi!
 
 Event
 ~~~~~
@@ -55,7 +55,7 @@ sees the 2 conference days through to the closing of the conference.
 There are tickets for only the workshops, just the conference days, or
 the full event (recommended), and we currently have the Early Bird
 discount on all prices. Grab your tickets now at
-http://cakefest.org/tickets, and see you there!
+https://cakefest.org/tickets, and see you there!
 
 .. author:: jameswatts
 .. categories:: news

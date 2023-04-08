@@ -21,7 +21,7 @@ CakeFest 2015 Tickets
 ---------------------
 
 There is still time to get your tickets for `CakeFest 2015
-<http://cakefest.org/tickets>`_ if you haven't already. May 28th and CakePHP's
+<https://cakefest.org/tickets>`_ if you haven't already. May 28th and CakePHP's
 10th anniversary are quickly approaching.
 
 As always, a huge thanks to all the community members that helped make this

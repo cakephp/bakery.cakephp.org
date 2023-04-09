@@ -52,8 +52,8 @@ You can download packaged releases on `github`_.
 
 
 .. _github: https://github.com/cakephp/cakephp/tags
-.. _conference schedule: http://cakefest.org/schedule
-.. _tickets available: http://cakefest.org/tickets
+.. _conference schedule: https://cakefest.org/schedule
+.. _tickets available: https://cakefest.org/tickets
 
 .. author:: markstory
 .. categories:: news

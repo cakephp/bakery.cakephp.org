@@ -37,7 +37,7 @@ messages and view variables. To install Debugkit just use
 
      `
     composerrequirecakephp/debug_kit"3.0.*-dev"
-    
+
     `
 
 And add this line to your bootstrap.php file:
@@ -85,7 +85,7 @@ To install the Migrations plugins run:
 
      `
     composerrequirecakephp/migrations"dev-master"
-    
+
     `
 
 And add this line to your bootstrap.php file:
@@ -186,7 +186,7 @@ plugin, you can execute:
 
      `
     bin/cakedo_stuff
-    
+
     `
 
 
@@ -250,7 +250,7 @@ You can grab the packaged release here:
 .. _main github repository: https://github.com/cakephp/cakephp
 .. _TwitterBootstrap: https://github.com/gourmet/twitter_bootstrap
 .. _Monolog library: https://github.com/Seldaek/monolog
-.. _Phinx: http://phinx.org/
+.. _Phinx: https://phinx.org/
 .. _Blame: https://github.com/ceeram/blame
 
 .. author:: lorenzo

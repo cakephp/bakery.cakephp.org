@@ -402,11 +402,11 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 .. _alan@zeroasterisk.com: mailto:alan@zeroasterisk.com
-.. _Lucene: http://lucene.apache.org/
+.. _Lucene: https://lucene.apache.org/
 .. _https://github.com/connrs/Searchable-Behaviour-for-CakePHP: https://github.com/connrs/Searchable-Behaviour-for-CakePHP
 .. _https://github.com/AudiologyHoldings/Icing: https://github.com/AudiologyHoldings/Icing
 .. _CakeDC/search: https://github.com/CakeDC/search
-.. _ElasticSearch: http://www.elasticsearch.org/
+.. _ElasticSearch: https://www.elasticsearch.org/
 .. _https://github.com/zeroasterisk/CakePHP-ElasticSearchIndex: https://github.com/zeroasterisk/CakePHP-ElasticSearchIndex
 .. _my fork: https://github.com/zeroasterisk/Searchable-Behaviour-for-CakePHP
 .. _https://github.com/dkullmann/CakePHP-Elastic-Search-DataSource: https://github.com/dkullmann/CakePHP-Elastic-Search-DataSource

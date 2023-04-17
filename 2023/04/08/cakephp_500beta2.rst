@@ -13,7 +13,7 @@ simplify the framework. Some of the highlights of this work include:
 * Improved the runtime deprecation coverage to include all documentation only
   deprecations.
 * Begun work on the rector rules for 4.5 and 5.0
-* Added a Time only object to Chronos & CakePHP.
+* Added a Time only object to Chronos (will be added to CakePHP soon).
 
 Finally, the scope for 5.x isn't locked down so if you'd like to see a feature
 or breaking change made please `open an issue

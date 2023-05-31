@@ -72,7 +72,7 @@ community! Thank you.
 
 
 .. _OpenShift: https://www.openshift.com/quickstarts/cakephp
-.. _CakeFest: http://cakefest.org
+.. _CakeFest: https://cakefest.org
 .. _tools: http://dogmatic69.com/cakephp-schema-checker
 .. _core team: https://www.facebook.com/photo.php?fbid=10152257483473135&set=a.10152257440208135.1073741830.339964833134&type=3&theater
 .. _similar: http://www.adventar.org/calendars/40
@@ -80,28 +80,28 @@ community! Thank you.
 .. _interesting: http://patisserie.keensoftware.com/en/cakes
 .. _cheat: http://cakephpcheatsheet.com
 .. _raffle: https://www.facebook.com/photo.php?fbid=10152257505438135&set=a.10152257440208135.1073741830.339964833134&type=3&theater
-.. _Elastic Beanstalk: http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_PHP_cakePHP.html
+.. _Elastic Beanstalk: https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_PHP_cakePHP.html
 .. _community keynote: http://www.slideshare.net/JamesWatts4/cakephp-community-keynote
 .. _books: http://www.packtpub.com/develop-a-feature-rich-cakephp-app/book
 .. _talks: https://www.facebook.com/photo.php?fbid=10152257491388135&set=a.10152257440208135.1073741830.339964833134&type=3&theater
 .. _advent: http://josediazgonzalez.com/2013/12/01/testing-your-cakephp-plugins-with-travis/
-.. _CakeDC: http://cakedc.com
+.. _CakeDC: https://cakedc.com
 .. _roadmap: https://github.com/cakephp/cakephp/wiki/3.0-Roadmap
 .. _Cloud Sites: http://www.rackspace.com/knowledge_center/article/installing-cakephp-on-cloud-sites
-.. _Community Center: http://community.cakephp.org
+.. _Community Center: https://community.cakephp.org
 .. _last year: https://bakery.cakephp.org/articles/jameswatts/2012/12/28/cakephp_community_2012
-.. _Cake Software Foundation: http://cakefoundation.org
+.. _Cake Software Foundation: https://cakefoundation.org
 .. _3.0: https://github.com/cakephp/cakephp/tree/3.0
 .. _official group: https://www.facebook.com/groups/cake.community/
 .. _keynotes: http://www.slideshare.net/josezap1/cake-fest-2013-keynote
-.. _interviews: http://www.youtube.com/watch?v=FSKL-QtuOcI
+.. _interviews: https://www.youtube.com/watch?v=FSKL-QtuOcI
 .. _training: http://training.cakephp.org
-.. _videos: http://www.youtube.com/watch?v=F3-S-PDGLG4
-.. _Windows Azure: http://www.microsoft.com/web/gallery/cakephp.aspx
-.. _My CakePHP: http://my.cakephp.org
+.. _videos: https://www.youtube.com/watch?v=F3-S-PDGLG4
+.. _Windows Azure: https://www.microsoft.com/web/gallery/cakephp.aspx
+.. _My CakePHP: https://my.cakephp.org
 .. _some: http://banchaproject.org
 .. _initiatives: http://www.scoop.it/t/cakephp-reporter
-.. _tagged: http://stackoverflow.com/tags/cakephp
+.. _tagged: https://stackoverflow.com/tags/cakephp
 .. _Pagoda Box: http://help.pagodabox.com/customer/portal/articles/174049-cakephp
 .. _cake: https://twitter.com/cakephp/status/374262949780533248
 .. _Fortrabbit: http://fortrabbit.com/solutions/cakephp-hosting
@@ -115,7 +115,7 @@ community! Thank you.
 .. _interest page: https://www.facebook.com/pages/CakePHP/112600242088531
 .. _sheets: http://sandbox.pontefamily.us/pages/cakephp_cheat_sheet
 .. _great: http://friendsofcake.com
-.. _published: http://www.amazon.com/CakePHP-Unit-Testing-das-Radharadhya-ebook/dp/B00BNHWZTS
+.. _published: https://www.amazon.com/CakePHP-Unit-Testing-das-Radharadhya-ebook/dp/B00BNHWZTS
 
 .. author:: jameswatts
 .. categories:: news

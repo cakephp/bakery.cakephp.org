@@ -23,7 +23,7 @@ Example Usage
 ::
 
     var $components = array('Export.Export');
-    
+
     public function export_data() {
         $data = $this->MyModel->find('all');
         $this->Export->exportCsv($data);
@@ -97,10 +97,10 @@ And the export component will output a CSV like this:
 License
 -------
 
-MIT - `http://opensource.org/licenses/MIT`_
+MIT - `https://opensource.org/licenses/MIT`_
 
 
-.. _http://opensource.org/licenses/MIT: http://opensource.org/licenses/MIT
+.. _https://opensource.org/licenses/MIT: https://opensource.org/licenses/MIT
 .. _https://github.com/joshuapaling/CakePHP-Export-CSV-Plugin: https://github.com/joshuapaling/CakePHP-Export-CSV-Plugin
 
 .. author:: joshua.paling

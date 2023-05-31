@@ -70,7 +70,7 @@ expire.
      * @copyright     Copyright (c) Chris Nizzardini
      * @link          https://cakephp.org CakePHP(tm) Project
      * @package       Cake.Controller.Component.Acl
-     * @license       MIT License (http://www.opensource.org/licenses/mit-license.php)
+     * @license       MIT License (https://www.opensource.org/licenses/mit-license.php)
      */
     App::uses('AclInterface', 'Controller/Component/Acl');
     App::uses('Hash', 'Utility');

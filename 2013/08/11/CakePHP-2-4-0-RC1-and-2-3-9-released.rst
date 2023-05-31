@@ -63,13 +63,13 @@ Links
 
 + [1] `https://cakephp.org/changelogs/2.4.0-RC1`_
 + [2] `https://cakephp.org/changelogs/2.3.9`_
-+ [3] `http://cakefest.org/`_
++ [3] `https://cakefest.org/`_
 + [4] `https://github.com/cakephp/cakephp/tags`_
 
 
 
 
-.. _http://cakefest.org/: http://cakefest.org/
+.. _https://cakefest.org/: https://cakefest.org/
 .. _https://cakephp.org/changelogs/2.4.0-RC1: https://cakephp.org/changelogs/2.4.0-RC1
 .. _https://cakephp.org/changelogs/2.3.9: https://cakephp.org/changelogs/2.3.9
 .. _https://github.com/cakephp/cakephp/tags: https://github.com/cakephp/cakephp/tags

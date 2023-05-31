@@ -23,10 +23,10 @@ You can either clone the project, download the project, or just copy &
 paste DataTableComponent.php into your projects Controller/Component
 directory
 
-Demo `http://cakephpdatatables.cnizz.com/`_
+Demo `https://cakephpdatatables.cnizz.com/`_
 
 See `https://github.com/cnizzdotcom/cakephp-datatable`_ for full documentation
-or `http://blog.cnizz.com/2013/01/31/cakephp-datatables-a-component-for-interoperability-between-cakephp-and-jquery-datatables/`_
+or `https://blog.cnizz.com/2013/01/31/cakephp-datatables-a-component-for-interoperability-between-cakephp-and-jquery-datatables/`_
 
 
 .. _http://cakephpdatatables.cnizz.com/: http://cakephpdatatables.cnizz.com/

@@ -4,7 +4,7 @@ CakeFest 2013: San Francisco, USA
 Join us at CakeFest 2013, the annual CakePHP conference, held this
 year in San Francisco, from the 29th of August until the 1st of
 September, and experience open source at it's very best! Visit
-http://cakefest.org for info and tickets.
+https://cakefest.org for info and tickets.
 
 
 One event for everything CakePHP
@@ -36,7 +36,7 @@ CakePHP and related technologies, the conference portion of CakeFest
 is an event not to be missed, for both new and old users of the
 framework. It's a great time to engage and network with the community,
 learn from other experienced developers, and party with the core team!
-See `http://cakefest.org/schedule`_ for more details.
+See `https://cakefest.org/schedule`_ for more details.
 
 
 Sponsors
@@ -45,7 +45,7 @@ Sponsors
 This year we've teamed up with some big names in the industry, to make
 this the biggest and best CakePHP conference ever! These people,
 organisations and companies help make everything happen, so be sure to
-check them out at `http://cakefest.org/sponsors`_ and say hello.
+check them out at `https://cakefest.org/sponsors`_ and say hello.
 
 
 Event
@@ -62,12 +62,12 @@ discount on prices which will end on Monday the 22nd of July.
 
 Oh, and... did we mention there will be cake? See you there!
 
-Get your tickets now at `http://cakefest.org/tickets`_.
+Get your tickets now at `https://cakefest.org/tickets`_.
 
 
-.. _http://cakefest.org/sponsors: http://cakefest.org/sponsors
-.. _http://cakefest.org/schedule: http://cakefest.org/schedule
-.. _http://cakefest.org/tickets: http://cakefest.org/tickets
+.. _https://cakefest.org/sponsors: https://cakefest.org/sponsors
+.. _https://cakefest.org/schedule: https://cakefest.org/schedule
+.. _https://cakefest.org/tickets: https://cakefest.org/tickets
 
 .. author:: jameswatts
 .. categories:: news

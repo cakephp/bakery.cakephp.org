@@ -43,7 +43,7 @@ Links
 ~~~~~
 
 + [1] `https://cakephp.org/changelogs/2.4.0-RC2`_
-+ [2] `http://cakefest.org/`_
++ [2] `https://cakefest.org/`_
 + [3] `https://github.com/cakephp/cakephp/tags`_
 
 
@@ -51,7 +51,7 @@ Links
 
 .. _https://cakephp.org/changelogs/2.4.0-RC2: https://cakephp.org/changelogs/2.4.0-RC2
 .. _https://github.com/cakephp/cakephp/tags: https://github.com/cakephp/cakephp/tags
-.. _http://cakefest.org/: http://cakefest.org/
+.. _https://cakefest.org/: https://cakefest.org/
 
 .. author:: markstory
 .. categories:: news

@@ -10,7 +10,7 @@ only!).
 Download: `https://bitbucket.org/mmahgoub/cakephp-backupme/`_
 
 This script is based upon the one written by David Walsh and published
-on his blog on August 18, 2008 `http://davidwalsh.name/backup-mysql-database-php`_
+on his blog on August 18, 2008 `https://davidwalsh.name/backup-mysql-database-php`_
 
 Many thanks to him!
 
@@ -65,7 +65,7 @@ Additional possible features
 
 
 .. _https://bitbucket.org/mmahgoub/cakephp-backupme/: https://bitbucket.org/mmahgoub/cakephp-backupme/
-.. _http://davidwalsh.name/backup-mysql-database-php: http://davidwalsh.name/backup-mysql-database-php
+.. _https://davidwalsh.name/backup-mysql-database-php: https://davidwalsh.name/backup-mysql-database-php
 
 .. author:: mmahgoub
 .. categories:: articles, code

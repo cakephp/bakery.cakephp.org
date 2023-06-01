@@ -14,7 +14,7 @@ Visit the `CakeFest Website`_ for more information and to put forward
 your vote!
 
 
-.. _CakeFest Website: http://cakefest.org
+.. _CakeFest Website: https://cakefest.org
 
 .. author:: predominant
 .. categories:: news

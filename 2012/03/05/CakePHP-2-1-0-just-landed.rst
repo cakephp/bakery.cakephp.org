@@ -208,13 +208,13 @@ Links
 + [3] `https://plugins.cakephp.org`_
 + [4] `https://cakephp.org/`_
 + [5] `https://book.cakephp.org/`_
-+ [6] `http://pear.cakephp.org/`_
++ [6] `https://pear.cakephp.org/`_
 
 
 
 
 .. _https://plugins.cakephp.org: https://plugins.cakephp.org
-.. _http://pear.cakephp.org/: http://pear.cakephp.org/
+.. _https://pear.cakephp.org/: https://pear.cakephp.org/
 .. _https://book.cakephp.org/: https://book.cakephp.org/
 .. _https://github.com/cakephp/cakephp: https://github.com/cakephp/cakephp
 .. _https://cakephp.org/changelogs/2.1.0: https://cakephp.org/changelogs/2.1.0

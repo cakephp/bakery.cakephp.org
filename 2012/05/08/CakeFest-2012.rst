@@ -51,7 +51,7 @@ network with fellow developers and make new friends!
 Check out the `CakeFest`_ website, and don't miss out on tickets!
 
 
-.. _CakeFest: http://cakefest.org
+.. _CakeFest: https://cakefest.org
 
 .. author:: predominant
 .. categories:: news

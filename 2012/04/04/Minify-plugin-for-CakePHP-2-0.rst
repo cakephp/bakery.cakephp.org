@@ -80,15 +80,15 @@ GitHub
 Any criticism or suggestion is welcome on
 `https://github.com/maurymmarques/minify-cakephp`_.
 
-.. _submodule: http://help.github.com/submodules
-.. _CookBook: http://code.google.com/p/minify/wiki/CookBook
+.. _submodule: https://help.github.com/submodules
+.. _CookBook: https://code.google.com/p/minify/wiki/CookBook
 .. _Firebug: https://addons.mozilla.org/pt-br/firefox/addon/firebug/
 .. _YSlow: https://addons.mozilla.org/en-US/firefox/addon/yslow/
 .. _HtmlHelper: https://book.cakephp.org/2.0/en/core-libraries/helpers/html.html
 .. _plugin syntax: https://book.cakephp.org/2.0/en/appendices/glossary.html#term-plugin-syntax
 .. _Minify: https://github.com/mrclay/minify
 .. _FAQ: http://code.google.com/p/minify/wiki/FAQ
-.. _http://code.google.com/p/minify: http://code.google.com/p/minify
+.. _https://code.google.com/p/minify: https://code.google.com/p/minify
 .. _https://github.com/maurymmarques/minify-cakephp: https://github.com/maurymmarques/minify-cakephp
 
 .. author:: maurymmarques

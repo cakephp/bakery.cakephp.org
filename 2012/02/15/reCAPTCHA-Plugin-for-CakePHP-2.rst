@@ -8,7 +8,7 @@ I have updated and improved `tbsmcd's reCAPTCHA Plugin`_ for CakePHP2.
 
 1. Get reCAPTCHA key.
 =====================
-http://www.google.com/recaptcha
+https://www.google.com/recaptcha
 
 
 2. Setting.

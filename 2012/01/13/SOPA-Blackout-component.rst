@@ -37,7 +37,7 @@ Suggestions welcomed...
             var $sopa_blackout_page_title = 'Supporting anti-SOPA Blackout day'; // title and h1 content
             var $sopa_blackout_include_video = true; // embed the video from americancensorship.org on your site?
             var $sopa_blackout_include_form = true; // include the form from americancensorship.org on your site?
-            var $sopa_blackout_message = '<p>On the Tuesday 24th January 2012, the US Senate will vote on the <a href="https://en.wikipedia.org/wiki/Stop_Online_Piracy_Act" target="_blank">internet censorship bill</a>.<br /><br />Whilst it is an American law, it has far reaching repurcusions for the web as a whole.<br /><br />There are many companies against SOPA, such as <a href="http://www.mattcutts.com/blog/internet-censorship-sopa/" target="_blank">Google</a>, <a href="http://blog.reddit.com/2012/01/stopped-they-must-be-on-this-all.html" target="_blank">Reddit</a>, <a href="http://news.cnet.com/8301-31921_3-57342914-281/silicon-valley-execs-blast-sopa-in-open-letter/" target="_blank">Facebook, Twitter, Wikipedia</a>, and today I am lending my weight to the argument by taking my site down for the day.<br /><br />If you think SOPA doesn\'t affect you, please think again. Watch the video below, or use the form below to force politicians to take notice.<br /><br />Thank you</p>';
+            var $sopa_blackout_message = '<p>On the Tuesday 24th January 2012, the US Senate will vote on the <a href="https://en.wikipedia.org/wiki/Stop_Online_Piracy_Act" target="_blank">internet censorship bill</a>.<br /><br />Whilst it is an American law, it has far reaching repurcusions for the web as a whole.<br /><br />There are many companies against SOPA, such as <a href="https://www.mattcutts.com/blog/internet-censorship-sopa/" target="_blank">Google</a>, <a href="https://blog.reddit.com/2012/01/stopped-they-must-be-on-this-all.html" target="_blank">Reddit</a>, <a href="https://news.cnet.com/8301-31921_3-57342914-281/silicon-valley-execs-blast-sopa-in-open-letter/" target="_blank">Facebook, Twitter, Wikipedia</a>, and today I am lending my weight to the argument by taking my site down for the day.<br /><br />If you think SOPA doesn\'t affect you, please think again. Watch the video below, or use the form below to force politicians to take notice.<br /><br />Thank you</p>';
             var $sopa_blackout_date = '2012-01-18'; // SOPA Blackout Day - 18th January 2012
             var $sopa_blackout_timestart = 8; // Starting at 8am or 08:00:00
             var $sopa_blackout_timeend    = 20; // Ending at 8pm or 20:00:00
@@ -81,7 +81,7 @@ Suggestions welcomed...
                 if($this->sopa_blackout_include_form===true){
                     $message .='
                     <div class="sopablackout_padding">
-                        <iframe src="http://americancensorship.org/callwidget" width="588" height="625" border="0"></iframe>
+                        <iframe src="https://americancensorship.org/callwidget" width="588" height="625" border="0"></iframe>
                     </div>';
                 }
                 $message .='

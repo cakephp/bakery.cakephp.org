@@ -32,7 +32,7 @@ comment if you have troubles running it.
 .. _here: https://book.cakephp.org/2.0/en/core-libraries/helpers/rss.html
 .. _Cakephp bRss Helper: https://bin.cakephp.org/view/1232471515
 .. _this view: https://bin.cakephp.org/view/1266667979
-.. _this thread: http://groups.google.com/group/cake-php/browse_thread/thread/25e0f825c4eb878b#
+.. _this thread: https://groups.google.com/group/cake-php/browse_thread/thread/25e0f825c4eb878b#
 
 .. author:: benni
 .. categories:: articles, helpers

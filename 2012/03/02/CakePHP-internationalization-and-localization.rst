@@ -34,13 +34,13 @@ PHP Snippet:
 
 ::
 
-    <?php 
     <?php
-    
+    <?php
+
     /* add language to the file*/
-    
+
     $config['LANGUAGE'] = array(‘supported’ => array(‘eng’, ‘spa’),
-    
+
     ‘default’   => ‘eng’);
     ?>
 
@@ -80,9 +80,9 @@ PHP Snippet:
 
 ::
 
-    <?php 
     <?php
-    
+    <?php
+
     Configure::load(‘config’);?>
     ?>
 
@@ -93,7 +93,7 @@ this tutorial I’ll use .po files.
 For getting more information you can refer to this article:
 
 Localizing PHP Applications series Abouzekry wrote.
-`http://phpmaster.com/localizing-php-applications-1`_
+`https://phpmaster.com/localizing-php-applications-1`_
 Note: Remember that po files are useful for short messages, if you
 find you want to translate long paragraphs, or even whole pages – you
 should consider implementing a different solution which we skip in
@@ -150,153 +150,153 @@ PHP Snippet:
 
 ::
 
-    <?php 
     <?php
-    
+    <?php
+
     class SwitchtoController extends AppController {
-    
+
     var $uses = array();
-    
+
     var $name = ‘Switchto’;
-    
+
     function beforeFilter()
-    
+
     {
-    
+
     parent::beforeFilter();
-    
+
     }
-    
+
     }
-    
-     
-    
+
+
+
     The AppController needs some modifications; edit the controller so it looks like this:
-    
+
     <?php
-    
+
     class AppController extends Controller
-    
+
     {
-    
+
     function beforeFilter()
-    
+
     {
-    
+
     if($this->_checkLanguage())
-    
+
     $this->redirect($this->referer(), null, true);
-    
+
     }
-    
+
     function _checkLanguage()
-    
+
     {
-    
+
     if(!$this->Session->check(‘Config.language’) || $this->name == “Switchto”) {
-    
+
     $default_lang   = Configure::read(‘LANGUAGE.default’);
-    
+
     $supported_lang = Configure::read(‘LANGUAGE.supported’);
-    
+
     $lang = null;
-    
+
     if($this->name == “Switchto”)
-    
+
     $lang = $this->action;
-    
+
     // we need the Cookie
-    
+
     App::Import(‘Component’, ‘Cookie’);
-    
+
     $cookie = & new CookieComponent;
-    
+
     $cookie->time   = ‘+360 days’;
-    
+
     $cookie->name   = ‘MYAPP’;
-    
+
     $cookie->domain = ”;
-    
+
     $cookie->key    = ‘whatever-key-you-wish’;
-    
+
     $cookie->startup();
-    
+
     if(!class_exists(“L10n”))
-    
+
     uses(‘l10n’);
-    
+
     $l10n = & new L10n();
-    
+
     if(!$lang || !in_array($lang, $supported_lang))
-    
+
     {
-    
+
     if($cookie->read(‘tutolanguage.lang’) )
-    
+
     {
-    
+
     $lang = $cookie->read(‘tutolang/lang’);
-    
+
     if(!in_array($lang, $supported_lang))
-    
+
     $lang = null;
-    
+
     }
-    
+
     /* try to find a language spaom browser that we support */
-    
+
     if(!$lang)
-    
+
     {
-    
+
     $browserLang = split (‘[,;]‘, env(‘HTTP_ACCEPT_LANGUAGE’));
-    
+
     foreach($browserLang as $langKey )
-    
+
     {
-    
+
     if(isset($l10n->__l10nCatalog[$langKey]) &&
-    
+
     in_array($l10n->__l10nCatalog[$langKey]['locale'], $supported_lang) )
-    
+
     {
-    
+
     $lang = $l10n->__l10nCatalog[$langKey]['locale'];
-    
+
     break;
-    
+
     }
-    
+
     }
-    
+
     }
-    
+
     }
-    
+
     if(!$lang)
-    
+
     $lang = $language_default;
-    
+
     // set the language, and write in cookie
-    
+
     $l10n->__setLanguage($lang);
-    
+
     $cookie->write(array(‘tutolanguage.lang’ => $lang));
-    
+
     $this->Session->write(‘Config.language’,$lang);
-    
+
     if($this->name == “Switchto”)
-    
+
     return true;
-    
+
     }
-    
+
     return false;
-    
+
     }
-    
+
     }
-    
+
      ?>
 
 In order to remember the language selected by the user, we will use
@@ -355,23 +355,23 @@ PHP Snippet:
 
 ::
 
-    <?php 
+    <?php
     <h2><?php __(” bienvenida”); ?></h2>
-    
+
     <br />
-    
+
     <ul>
-    
+
     <li><?php echo $html->link(‘English’, ‘/switchto/eng’);?></li>
-    
+
     <li><?php echo $html->link(‘Spanish’, ‘/switchto/spa’);?></li>
-    
+
     </ul>
-    
+
     <br />
-    
+
     <h3><?php echo __(“congrat”, true);?><h3>
-    
+
      ?>
 
 The file demonstrates two ways in which the __() function is used. In
@@ -396,7 +396,7 @@ or using translations in gettext style have lots of advantages which
 we will find in this article and CakePHP make it rapid and more
 flexible to create your applicatio
 
-.. _http://phpmaster.com/localizing-php-applications-1: http://phpmaster.com/localizing-php-applications-1
+.. _https://phpmaster.com/localizing-php-applications-1: https://phpmaster.com/localizing-php-applications-1
 
 .. author::
 .. categories:: articles

@@ -238,7 +238,7 @@ Example
 Thanks
 ~~~~~~
 `https://bakery.cakephp.org/articles/daibach/2008/07/15/tinymce-helper-1`_
-`http://forum.cakephp-fr.org/viewtopic.php?id=1136`_
+`https://forum.cakephp-fr.org/viewtopic.php?id=1136`_
 
 .. _http://www.tinymce.com/download/download.php: http://www.tinymce.com/download/download.php
 .. _https://bakery.cakephp.org/articles/daibach/2008/07/15/tinymce-helper-1: https://bakery.cakephp.org/articles/daibach/2008/07/15/tinymce-helper-1

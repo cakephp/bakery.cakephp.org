@@ -4,7 +4,7 @@ Minify plugin for CakePHP 2.0+
 `Minify`_ is an application that combines multiple CSS or Javascript
 files, removes unnecessary whitespace and comments, and serves them
 with gzip encoding and optimal client-side cache headers.
-More info: `http://code.google.com/p/minify`_
+More info: `https://code.google.com/p/minify`_
 For this plugin, the application Minify is inside Vendor
 
 
@@ -87,7 +87,7 @@ Any criticism or suggestion is welcome on
 .. _HtmlHelper: https://book.cakephp.org/2.0/en/core-libraries/helpers/html.html
 .. _plugin syntax: https://book.cakephp.org/2.0/en/appendices/glossary.html#term-plugin-syntax
 .. _Minify: https://github.com/mrclay/minify
-.. _FAQ: http://code.google.com/p/minify/wiki/FAQ
+.. _FAQ: https://code.google.com/p/minify/wiki/FAQ
 .. _https://code.google.com/p/minify: https://code.google.com/p/minify
 .. _https://github.com/maurymmarques/minify-cakephp: https://github.com/maurymmarques/minify-cakephp
 

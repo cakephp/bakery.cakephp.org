@@ -26,7 +26,7 @@ I created a new helper which the following file in
     ?>
 
 You can overwrite and create new functions in this file.
-(See: `http://ask.cakephp.org/questions/view/how_can_i_extend_the_core_helpers`_)
+(See: `https://ask.cakephp.org/questions/view/how_can_i_extend_the_core_helpers`_)
 
 Note that you can not use the helper with adding "Text2" to the
 $helpers array inside a controller.
@@ -200,7 +200,7 @@ I hope you find this information useful.
 When you are of the CakePHP team, consider implementing these fixes
 into the original TextHelper ;)
 
-.. _http://ask.cakephp.org/questions/view/how_can_i_extend_the_core_helpers: http://ask.cakephp.org/questions/view/how_can_i_extend_the_core_helpers
+.. _https://ask.cakephp.org/questions/view/how_can_i_extend_the_core_helpers: https://ask.cakephp.org/questions/view/how_can_i_extend_the_core_helpers
 .. _http://cakebaker.42dh.com/2008/10/18/dont-abuse-the-apphelper-to-extend-the-core-helpers/#comment-110649: http://cakebaker.42dh.com/2008/10/18/dont-abuse-the-apphelper-to-extend-the-core-helpers/#comment-110649
 
 .. author:: darkdragon

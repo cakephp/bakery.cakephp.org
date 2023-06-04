@@ -6,7 +6,7 @@ but never had the time. This year I decided to give it a go...
 
 Facebook surprised the PHP community in early 2010 when announced they
 managed to write a compiler for PHP to produce C++
-(`http://developers.facebook.com/blog/post/358)`_ code. Being PHP the
+(`https://developers.facebook.com/blog/post/358)`_ code. Being PHP the
 most popular language for web applications, it faces a lot of
 competition from other languages to position themselves as the fastest
 language out there, buy this announcement was a real game changer as
@@ -306,7 +306,7 @@ applications? Leave your thoughts in the comments section!
 .. _https://github.com/lorenzo/hiphop-php): https://github.com/lorenzo/hiphop-php)
 .. _https://github.com/facebook/hiphop-php/wiki/Building-and-Installing-on-Ubuntu-11.10): https://github.com/facebook/hiphop-php/wiki/Building-and-Installing-on-Ubuntu-11.10)
 .. _https://github.com/lorenzo/HipHop),: https://github.com/lorenzo/HipHop),
-.. _http://developers.facebook.com/blog/post/358): http://developers.facebook.com/blog/post/358)
+.. _https://developers.facebook.com/blog/post/358): https://developers.facebook.com/blog/post/358)
 .. _http://localhost/: http://localhost/
 .. _https://github.com/lorenzo/curl/zipball/hiphop): https://github.com/lorenzo/curl/zipball/hiphop)
 .. _https://github.com/facebook/hiphop-php/wiki/Running-HipHop): https://github.com/facebook/hiphop-php/wiki/Running-HipHop)

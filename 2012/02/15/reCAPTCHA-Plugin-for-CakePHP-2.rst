@@ -15,7 +15,7 @@ https://www.google.com/recaptcha
 ===========
 Download recaptchalib.php.
 And put it in "Recaptcha/Vendor".
-http://code.google.com/p/recaptcha/downloads/list?q=label:phplib-
+https://code.google.com/p/recaptcha/downloads/list?q=label:phplib-
 Latest
 
 

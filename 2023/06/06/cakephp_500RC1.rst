@@ -1,7 +1,7 @@
 CakePHP 5.0.0-RC1 Released
 ============================
 
-The CakePHP core team is happy to announce the second beta release of CakePHP
+The CakePHP core team is happy to announce the first release candidate for CakePHP
 5.0.0. Since the beta2 release the core team has continued to refine,
 simplify, and prepare 5.0 for the upcoming future. Some of the highlights of this work include:
 

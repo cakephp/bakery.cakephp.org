@@ -14,7 +14,8 @@ highlights of this work include:
 * Allowed applications to override default console logging easier.
 * Internal event handlers now use ``setResult`` instead of ``return``. We
   recommend this usage in the future.
-* Added ``cake.database.queries`` and ``cake.mailer``.
+* Added ``cake.database.queries`` and ``cake.mailer`` logging scopes. The
+  ``queriesLog`` and ``email`` scopes.
 
 
 What's new in 5.0

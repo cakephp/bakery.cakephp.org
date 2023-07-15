@@ -15,7 +15,7 @@ highlights of this work include:
 * Internal event handlers now use ``setResult`` instead of ``return``. We
   recommend this usage in the future.
 * Added ``cake.database.queries`` and ``cake.mailer`` logging scopes. The
-  ``queriesLog`` and ``email`` scopes.
+  ``queriesLog`` and ``email`` scopes are deprecated now.
 
 
 What's new in 5.0

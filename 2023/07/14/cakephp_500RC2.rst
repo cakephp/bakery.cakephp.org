@@ -41,7 +41,7 @@ You can help deliver 5.0 by contributing in one of many ways:
    Even if those features don't make it into 5.0, we would appreciate community
    input on what should be part of 5.1 and 5.2
 
-Contributors to 5.0.0-RC1
+Contributors to 5.0.0-RC2
 -------------------------
 
 Thank you to all the contributors that have helped since the RC1 release:

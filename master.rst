@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2023/07/06/cakephp_500RC2
    2023/07/01/cakephp_4415
    2023/06/06/cakephp_500RC1
    2023/05/22/cakephp_4414

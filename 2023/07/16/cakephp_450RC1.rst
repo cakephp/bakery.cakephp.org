@@ -7,7 +7,7 @@ a recommended upgrade point if you plan on upgrading to 5.0 in the future.
 There are also new features in 4.5.0. The highlights of those include:
 
 * ``Cache::write()`` will throw an exception on error now.
-* Console commands can now use ``--`` to indicate that all preceding parameters
+* Console commands can now use ``--`` to indicate that all following parameters
   are positional arguments.
 * The current container instance is now registered as a service. This makes the
   container available as a dependency for application and plugin factories.

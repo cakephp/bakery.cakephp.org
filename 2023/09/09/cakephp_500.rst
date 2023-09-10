@@ -18,7 +18,7 @@ Key Features
   with improved type checking.
 * Table finders with named parameters, providing more expressive query building
   APIs.
-* Greatly improved ``Date`` and ``DateTime`` support via chronos 3.x.
+* Added time-only `Time`` type and greatly improved ``Date`` and ``DateTime`` support via chronos 3.x.
 * Support for PSR17 HTTP factories was added.
 
 To find out more about what is new and changed in 5.0 refer to the `migration guide

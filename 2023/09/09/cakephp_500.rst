@@ -21,6 +21,9 @@ Key Features
 * Greatly improved ``Date`` and ``DateTime`` support via chronos 3.x.
 * Support for PSR17 HTTP factories was added.
 
+To find out more about what is new and changed in 5.0 refer to the `migration guide
+<https://book.cakephp.org/5/en/appendices/5-0-migration-guide.html>`__.
+
 
 Upgrading to 5.0
 ----------------

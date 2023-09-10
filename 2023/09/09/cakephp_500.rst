@@ -55,7 +55,6 @@ following community members:
 * ADmad
 * Alejandro Ibarra
 * Andrii Pukhalevych
-* andrii-pukhalevych
 * Brian French
 * chris cnizzardini
 * Chris Nizzardini

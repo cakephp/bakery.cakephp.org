@@ -14,6 +14,7 @@ Key Features
 * Improved typehints across the framework. CakePHP now leverages union types
   to formalize the types of many parameters across the framework.
 * Upgraded to PHPUnit 10.x
+* Support for read and write database connection roles.
 * New enum type mapping support in the ORM enabling more expressive model layers
   with improved type checking.
 * Table finders with named parameters, providing more expressive query building

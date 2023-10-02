@@ -48,7 +48,7 @@ Thank you to all the contributors that helped make this release happen:
 * andrii-pukhalevych
 * breno
 * othercorey
-* wowDAS Ing. Markus
+* wowDAS Markus Ramšak
 
 As always, we would like to thank all the contributors that opened issues,
 created pull requests or updated the documentation.

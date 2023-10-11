@@ -18,7 +18,7 @@ You can expect the following changes in 5.0.1. See the `changelog
   the issue via our security mailing list.
 * Fixed errors arising from plugin helpers being loaded within other plugin
   helpers, when the parent helper is loaded without a plugin scope.
-* ``PaginatedResultSet`` is not ``JsonSerializable``.
+* ``PaginatedResultSet`` is now ``JsonSerializable``.
 * Replaced usage of ``include_once`` when ``Application`` loads plugin
   configuration.
 * Fixed broken links in API documentation links to MDN.

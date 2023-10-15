@@ -31,7 +31,7 @@ when upgrading. A few highlights from 4.5.0 are:
 - ``bin/cake cache clear_group <name>`` was added. This command gives a CLI
   interface to clearing a specific cache group.
 - ``ComponentRegistry`` is now automatically added to your application's
-  :term:`DI container`.
+  DI container.
 - ``Controller::addViewClasses()`` was added. This method lets you build
   a controller's view classes programatically.
 - Database and ORM connections now support ``read`` and ``write`` connection roles. 

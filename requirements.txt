@@ -26,4 +26,4 @@ sphinxcontrib-qthelp==1.0.2
 sphinxcontrib-serializinghtml==1.1.3
 sphinxcontrib-websupport==1.1.0
 Tinkerer==1.7.1
-urllib3==1.26.17
+urllib3==1.26.18

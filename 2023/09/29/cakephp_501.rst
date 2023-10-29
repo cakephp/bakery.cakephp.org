@@ -3,7 +3,7 @@ CakePHP 5.0.1
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 5.0.1. This is a maintenance release for the 5.0 branch that fixes several
-community reported issues and a minor security related fix..
+community reported issues and a minor security related fix.
 
 Bugfixes
 --------

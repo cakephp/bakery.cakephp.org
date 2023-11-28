@@ -14,7 +14,7 @@ You can expect the following changes in 5.0.3. See the `changelog
 * Update path to ``plugin_class_error.php``.
 * Added deprecation to passing query options as paginator settings. Usage such
   as ``$paginator->paginate($table, [], ['fields' => ['title']]);`` will now
-  emit deprecation warnings. This behavior will not be supported in 5.0.
+  emit deprecation warnings. This behavior will not be supported in 6.0.
 * Expanded enum support to include providing a label. Implementing
   ``Cake\Database\Type\EnumLabelInterface`` in your enum class will allow you to
   provide a user facing label. Labels are used by ``FormHelper`` when generating

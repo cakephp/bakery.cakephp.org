@@ -3,7 +3,7 @@ CakePHP 4.5.2
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 4.5.2. This is a maintenance release for the 4.4 branch that fixes several
-community reported issues and a minor security related fix.
+community reported issues.
 
 Bugfixes
 --------

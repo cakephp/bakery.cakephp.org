@@ -17,7 +17,7 @@ You can expect the following changes in 5.0.4. See the `changelog
 * Marshalling Date objects no longer attempts to set a timezone, as date values
   do not have timezones.
 * The ``Exception.beforeRender`` event can now prevent default rendering from
-  occuring by setting a result and stopping the event.
+  occurring by setting a result and stopping the event.
 * Fixed regression in SQLite schema reflection for older versions of SQLite.
 * Fixed off by one errors in code location for ``dd()``.
 * Updated dependency on paragonie/csp-builder to accept 3.0

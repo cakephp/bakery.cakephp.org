@@ -14,8 +14,6 @@ You can expect the following changes in 5.0.4. See the `changelog
 * Improve support for template paths being defined as an associative array.
 * Improved output of ``cache_clear`` commands.
 * Updated Sqlite mapping for ``binaryuuid`` to use ``UUID_TEXT``.
-* Marshalling Date objects no longer attempts to set a timezone, as date values
-  do not have timezones.
 * The ``Exception.beforeRender`` event can now prevent default rendering from
   occurring by setting a result and stopping the event.
 * Fixed regression in SQLite schema reflection for older versions of SQLite.

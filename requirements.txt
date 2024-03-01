@@ -10,7 +10,7 @@ Jinja2==2.11.3
 lxml==4.9.1
 MarkupSafe==0.23
 packaging==19.0
-Pygments==2.7.4
+Pygments==2.15.0
 pyparsing==2.4.0
 pyquery==1.2.13
 pytz==2016.4

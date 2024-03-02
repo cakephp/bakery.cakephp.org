@@ -8,7 +8,7 @@ community reported issues.
 Bugfixes
 --------
 
-You can expect the following changes in 4.5.-. See the `changelog
+You can expect the following changes in 4.5.4. See the `changelog
 <https://github.com/cakephp/cakephp/compare/4.5.3...4.5.4>`_ for every commit.
 
 * Fix ``Hash::insert()`` and paths containing ``{s}`` and conditions, and data

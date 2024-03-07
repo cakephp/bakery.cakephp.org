@@ -11,7 +11,8 @@ LABEL Description="Create an image to deploy bakery.cakephp.org"
 # latexmk
 RUN apk add --update \
   git \
-  make
+  make \
+  nginx
 
 COPY . /data/bakery
 
@@ -22,8 +23,10 @@ RUN cd /data/bakery \
 
 RUN tinker --build
 
-# Build a small nginx container with just the static site in it.
-FROM nginx:1.25-alpine as runtime
+RUN mv /data/bakery/blog/html/ /usr/share/nginx/html/
 
-COPY --from=builder /data/bakery/blog/html/ /usr/share/nginx/html/
-COPY --from=builder /data/bakery/nginx.conf /etc/nginx/conf.d/default.conf
+COPY ./nginx.conf /etc/nginx/http.d/default.conf
+
+EXPOSE 80
+
+CMD ["nginx", "-g", "daemon off;"]

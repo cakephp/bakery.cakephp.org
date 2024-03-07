@@ -22,8 +22,6 @@ RUN cd /data/bakery \
 
 RUN tinker --build
 
-RUN ls /data/bakery/blog/html
-
 # Build a small nginx container with just the static site in it.
 FROM nginx:1.25-alpine as runtime
 

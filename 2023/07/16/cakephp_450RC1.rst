@@ -13,7 +13,7 @@ There are also new features in 4.5.0. The highlights of those include:
   container available as a dependency for application and plugin factories.
 * ``ConnectionManager`` now supports read and write connection roles. Roles can
   augment the connection configuration using nested configuration.
-* Improved development exception stack trace rendering. 
+* Improved development exception stack trace rendering.
 * ``HttpsEnforcerMiddleware`` now supports the ``trustedProxies`` option which
   lets you define upstream proxies that your application should trust to proxy
   HTTPs traffic.
@@ -43,7 +43,7 @@ You can help deliver 4.5.0 by contributing in one of many ways:
    Even if those features don't make it into 4.5.0, we're early in the process
    of planning 4.6 and 5.1 and value community feedback.
 
-Contributors to 5.0.0-RC2
+Contributors to 4.5.0-RC1
 -------------------------
 
 Thank you to all the contributors that have helped since with the RC1 release:

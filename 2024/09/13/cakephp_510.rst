@@ -19,13 +19,13 @@ Deprecation Warnings
 
 5.1 introduces a few deprecations. All of these features will continue for the
 duration of 5.x but will be removed in 6.0. See the `migration guide
-<https://book.cakephp.org/4/en/appendices/5-1-migration-guide.html>`_.
+<https://book.cakephp.org/5/en/appendices/5-1-migration-guide.html>`_.
 
 What's new in 5.1.0?
 --------------------
 
 The `migration guide
-<https://book.cakephp.org/4/en/appendices/5-1-migration-guide.html>`_ has
+<https://book.cakephp.org/5/en/appendices/5-1-migration-guide.html>`_ has
 a complete list of what's new in 5.1.0. We recommend you give that page a read
 when upgrading. A few highlights from 5.1.0 are:
 

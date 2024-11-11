@@ -5,7 +5,7 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 5.1.2. This is a maintenance release for the 5.1 branch that fixes several
 community reported issues and regressions. If you are having problems with the framework
 breaking your application when you upgrade from 5.0.11 to 5.1, please open an
-`issue<https://github.com/cakephp/cakephp/issues/new?template=bug_report.yml>`__.
+`issue <https://github.com/cakephp/cakephp/issues/new?template=bug_report.yml>`_.
 
 Bugfixes
 --------

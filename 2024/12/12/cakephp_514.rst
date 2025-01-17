@@ -11,7 +11,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 5.1.4. See the `changelog
-<https://github.com/cakephp/cakephp/compare/5.1.2...5.1.4>`_ for every commit.
+<https://github.com/cakephp/cakephp/compare/5.1.3...5.1.4>`_ for every commit.
 
 - Relaxed typehints to allow ``callable`` where previously typehints were
   ``Closure``.

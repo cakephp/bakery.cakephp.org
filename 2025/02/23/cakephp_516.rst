@@ -48,4 +48,4 @@ Download a `packaged release on github
 
 .. author:: markstory
 .. categories:: release, news
-.. tags:: release, news, security
+.. tags:: release, news

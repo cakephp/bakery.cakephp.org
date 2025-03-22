@@ -2,7 +2,7 @@ CakePHP 4.5.9
 ==============
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
-4.5.9. This is a maintenance release for the 4.4 branch that fixes a few
+4.5.9. This is a maintenance release for the 4.5 branch that fixes a few
 community reported issues and a security fix.
 
 Bugfixes

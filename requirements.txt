@@ -14,7 +14,7 @@ Pygments==2.7.4
 pyparsing==2.4.0
 pyquery==1.2.13
 pytz==2016.4
-requests==2.32.0
+requests==2.32.4
 six==1.10.0
 snowballstemmer==1.2.1
 Sphinx==1.7.0

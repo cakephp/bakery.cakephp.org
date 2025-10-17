@@ -11,7 +11,9 @@ to inccorrect query results. Other usage of subqueries are not impacted.
 I'd like to welcome `josbeir <https://github.com/josbeir>`_ to the CakePHP team.
 They have been actively been developing a refesh of the documentation. You can
 see a development preview of the documentation at
-`newbook.cakephp.org <https://newbook.cakephp.org/>`_.
+`newbook.cakephp.org <https://newbook.cakephp.org/>`_. If you have any feedback
+about the new documentation site, please open an `issue in GitHub
+<https://github.com/cakephp/docs/issues/new>`_.
 
 Bugfixes
 --------

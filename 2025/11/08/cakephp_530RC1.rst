@@ -23,11 +23,14 @@ correctness and new features. The highlights of those include:
   validation to the fields listed in the ``fields`` option.
 - Added ``TableContainer`` that you can register in your Application::services() to
   add dependency injection for your Tables.
-- Added ``SortableFieldsBuilder`` class enabling fluent configuration of
-  sortable fields with advanced features. The ``sortableFields`` option now
-  accepts a callable that receives a ``SortableFieldsBuilder`` instance,
-  allowing you to map friendly sort keys to database fields with multi-column
-  sorting and direction control.
+- Added a new fluent interface and value objects for defining sortable fields.
+  The ``sortableFields`` option now of ``Paginator`` now accepts a callable that
+  receives a ``SortableFieldsBuilder`` instance, allowing you to map friendly
+  sort keys to database fields with multi-column sorting and direction control.
+- Added ``SortField`` class for defining sort field configurations with
+  customizable default directions and locked directions, (e.g.
+  ``SortField::desc('created', locked: true)``).
+- Added support for combined sorting keys in URLs (e.g., ``?sort=title-asc``)
 - ``assertRedirectBack()`` and ``assertRedirectBackToReferer()`` were added to
   improve ergonomics of asserting redirects.
 - ``HtmlHelper::scriptStart()`` and ``scriptEnd()`` now allow simple

@@ -12,11 +12,12 @@ to inccorrect query results. Other usage of subqueries are not impacted.
 Bugfixes
 ---------
 
-You can expect the following changes in 4.6.3. See the [changelog](https://github.com/cakephp/cakephp/compare/4.6.2...4.6.3) for every commit.
+You can expect the following changes in 4.6.3. See the `changelog
+<https://github.com/cakephp/cakephp/compare/4.6.2...4.6.3>`_ for every commit.
 
 - Fixed PHP 8.4 and 8.5 deprecation warnings.
 - Fixed queries that use subqueries that already been executed.
-- Fixed Query::bind() not setting the dirty flag.
+- Fixed ``Query::bind()`` not setting the dirty flag.
 - Backported Cell action events
 
 Contributors to 4.6.3
@@ -36,6 +37,6 @@ or updated the documentation.
 Download a `packaged release on github
 <https://github.com/cakephp/cakephp/releases>`_.
 
-.. author:: markstory
+.. author:: othercorey
 .. categories:: release, news
 .. tags:: release, news

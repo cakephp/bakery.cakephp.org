@@ -9,7 +9,7 @@ Bugfixes
 --------
 
 You can expect the following changes in 5.2.9. See the `changelog
-<https://github.com/cakephp/cakephp/compare/5.2.7...5.2.9>`_ for every commit.
+<https://github.com/cakephp/cakephp/compare/5.2.8...5.2.9>`_ for every commit.
 
 * Improve PHPUnit usage in tests.
 * Fixed DI integration for Components.

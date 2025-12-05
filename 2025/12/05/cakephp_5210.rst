@@ -40,6 +40,6 @@ or updated the documentation.
 Download a `packaged release on github
 <https://github.com/cakephp/cakephp/releases>`_.
 
-.. author:: markstory
+.. author:: othercorey
 .. categories:: release, news
 .. tags:: release, news

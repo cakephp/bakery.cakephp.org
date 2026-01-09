@@ -14,7 +14,7 @@ You can expect the following changes in 5.2.11. See the `changelog
 * Fix completion command to exclude plugin-prefixed aliases. By default plugin
   prefixed commands are not included in the ``completion`` command output. Use
   ``-v`` to include all aliases.
-* Fixed `setTimezone()`` being called on ``Date`` instances in
+* Fixed ``setTimezone()`` being called on ``Date`` instances in
   ``RelativeTimeFormatter``.
 * Improve return type annotation for ``Validator::validate()``.
 * Improved API documentation.

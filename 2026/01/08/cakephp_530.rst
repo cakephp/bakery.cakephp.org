@@ -14,7 +14,7 @@ Some highlights of the 5.3.0 release include:
 
 - Added Redis Cluster support to ``RedisEngine``. Configure the ``cluster`` option
   with an array of server addresses to enable cluster mode.
-- Several :ref:`cache-events` were added to allow monitoring the caching behavior.
+- Several events were added to the Cache package to allow monitoring the caching behavior.
 - ``cake plugin assets symlink`` command now supports a ``--relative`` option to
   create relative path symlinks. This is useful when creating symlinks within
   containers that use volume mounts.

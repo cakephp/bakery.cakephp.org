@@ -2,8 +2,9 @@ CakePHP 5.3.1 Released
 ======================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
-5.3.1. This is a maintenance release for the 5.3 branch that fixes several
-community reported issues and regressions.
+5.3.1. This is a maintenance release for the 5.3 branch that fixes
+community reported issues, regressions and a security issue with
+``PaginatorHelper``.
 
 Bugfixes
 --------
@@ -11,7 +12,7 @@ Bugfixes
 You can expect the following changes in 5.3.1. See the `changelog
 <https://github.com/cakephp/cakephp/compare/5.3.0...5.3.1>`_ for every commit.
 
-* Fixed outputting unescaped html in ``PaginatorHelper``.
+* Fixed outputting unescaped HTML generated from request query string data in ``PaginatorHelper::limitControl()``.
 * Fixed plugin template paths.
 
 Contributors to 5.3.1
@@ -30,5 +31,5 @@ Download a `packaged release on github
 <https://github.com/cakephp/cakephp/releases>`_.
 
 .. author:: othercorey
-.. categories:: release, news
-.. tags:: release, news
+.. categories:: release, news, security
+.. tags:: release, news, security

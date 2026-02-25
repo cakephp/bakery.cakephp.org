@@ -2,8 +2,8 @@ CakePHP 5.3.2 Released
 ======================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
-5.3.2. This is a maintenance release for the 5.3 branch that fixes
-community reported issues, regressions and a security issue with ``PaginatorHelper``.
+5.3.2. This is a maintenance release for the 5.3 branch that fixes several
+community reported issues.
 
 Bugfixes
 --------

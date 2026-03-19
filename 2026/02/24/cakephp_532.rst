@@ -64,5 +64,5 @@ Download a `packaged release on github
 <https://github.com/cakephp/cakephp/releases>`_.
 
 .. author:: markstory
-.. categories:: release, news, security
-.. tags:: release, news, security
+.. categories:: release, news
+.. tags:: release, news

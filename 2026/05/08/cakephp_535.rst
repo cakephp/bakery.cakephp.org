@@ -11,7 +11,7 @@ Bugfixes
 You can expect the following changes in 5.3.5. See the `changelog
 <https://github.com/cakephp/cakephp/compare/5.3.4...5.3.5>`_ for every commit.
 
-* Fixed a regression where th SameSite cookie attributes would only be applied
+* Fixed a regression where the SameSite cookie attributes would only be applied
   to the ``php`` preset.
 * ``ConsoleOutput::write()`` now guards against closed file handles.
 * Console runner now shows help text instead of an error on invalid command

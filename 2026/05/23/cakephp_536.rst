@@ -6,7 +6,7 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 reported issues and a low severity security issue in ``View::element()``. Thank
 you to Nguyen Danh Quan (@z3moo) and Ta Quoc Hung (@get-wright) for reporting
 this issue through our security process. The security fix has been backported
-and released as 5.2.13, 5.1.6, 4.6.4, and 4.5.11 as well.
+and released as 5.2.13, 5.1.7, 4.6.4, and 4.5.11 as well.
 
 Bugfixes
 --------

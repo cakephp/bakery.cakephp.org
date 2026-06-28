@@ -3,8 +3,7 @@ CakePHP 5.4.0-RC1 Released
 
 The CakePHP core team is happy to announce the first release candidate for
 CakePHP 5.4.0. The 5.4 release includes several behavior changes to increase
-correctness and new features. The highlights of those include:
-
+correctness and new features.
 
 What's new in 5.4.0
 -------------------

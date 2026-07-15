@@ -5,7 +5,7 @@ The CakePHP core team is happy to announce the immediate availability of CakePHP
 4.6.5. This is a maintenance release for the 4.6 branch that fixes community
 reported issues and two security issues. Advisories will be published for the
 issues over the next week as vulnerability reviews are completed. Thank
-you to ``@unknownhand`` and Rotem Reiss for reporting these issues via our
+you to ``@unknownhad`` and Rotem Reiss for reporting these issues via our
 security process. The security fixes have been backported and released as
 4.5.12 as well.
 

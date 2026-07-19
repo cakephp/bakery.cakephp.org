@@ -22,7 +22,7 @@ Some highlights of the 5.4.0 release include:
 - Added ``JsonStreamResponse`` for more memory efficient streaming of large JSON
   responses.
 - Added several new expression builders for null-safe comparisons, and aggregations.
-- Added ``Connection::afterCommit()`` to register callbacks taht run after the
+- Added ``Connection::afterCommit()`` to register callbacks that run after the
   outermost transaction commits.
 - Additional postgres index metadata reflection and generation support was
   added.

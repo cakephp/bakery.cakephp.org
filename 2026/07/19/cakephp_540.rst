@@ -31,9 +31,9 @@ Some highlights of the 5.4.0 release include:
 - Added a PSR-13 Link header implementation.
 - ``Number::toReadableSizes()`` now defaults binary units (KiB = 1024 bytes)
   with ``setUseIecUnits()``.
-- ``I18n::setCacheConfig()`` lets you rename the ``_cake_transalations_`` cache
+- ``I18n::setCacheConfig()`` lets you rename the ``_cake_translations_`` cache
   profile.
-- ``cake i18 extract`` now extracts labels added with the ``#[Label]`` attribute.
+- ``cake i18n extract`` now extracts labels added with the ``#[Label]`` attribute.
 - The ``associated`` option in ``newEntity()`` and ``patchEntity()`` supports
   the nested array format used by ``contain()``.
 - ``TestCase::mockModel()`` enables mocking of model classes with Mockery.

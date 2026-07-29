@@ -4,7 +4,8 @@ CakePHP 5.4.1 Released
 The CakePHP core team is happy to announce the immediate availability of CakePHP
 5.4.1. This is a maintenance release for the 5.4 branch that fixes
 community reported issues, regressions and a security issue with
-``RateLimitMiddleware``.
+``RateLimitMiddleware``. Thank you to ``yousukezan`` for reporting the security
+issue via our mailing list.
 
 Bugfixes
 --------

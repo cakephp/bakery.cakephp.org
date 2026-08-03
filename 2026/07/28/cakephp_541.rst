@@ -21,7 +21,7 @@ You can expect the following changes in 5.4.1. See the `changelog
   ``x-forwarded-for`` to ``remote_addr``.
 * Improved API docs for ``FunctionsBuilder``.
 
-Contributors to 5.3.1
+Contributors to 5.4.1
 ----------------------
 
 Thank you to all the contributors that submitted a pull request:

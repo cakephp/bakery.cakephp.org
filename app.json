@@ -1,0 +1,15 @@
+{
+    "healthchecks": {
+        "web": [
+            {
+                "type": "startup",
+                "name": "web check",
+                "description": "Check for nginx liveliness",
+                "path": "/",
+                "port": 80,
+                "content": "CakePHP",
+                "attempts": 3
+            }
+        ]
+    }
+}

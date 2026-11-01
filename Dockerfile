@@ -1,6 +1,6 @@
 # Use a multi-stage build to generate the site with python
 # and serve the generated HTML with nginx
-FROM python:3.10-alpine as builder
+FROM python:3.10-alpine AS builder
 
 LABEL Description="Create an image to deploy bakery.cakephp.org"
 

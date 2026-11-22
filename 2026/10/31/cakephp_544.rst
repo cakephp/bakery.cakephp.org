@@ -2,7 +2,7 @@ CakePHP 5.4.4 and 4.6.6 Released
 ================================
 
 The CakePHP core team is happy to announce the immediate availability of CakePHP
-5.4.3. This is a maintenance release for the 5.4 branch that fixes security
+5.4.4. This is a maintenance release for the 5.4 branch that fixes security
 issues, community reported issues, regressions. The security fixes have also
 been released as 5.2.16, 5.3.8, and 4.6.6. Security advisories will be released
 in the upcoming days as they are assigned CVE numbers.
